@@ -1,0 +1,69 @@
+
+Drop_Chip.png
+size: 625,623
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+88 (10)
+  rotate: false
+  xy: 2, 17
+  size: 186, 172
+  orig: 186, 172
+  offset: 0, 0
+  index: -1
+88 (11)
+  rotate: false
+  xy: 260, 275
+  size: 183, 172
+  orig: 183, 172
+  offset: 0, 0
+  index: -1
+88 (12)
+  rotate: false
+  xy: 445, 275
+  size: 176, 172
+  orig: 176, 172
+  offset: 0, 0
+  index: -1
+88 (13)
+  rotate: false
+  xy: 448, 449
+  size: 175, 172
+  orig: 175, 172
+  offset: 0, 0
+  index: -1
+88 (6)
+  rotate: false
+  xy: 373, 101
+  size: 179, 172
+  orig: 179, 172
+  offset: 0, 0
+  index: -1
+88 (7)
+  rotate: false
+  xy: 190, 101
+  size: 181, 172
+  orig: 181, 172
+  offset: 0, 0
+  index: -1
+88 (8)
+  rotate: false
+  xy: 2, 191
+  size: 186, 172
+  orig: 186, 172
+  offset: 0, 0
+  index: -1
+88 (9)
+  rotate: false
+  xy: 260, 449
+  size: 186, 172
+  orig: 186, 172
+  offset: 0, 0
+  index: -1
+File 000449_1-1
+  rotate: false
+  xy: 2, 365
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1

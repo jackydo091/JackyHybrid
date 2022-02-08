@@ -1,0 +1,27 @@
+
+Fx_Skill_Using.png
+size: 88,186
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/circle_K
+  rotate: false
+  xy: 2, 27
+  size: 74, 74
+  orig: 74, 74
+  offset: 0, 0
+  index: -1
+images/circle_K_2
+  rotate: false
+  xy: 2, 103
+  size: 82, 81
+  orig: 82, 81
+  offset: 0, 0
+  index: -1
+images/square_1
+  rotate: true
+  xy: 2, 2
+  size: 23, 84
+  orig: 23, 84
+  offset: 0, 0
+  index: -1

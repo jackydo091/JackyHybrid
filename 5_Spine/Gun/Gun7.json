@@ -1,0 +1,2351 @@
+{
+"skeleton": { "hash": "oS+4hcsS8ioL718QC/KtJ7y/OPY", "spine": "3.7.94", "width": 104.8, "height": 124.4 },
+"bones": [
+	{ "name": "root" },
+	{ "name": "MIB_Gun7", "parent": "root", "y": -6.88, "scaleX": 0.4, "scaleY": 0.4 },
+	{ "name": "Gun7_Light2", "parent": "MIB_Gun7", "y": 45 },
+	{ "name": "Gun7_Glow", "parent": "Gun7_Light2" },
+	{ "name": "Gun7_Barrel", "parent": "MIB_Gun7", "x": -3.17, "y": 110 },
+	{ "name": "Gun7_star", "parent": "Gun7_Barrel", "x": 2, "y": 60 },
+	{ "name": "Gun7_Barrel_Rotate", "parent": "Gun7_Barrel", "x": -9, "y": 122.44 },
+	{ "name": "Gun7_star2", "parent": "Gun7_Barrel", "x": -25, "y": 60, "scaleX": 0.5 },
+	{ "name": "Gun7_star3", "parent": "Gun7_Barrel", "x": 29, "y": 60, "scaleX": 0.5 },
+	{ "name": "Gun7_Barrel_Rotate2", "parent": "Gun7_Barrel", "x": -27, "y": 122.44 },
+	{ "name": "Gun7_Barrel_Rotate3", "parent": "Gun7_Barrel", "x": 10, "y": 122.44 },
+	{ "name": "Gun7_Barrel_Rotate4", "parent": "Gun7_Barrel", "x": 29, "y": 122.44 },
+	{ "name": "Gun7_star4", "parent": "Gun7_Barrel", "x": -25, "y": 60, "scaleX": 0.5 },
+	{ "name": "Gun7_Barrel_Rotate5", "parent": "Gun7_Barrel", "x": 29, "y": 122.44 },
+	{ "name": "Gun7_Barrel2", "parent": "MIB_Gun7", "x": -66.57, "y": 89.71, "scaleX": 0.88, "scaleY": 0.88 },
+	{ "name": "Gun7_star5", "parent": "Gun7_Barrel2", "x": 2, "y": 60 },
+	{ "name": "Gun7_Barrel_Rotate6", "parent": "Gun7_Barrel2", "x": -9, "y": 122.44 },
+	{ "name": "Gun7_star6", "parent": "Gun7_Barrel2", "x": -25, "y": 60, "scaleX": 0.5 },
+	{ "name": "Gun7_star7", "parent": "Gun7_Barrel2", "x": 29, "y": 60, "scaleX": 0.5 },
+	{ "name": "Gun7_Barrel_Rotate7", "parent": "Gun7_Barrel2", "x": -27, "y": 122.44 },
+	{ "name": "Gun7_Barrel_Rotate8", "parent": "Gun7_Barrel2", "x": 10, "y": 122.44 },
+	{ "name": "Gun7_Barrel_Rotate9", "parent": "Gun7_Barrel2", "x": 29, "y": 122.44 },
+	{ "name": "Gun7_star8", "parent": "Gun7_Barrel2", "x": -25, "y": 60, "scaleX": 0.5 },
+	{ "name": "Gun7_Barrel_Rotate10", "parent": "Gun7_Barrel2", "x": 29, "y": 122.44 },
+	{ "name": "Gun7_Barrel3", "parent": "MIB_Gun7", "x": 64.03, "y": 89.71, "scaleX": -0.88, "scaleY": 0.88 },
+	{ "name": "Gun7_star9", "parent": "Gun7_Barrel3", "x": 2, "y": 60 },
+	{ "name": "Gun7_Barrel_Rotate11", "parent": "Gun7_Barrel3", "x": -9, "y": 122.44 },
+	{ "name": "Gun7_star10", "parent": "Gun7_Barrel3", "x": -25, "y": 60, "scaleX": 0.5 },
+	{ "name": "Gun7_star11", "parent": "Gun7_Barrel3", "x": 29, "y": 60, "scaleX": 0.5 },
+	{ "name": "Gun7_Barrel_Rotate12", "parent": "Gun7_Barrel3", "x": -27, "y": 122.44 },
+	{ "name": "Gun7_Barrel_Rotate13", "parent": "Gun7_Barrel3", "x": 10, "y": 122.44 },
+	{ "name": "Gun7_Barrel_Rotate14", "parent": "Gun7_Barrel3", "x": 29, "y": 122.44 },
+	{ "name": "Gun7_star12", "parent": "Gun7_Barrel3", "x": -25, "y": 60, "scaleX": 0.5 },
+	{ "name": "Gun7_Barrel_Rotate15", "parent": "Gun7_Barrel3", "x": 29, "y": 122.44 },
+	{
+		"name": "Fx",
+		"parent": "MIB_Gun7",
+		"rotation": 16.91,
+		"x": 3.88,
+		"y": 72.46,
+		"scaleX": 1.2,
+		"scaleY": 1.2
+	},
+	{
+		"name": "Fx_2",
+		"parent": "MIB_Gun7",
+		"rotation": 16.91,
+		"x": 3.88,
+		"y": 72.46,
+		"scaleX": 1.2,
+		"scaleY": 1.2
+	},
+	{ "name": "Gun7_Glow2", "parent": "Gun7_Light2", "x": -32.83, "y": 55.3 },
+	{ "name": "Gun7_Glow3", "parent": "Gun7_Light2", "x": 28.08, "y": 55.3 }
+],
+"slots": [
+	{ "name": "Gun7_Body", "bone": "MIB_Gun7", "attachment": "Gun7/Gun7_Body" },
+	{ "name": "Gun7/Gun7_Barrel", "bone": "Gun7_Barrel", "attachment": "Gun7/Gun7_Barrel" },
+	{ "name": "Gun7/Gun7_Barrel3", "bone": "Gun7_Barrel2", "attachment": "Gun7/Gun7_Barrel" },
+	{ "name": "Gun7/Gun7_Barrel5", "bone": "Gun7_Barrel3", "attachment": "Gun7/Gun7_Barrel" },
+	{ "name": "Gun7/Gun7_Barrel2", "bone": "Gun7_Barrel", "color": "ffffff00", "attachment": "Gun7/Gun7_Barrel" },
+	{ "name": "Gun7/Gun7_Barrel4", "bone": "Gun7_Barrel2", "color": "ffffff00", "attachment": "Gun7/Gun7_Barrel" },
+	{ "name": "Gun7/Gun7_Barrel6", "bone": "Gun7_Barrel3", "color": "ffffff00", "attachment": "Gun7/Gun7_Barrel" },
+	{ "name": "Gun7/Gun7_star", "bone": "Gun7_star", "attachment": "Gun7/Gun7_star" },
+	{ "name": "Gun7/Gun7_star5", "bone": "Gun7_star5", "attachment": "Gun7/Gun7_star" },
+	{ "name": "Gun7/Gun7_star9", "bone": "Gun7_star9", "attachment": "Gun7/Gun7_star" },
+	{ "name": "Gun7/Gun7_star3", "bone": "Gun7_star3", "attachment": "Gun7/Gun7_star" },
+	{ "name": "Gun7/Gun7_star7", "bone": "Gun7_star7", "attachment": "Gun7/Gun7_star" },
+	{ "name": "Gun7/Gun7_star11", "bone": "Gun7_star11", "attachment": "Gun7/Gun7_star" },
+	{ "name": "Gun7/Gun7_star2", "bone": "Gun7_star2", "attachment": "Gun7/Gun7_star" },
+	{ "name": "Gun7/Gun7_star6", "bone": "Gun7_star6", "attachment": "Gun7/Gun7_star" },
+	{ "name": "Gun7/Gun7_star10", "bone": "Gun7_star10", "attachment": "Gun7/Gun7_star" },
+	{ "name": "Gun7/Gun7_star4", "bone": "Gun7_star4" },
+	{ "name": "Gun7/Gun7_star8", "bone": "Gun7_star8" },
+	{ "name": "Gun7/Gun7_star12", "bone": "Gun7_star12" },
+	{ "name": "Gun7_Gun7/Light2", "bone": "Gun7_Light2", "attachment": "Gun7/Gun7_Light2" },
+	{ "name": "Gun7_Gun7/Light", "bone": "MIB_Gun7", "attachment": "Gun7/Gun7_Light" },
+	{ "name": "Gun7_Glow", "bone": "Gun7_Glow", "attachment": "Gun7/Gun7_Glow" },
+	{ "name": "Gun7_Glow2", "bone": "Gun7_Glow2", "attachment": "Gun7/Gun7_Glow" },
+	{ "name": "Gun7_Glow3", "bone": "Gun7_Glow3", "attachment": "Gun7/Gun7_Glow" },
+	{ "name": "Gun7/Gun7_BarrelHead", "bone": "Gun7_Barrel", "attachment": "Gun7/Gun7_BarrelHead" },
+	{ "name": "Gun7/Gun7_BarrelHead2", "bone": "Gun7_Barrel2", "attachment": "Gun7/Gun7_BarrelHead" },
+	{ "name": "Gun7/Gun7_BarrelHead3", "bone": "Gun7_Barrel3", "attachment": "Gun7/Gun7_BarrelHead" },
+	{ "name": "Gun7/Gun7_Barrel_Rotate", "bone": "Gun7_Barrel_Rotate", "attachment": "Gun7/Gun7_Barrel_Rotate" },
+	{ "name": "Gun7/Gun7_Barrel_Rotate6", "bone": "Gun7_Barrel_Rotate6", "attachment": "Gun7/Gun7_Barrel_Rotate" },
+	{ "name": "Gun7/Gun7_Barrel_Rotate11", "bone": "Gun7_Barrel_Rotate11", "attachment": "Gun7/Gun7_Barrel_Rotate" },
+	{ "name": "Gun7/Gun7_Barrel_Rotate3", "bone": "Gun7_Barrel_Rotate3", "attachment": "Gun7/Gun7_Barrel_Rotate" },
+	{ "name": "Gun7/Gun7_Barrel_Rotate8", "bone": "Gun7_Barrel_Rotate8", "attachment": "Gun7/Gun7_Barrel_Rotate" },
+	{ "name": "Gun7/Gun7_Barrel_Rotate13", "bone": "Gun7_Barrel_Rotate13", "attachment": "Gun7/Gun7_Barrel_Rotate" },
+	{ "name": "Gun7/Gun7_Barrel_Rotate4", "bone": "Gun7_Barrel_Rotate4", "attachment": "Gun7/Gun7_Barrel_Rotate" },
+	{ "name": "Gun7/Gun7_Barrel_Rotate9", "bone": "Gun7_Barrel_Rotate9", "attachment": "Gun7/Gun7_Barrel_Rotate" },
+	{ "name": "Gun7/Gun7_Barrel_Rotate14", "bone": "Gun7_Barrel_Rotate14", "attachment": "Gun7/Gun7_Barrel_Rotate" },
+	{ "name": "Gun7/Gun7_Barrel_Rotate5", "bone": "Gun7_Barrel_Rotate5", "attachment": "Gun7/Gun7_Barrel_Rotate" },
+	{ "name": "Gun7/Gun7_Barrel_Rotate10", "bone": "Gun7_Barrel_Rotate10", "attachment": "Gun7/Gun7_Barrel_Rotate" },
+	{ "name": "Gun7/Gun7_Barrel_Rotate15", "bone": "Gun7_Barrel_Rotate15", "attachment": "Gun7/Gun7_Barrel_Rotate" },
+	{ "name": "Gun7/Gun7_Barrel_Rotate2", "bone": "Gun7_Barrel_Rotate2", "attachment": "Gun7/Gun7_Barrel_Rotate" },
+	{ "name": "Gun7/Gun7_Barrel_Rotate7", "bone": "Gun7_Barrel_Rotate7", "attachment": "Gun7/Gun7_Barrel_Rotate" },
+	{ "name": "Gun7/Gun7_Barrel_Rotate12", "bone": "Gun7_Barrel_Rotate12", "attachment": "Gun7/Gun7_Barrel_Rotate" },
+	{ "name": "Gun7/Elements - Electricity 014 Charge Radial Loop noCT noRSZ_00000", "bone": "Fx", "dark": "ff00ef" },
+	{ "name": "Gun7/Elements - Electricity 014 Charge Radial Loop noCT noRSZ_0", "bone": "Fx_2", "dark": "ff00ef" },
+	{ "name": "Gun7/Light_Gun7_Wi", "bone": "Gun7_Light2", "attachment": "Gun7/Light_Gun7_Wi" },
+	{ "name": "Gun7/Light_Gun7_Wi2", "bone": "Gun7_Light2", "attachment": "Gun7/Light_Gun7_Wi" },
+	{ "name": "Gun7/Light_Gun7_Wi3", "bone": "Gun7_Light2", "attachment": "Gun7/Light_Gun7_Wi" },
+	{ "name": "Gun7/Light_Gun7_Wi4", "bone": "Gun7_Light2", "attachment": "Gun7/Light_Gun7_Wi" },
+	{ "name": "Gun7/Light_Gun7_Wi5", "bone": "Gun7_Light2", "attachment": "Gun7/Light_Gun7_Wi" },
+	{ "name": "Gun7/Light_Gun7_Wi6", "bone": "Gun7_Light2", "attachment": "Gun7/Light_Gun7_Wi" },
+	{ "name": "Gun7/Light_Gun7_Wi7", "bone": "Gun7_Light2", "attachment": "Gun7/Light_Gun7_Wi" },
+	{ "name": "Gun7/Light_Gun7_Wi8", "bone": "Gun7_Light2", "attachment": "Gun7/Light_Gun7_Wi" },
+	{ "name": "Gun7/Light_Gun7_Wi9", "bone": "Gun7_Light2", "attachment": "Gun7/Light_Gun7_Wi" },
+	{ "name": "Gun7/Light_Gun7_Wi10", "bone": "Gun7_Light2", "attachment": "Gun7/Light_Gun7_Wi" },
+	{ "name": "Gun7/Light_Gun7_Wi11", "bone": "Gun7_Light2", "attachment": "Gun7/Light_Gun7_Wi" },
+	{ "name": "Gun7/Light_Gun7_Wi12", "bone": "Gun7_Light2", "attachment": "Gun7/Light_Gun7_Wi" },
+	{ "name": "Gun7/Light_Gun7_Wi13", "bone": "Gun7_Light2", "attachment": "Gun7/Light_Gun7_Wi" },
+	{ "name": "Gun7/Light_Gun7_Wi14", "bone": "Gun7_Light2", "attachment": "Gun7/Light_Gun7_Wi" },
+	{ "name": "Gun7/Light_Gun7_Wi15", "bone": "Gun7_Light2", "attachment": "Gun7/Light_Gun7_Wi" }
+],
+"skins": {
+	"default": {
+		"Gun7/Elements - Electricity 014 Charge Radial Loop noCT noRSZ_0": {
+			"Gun7/Elements - Electricity 014 Charge Radial Loop noCT noRSZ_00000": { "width": 100, "height": 100 },
+			"Gun7/Elements - Electricity 014 Charge Radial Loop noCT noRSZ_00002": { "width": 100, "height": 100 },
+			"Gun7/Elements - Electricity 014 Charge Radial Loop noCT noRSZ_00004": { "width": 100, "height": 100 },
+			"Gun7/Elements - Electricity 014 Charge Radial Loop noCT noRSZ_00006": { "width": 100, "height": 100 },
+			"Gun7/Elements - Electricity 014 Charge Radial Loop noCT noRSZ_00008": { "width": 100, "height": 100 },
+			"Gun7/Elements - Electricity 014 Charge Radial Loop noCT noRSZ_00010": { "width": 100, "height": 100 },
+			"Gun7/Elements - Electricity 014 Charge Radial Loop noCT noRSZ_00013": { "width": 100, "height": 100 },
+			"Gun7/Elements - Electricity 014 Charge Radial Loop noCT noRSZ_00015": { "width": 100, "height": 100 },
+			"Gun7/Elements - Electricity 014 Charge Radial Loop noCT noRSZ_00017": { "width": 100, "height": 100 }
+		},
+		"Gun7/Elements - Electricity 014 Charge Radial Loop noCT noRSZ_00000": {
+			"Gun7/Elements - Electricity 014 Charge Radial Loop noCT noRSZ_00000": { "width": 100, "height": 100 },
+			"Gun7/Elements - Electricity 014 Charge Radial Loop noCT noRSZ_00002": { "width": 100, "height": 100 },
+			"Gun7/Elements - Electricity 014 Charge Radial Loop noCT noRSZ_00004": { "width": 100, "height": 100 },
+			"Gun7/Elements - Electricity 014 Charge Radial Loop noCT noRSZ_00006": { "width": 100, "height": 100 },
+			"Gun7/Elements - Electricity 014 Charge Radial Loop noCT noRSZ_00008": { "width": 100, "height": 100 },
+			"Gun7/Elements - Electricity 014 Charge Radial Loop noCT noRSZ_00010": { "width": 100, "height": 100 },
+			"Gun7/Elements - Electricity 014 Charge Radial Loop noCT noRSZ_00013": { "width": 100, "height": 100 },
+			"Gun7/Elements - Electricity 014 Charge Radial Loop noCT noRSZ_00015": { "width": 100, "height": 100 },
+			"Gun7/Elements - Electricity 014 Charge Radial Loop noCT noRSZ_00017": { "width": 100, "height": 100 }
+		},
+		"Gun7/Gun7_Barrel": {
+			"Gun7/Gun7_Barrel": { "x": 0.11, "y": 53.29, "width": 84, "height": 108 }
+		},
+		"Gun7/Gun7_Barrel2": {
+			"Gun7/Gun7_Barrel": { "x": 3.77, "y": 53.29, "scaleX": -1, "width": 84, "height": 108 }
+		},
+		"Gun7/Gun7_Barrel3": {
+			"Gun7/Gun7_Barrel": { "x": 0.11, "y": 53.29, "width": 84, "height": 108 }
+		},
+		"Gun7/Gun7_Barrel4": {
+			"Gun7/Gun7_Barrel": { "x": 3.77, "y": 53.29, "scaleX": -1, "width": 84, "height": 108 }
+		},
+		"Gun7/Gun7_Barrel5": {
+			"Gun7/Gun7_Barrel": { "x": 0.11, "y": 53.29, "width": 84, "height": 108 }
+		},
+		"Gun7/Gun7_Barrel6": {
+			"Gun7/Gun7_Barrel": { "x": 3.77, "y": 53.29, "scaleX": -1, "width": 84, "height": 108 }
+		},
+		"Gun7/Gun7_BarrelHead": {
+			"Gun7/Gun7_BarrelHead": { "x": 2.61, "y": 130.29, "width": 63, "height": 50 }
+		},
+		"Gun7/Gun7_BarrelHead2": {
+			"Gun7/Gun7_BarrelHead": { "x": 2.61, "y": 130.29, "width": 63, "height": 50 }
+		},
+		"Gun7/Gun7_BarrelHead3": {
+			"Gun7/Gun7_BarrelHead": { "x": 2.61, "y": 130.29, "width": 63, "height": 50 }
+		},
+		"Gun7/Gun7_Barrel_Rotate": {
+			"Gun7/Gun7_Barrel_Rotate": {
+				"type": "mesh",
+				"uvs": [ 1, 1, 0, 1, 0, 0, 1, 0 ],
+				"triangles": [ 1, 2, 3, 1, 3, 0 ],
+				"vertices": [ 9.01, -17.15, -7.99, -17.15, -7.99, 16.85, 9.01, 16.85 ],
+				"hull": 4
+			}
+		},
+		"Gun7/Gun7_Barrel_Rotate10": {
+			"Gun7/Gun7_Barrel_Rotate": {
+				"type": "mesh",
+				"uvs": [ 1, 1, 0, 1, 0, 0, 1, 0 ],
+				"triangles": [ 1, 2, 3, 1, 3, 0 ],
+				"vertices": [ 9.01, -17.15, -7.99, -17.15, -7.99, 16.85, 9.01, 16.85 ],
+				"hull": 4
+			}
+		},
+		"Gun7/Gun7_Barrel_Rotate11": {
+			"Gun7/Gun7_Barrel_Rotate": {
+				"type": "mesh",
+				"uvs": [ 1, 1, 0, 1, 0, 0, 1, 0 ],
+				"triangles": [ 1, 2, 3, 1, 3, 0 ],
+				"vertices": [ 9.01, -17.15, -7.99, -17.15, -7.99, 16.85, 9.01, 16.85 ],
+				"hull": 4
+			}
+		},
+		"Gun7/Gun7_Barrel_Rotate12": {
+			"Gun7/Gun7_Barrel_Rotate": {
+				"type": "mesh",
+				"uvs": [ 1, 1, 0, 1, 0, 0, 1, 0 ],
+				"triangles": [ 1, 2, 3, 1, 3, 0 ],
+				"vertices": [ 9.01, -17.15, -7.99, -17.15, -7.99, 16.85, 9.01, 16.85 ],
+				"hull": 4
+			}
+		},
+		"Gun7/Gun7_Barrel_Rotate13": {
+			"Gun7/Gun7_Barrel_Rotate": {
+				"type": "mesh",
+				"uvs": [ 1, 1, 0, 1, 0, 0, 1, 0 ],
+				"triangles": [ 1, 2, 3, 1, 3, 0 ],
+				"vertices": [ 9.01, -17.15, -7.99, -17.15, -7.99, 16.85, 9.01, 16.85 ],
+				"hull": 4
+			}
+		},
+		"Gun7/Gun7_Barrel_Rotate14": {
+			"Gun7/Gun7_Barrel_Rotate": {
+				"type": "mesh",
+				"uvs": [ 1, 1, 0, 1, 0, 0, 1, 0 ],
+				"triangles": [ 1, 2, 3, 1, 3, 0 ],
+				"vertices": [ 9.01, -17.15, -7.99, -17.15, -7.99, 16.85, 9.01, 16.85 ],
+				"hull": 4
+			}
+		},
+		"Gun7/Gun7_Barrel_Rotate15": {
+			"Gun7/Gun7_Barrel_Rotate": {
+				"type": "mesh",
+				"uvs": [ 1, 1, 0, 1, 0, 0, 1, 0 ],
+				"triangles": [ 1, 2, 3, 1, 3, 0 ],
+				"vertices": [ 9.01, -17.15, -7.99, -17.15, -7.99, 16.85, 9.01, 16.85 ],
+				"hull": 4
+			}
+		},
+		"Gun7/Gun7_Barrel_Rotate2": {
+			"Gun7/Gun7_Barrel_Rotate": {
+				"type": "mesh",
+				"uvs": [ 1, 1, 0, 1, 0, 0, 1, 0 ],
+				"triangles": [ 1, 2, 3, 1, 3, 0 ],
+				"vertices": [ 9.01, -17.15, -7.99, -17.15, -7.99, 16.85, 9.01, 16.85 ],
+				"hull": 4
+			}
+		},
+		"Gun7/Gun7_Barrel_Rotate3": {
+			"Gun7/Gun7_Barrel_Rotate": {
+				"type": "mesh",
+				"uvs": [ 1, 1, 0, 1, 0, 0, 1, 0 ],
+				"triangles": [ 1, 2, 3, 1, 3, 0 ],
+				"vertices": [ 9.01, -17.15, -7.99, -17.15, -7.99, 16.85, 9.01, 16.85 ],
+				"hull": 4
+			}
+		},
+		"Gun7/Gun7_Barrel_Rotate4": {
+			"Gun7/Gun7_Barrel_Rotate": {
+				"type": "mesh",
+				"uvs": [ 1, 1, 0, 1, 0, 0, 1, 0 ],
+				"triangles": [ 1, 2, 3, 1, 3, 0 ],
+				"vertices": [ 9.01, -17.15, -7.99, -17.15, -7.99, 16.85, 9.01, 16.85 ],
+				"hull": 4
+			}
+		},
+		"Gun7/Gun7_Barrel_Rotate5": {
+			"Gun7/Gun7_Barrel_Rotate": {
+				"type": "mesh",
+				"uvs": [ 1, 1, 0, 1, 0, 0, 1, 0 ],
+				"triangles": [ 1, 2, 3, 1, 3, 0 ],
+				"vertices": [ 9.01, -17.15, -7.99, -17.15, -7.99, 16.85, 9.01, 16.85 ],
+				"hull": 4
+			}
+		},
+		"Gun7/Gun7_Barrel_Rotate6": {
+			"Gun7/Gun7_Barrel_Rotate": {
+				"type": "mesh",
+				"uvs": [ 1, 1, 0, 1, 0, 0, 1, 0 ],
+				"triangles": [ 1, 2, 3, 1, 3, 0 ],
+				"vertices": [ 9.01, -17.15, -7.99, -17.15, -7.99, 16.85, 9.01, 16.85 ],
+				"hull": 4
+			}
+		},
+		"Gun7/Gun7_Barrel_Rotate7": {
+			"Gun7/Gun7_Barrel_Rotate": {
+				"type": "mesh",
+				"uvs": [ 1, 1, 0, 1, 0, 0, 1, 0 ],
+				"triangles": [ 1, 2, 3, 1, 3, 0 ],
+				"vertices": [ 9.01, -17.15, -7.99, -17.15, -7.99, 16.85, 9.01, 16.85 ],
+				"hull": 4
+			}
+		},
+		"Gun7/Gun7_Barrel_Rotate8": {
+			"Gun7/Gun7_Barrel_Rotate": {
+				"type": "mesh",
+				"uvs": [ 1, 1, 0, 1, 0, 0, 1, 0 ],
+				"triangles": [ 1, 2, 3, 1, 3, 0 ],
+				"vertices": [ 9.01, -17.15, -7.99, -17.15, -7.99, 16.85, 9.01, 16.85 ],
+				"hull": 4
+			}
+		},
+		"Gun7/Gun7_Barrel_Rotate9": {
+			"Gun7/Gun7_Barrel_Rotate": {
+				"type": "mesh",
+				"uvs": [ 1, 1, 0, 1, 0, 0, 1, 0 ],
+				"triangles": [ 1, 2, 3, 1, 3, 0 ],
+				"vertices": [ 9.01, -17.15, -7.99, -17.15, -7.99, 16.85, 9.01, 16.85 ],
+				"hull": 4
+			}
+		},
+		"Gun7/Gun7_star": {
+			"Gun7/Gun7_star": { "x": 0.24, "y": -0.17, "width": 19, "height": 17 }
+		},
+		"Gun7/Gun7_star10": {
+			"Gun7/Gun7_star": { "x": 0.24, "y": -0.17, "width": 19, "height": 17 }
+		},
+		"Gun7/Gun7_star11": {
+			"Gun7/Gun7_star": { "x": 0.24, "y": -0.17, "width": 19, "height": 17 }
+		},
+		"Gun7/Gun7_star12": {
+			"Gun7/Gun7_star": { "x": 0.24, "y": -0.17, "width": 19, "height": 17 }
+		},
+		"Gun7/Gun7_star2": {
+			"Gun7/Gun7_star": { "x": 0.24, "y": -0.17, "width": 19, "height": 17 }
+		},
+		"Gun7/Gun7_star3": {
+			"Gun7/Gun7_star": { "x": 0.24, "y": -0.17, "width": 19, "height": 17 }
+		},
+		"Gun7/Gun7_star4": {
+			"Gun7/Gun7_star": { "x": 0.24, "y": -0.17, "width": 19, "height": 17 }
+		},
+		"Gun7/Gun7_star5": {
+			"Gun7/Gun7_star": { "x": 0.24, "y": -0.17, "width": 19, "height": 17 }
+		},
+		"Gun7/Gun7_star6": {
+			"Gun7/Gun7_star": { "x": 0.24, "y": -0.17, "width": 19, "height": 17 }
+		},
+		"Gun7/Gun7_star7": {
+			"Gun7/Gun7_star": { "x": 0.24, "y": -0.17, "width": 19, "height": 17 }
+		},
+		"Gun7/Gun7_star8": {
+			"Gun7/Gun7_star": { "x": 0.24, "y": -0.17, "width": 19, "height": 17 }
+		},
+		"Gun7/Gun7_star9": {
+			"Gun7/Gun7_star": { "x": 0.24, "y": -0.17, "width": 19, "height": 17 }
+		},
+		"Gun7/Light_Gun7_Wi": {
+			"Gun7/Light_Gun7_Wi": {
+				"x": -4.09,
+				"y": 18.98,
+				"scaleX": 0.894,
+				"scaleY": 0.894,
+				"rotation": -125.16,
+				"width": 9,
+				"height": 9
+			}
+		},
+		"Gun7/Light_Gun7_Wi10": {
+			"Gun7/Light_Gun7_Wi": { "x": -12.58, "y": -16.44, "rotation": 1.97, "width": 9, "height": 9 }
+		},
+		"Gun7/Light_Gun7_Wi11": {
+			"Gun7/Light_Gun7_Wi": { "x": -18.03, "y": -10.17, "rotation": -20.85, "width": 9, "height": 9 }
+		},
+		"Gun7/Light_Gun7_Wi12": {
+			"Gun7/Light_Gun7_Wi": { "x": -21.06, "y": -3.51, "rotation": -41.9, "width": 9, "height": 9 }
+		},
+		"Gun7/Light_Gun7_Wi13": {
+			"Gun7/Light_Gun7_Wi": { "x": -20.46, "y": 4.37, "rotation": -70.61, "width": 9, "height": 9 }
+		},
+		"Gun7/Light_Gun7_Wi14": {
+			"Gun7/Light_Gun7_Wi": {
+				"x": -15.81,
+				"y": 12.05,
+				"scaleX": 0.937,
+				"scaleY": 0.937,
+				"rotation": -91.47,
+				"width": 9,
+				"height": 9
+			}
+		},
+		"Gun7/Light_Gun7_Wi15": {
+			"Gun7/Light_Gun7_Wi": {
+				"x": -10.36,
+				"y": 16.29,
+				"scaleX": 0.912,
+				"scaleY": 0.912,
+				"rotation": -113.86,
+				"width": 9,
+				"height": 9
+			}
+		},
+		"Gun7/Light_Gun7_Wi2": {
+			"Gun7/Light_Gun7_Wi": { "x": 3.5, "y": 18.92, "rotation": -151.97, "width": 9, "height": 9 }
+		},
+		"Gun7/Light_Gun7_Wi3": {
+			"Gun7/Light_Gun7_Wi": { "x": 11.33, "y": 15.49, "rotation": -175.53, "width": 9, "height": 9 }
+		},
+		"Gun7/Light_Gun7_Wi4": {
+			"Gun7/Light_Gun7_Wi": { "x": 18.13, "y": 9.42, "rotation": 164.4, "width": 9, "height": 9 }
+		},
+		"Gun7/Light_Gun7_Wi5": {
+			"Gun7/Light_Gun7_Wi": { "x": 20.95, "y": 1.34, "rotation": 127.82, "width": 9, "height": 9 }
+		},
+		"Gun7/Light_Gun7_Wi6": {
+			"Gun7/Light_Gun7_Wi": { "x": 19.54, "y": -7.14, "rotation": 103.12, "width": 9, "height": 9 }
+		},
+		"Gun7/Light_Gun7_Wi7": {
+			"Gun7/Light_Gun7_Wi": { "x": 15.1, "y": -13.81, "rotation": 80.74, "width": 9, "height": 9 }
+		},
+		"Gun7/Light_Gun7_Wi8": {
+			"Gun7/Light_Gun7_Wi": { "x": 6.61, "y": -19, "rotation": 57.84, "width": 9, "height": 9 }
+		},
+		"Gun7/Light_Gun7_Wi9": {
+			"Gun7/Light_Gun7_Wi": { "x": -3.89, "y": -19.67, "rotation": 32.27, "width": 9, "height": 9 }
+		},
+		"Gun7_Body": {
+			"Gun7/Gun7_Body": { "x": -1.89, "y": 27.79, "width": 262, "height": 147 }
+		},
+		"Gun7_Glow": {
+			"Gun7/Gun7_Glow": { "x": -0.39, "y": -0.71, "width": 55, "height": 54 }
+		},
+		"Gun7_Glow2": {
+			"Gun7/Gun7_Glow": { "color": "ffffff3f", "x": -0.39, "y": -0.71, "width": 55, "height": 54 }
+		},
+		"Gun7_Glow3": {
+			"Gun7/Gun7_Glow": { "color": "ffffff3f", "x": -0.39, "y": -0.71, "width": 55, "height": 54 }
+		},
+		"Gun7_Gun7/Light": {
+			"Gun7/Gun7_Light": { "x": -0.89, "y": 110.79, "width": 108, "height": 65 }
+		},
+		"Gun7_Gun7/Light2": {
+			"Gun7/Gun7_Light2": { "x": -0.39, "y": 0.29, "width": 73, "height": 68 }
+		}
+	}
+},
+"animations": {
+	"idle": {
+		"slots": {
+			"Gun7_Glow": {
+				"color": [
+					{
+						"time": 0,
+						"color": "ffffff78",
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.1333,
+						"color": "ffffff39",
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.2667,
+						"color": "ffffff78",
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.4,
+						"color": "ffffff39",
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 0.5333, "color": "ffffff78" }
+				]
+			},
+			"Gun7/Elements - Electricity 014 Charge Radial Loop noCT noRSZ_00000": {
+				"attachment": [
+					{ "time": 0, "name": "Gun7/Elements - Electricity 014 Charge Radial Loop noCT noRSZ_00000" },
+					{ "time": 0.0667, "name": "Gun7/Elements - Electricity 014 Charge Radial Loop noCT noRSZ_00002" },
+					{ "time": 0.1333, "name": "Gun7/Elements - Electricity 014 Charge Radial Loop noCT noRSZ_00004" },
+					{ "time": 0.2, "name": "Gun7/Elements - Electricity 014 Charge Radial Loop noCT noRSZ_00006" },
+					{ "time": 0.2667, "name": "Gun7/Elements - Electricity 014 Charge Radial Loop noCT noRSZ_00008" },
+					{ "time": 0.3333, "name": "Gun7/Elements - Electricity 014 Charge Radial Loop noCT noRSZ_00010" },
+					{ "time": 0.4, "name": "Gun7/Elements - Electricity 014 Charge Radial Loop noCT noRSZ_00013" },
+					{ "time": 0.4667, "name": "Gun7/Elements - Electricity 014 Charge Radial Loop noCT noRSZ_00015" },
+					{ "time": 0.5333, "name": "Gun7/Elements - Electricity 014 Charge Radial Loop noCT noRSZ_00017" }
+				]
+			},
+			"Gun7/Elements - Electricity 014 Charge Radial Loop noCT noRSZ_0": {
+				"attachment": [
+					{ "time": 0, "name": "Gun7/Elements - Electricity 014 Charge Radial Loop noCT noRSZ_00000" },
+					{ "time": 0.0667, "name": "Gun7/Elements - Electricity 014 Charge Radial Loop noCT noRSZ_00002" },
+					{ "time": 0.1333, "name": "Gun7/Elements - Electricity 014 Charge Radial Loop noCT noRSZ_00004" },
+					{ "time": 0.2, "name": "Gun7/Elements - Electricity 014 Charge Radial Loop noCT noRSZ_00006" },
+					{ "time": 0.2667, "name": "Gun7/Elements - Electricity 014 Charge Radial Loop noCT noRSZ_00008" },
+					{ "time": 0.3333, "name": "Gun7/Elements - Electricity 014 Charge Radial Loop noCT noRSZ_00010" },
+					{ "time": 0.4, "name": "Gun7/Elements - Electricity 014 Charge Radial Loop noCT noRSZ_00013" },
+					{ "time": 0.4667, "name": "Gun7/Elements - Electricity 014 Charge Radial Loop noCT noRSZ_00015" },
+					{ "time": 0.5333, "name": "Gun7/Elements - Electricity 014 Charge Radial Loop noCT noRSZ_00017" }
+				]
+			},
+			"Gun7/Light_Gun7_Wi": {
+				"color": [
+					{
+						"time": 0,
+						"color": "ffffff10",
+						"curve": [ 0.364, 0.64, 0.701, 1 ]
+					},
+					{
+						"time": 0.0333,
+						"color": "ffffff00",
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.3,
+						"color": "ffffffff",
+						"curve": [ 0.244, 0, 0.702, 0.8 ]
+					},
+					{ "time": 0.5333, "color": "ffffff10" }
+				]
+			},
+			"Gun7/Light_Gun7_Wi2": {
+				"color": [
+					{
+						"time": 0,
+						"color": "ffffff2f",
+						"curve": [ 0.379, 0.6, 0.724, 1 ]
+					},
+					{
+						"time": 0.0667,
+						"color": "ffffff00",
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.3333,
+						"color": "ffffffff",
+						"curve": [ 0.242, 0, 0.667, 0.67 ]
+					},
+					{ "time": 0.5333, "color": "ffffff2f" }
+				]
+			},
+			"Gun7/Light_Gun7_Wi3": {
+				"color": [
+					{
+						"time": 0,
+						"color": "ffffff55",
+						"curve": [ 0.382, 0.56, 0.74, 1 ]
+					},
+					{
+						"time": 0.1,
+						"color": "ffffff00",
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.3667,
+						"color": "ffffffff",
+						"curve": [ 0.244, 0, 0.641, 0.57 ]
+					},
+					{ "time": 0.5333, "color": "ffffff55" }
+				]
+			},
+			"Gun7/Light_Gun7_Wi4": {
+				"color": [
+					{
+						"time": 0,
+						"color": "ffffff7f",
+						"curve": [ 0.375, 0.5, 0.75, 1 ]
+					},
+					{
+						"time": 0.1333,
+						"color": "ffffff00",
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.4,
+						"color": "ffffffff",
+						"curve": [ 0.25, 0, 0.625, 0.5 ]
+					},
+					{ "time": 0.5333, "color": "ffffff7f" }
+				]
+			},
+			"Gun7/Light_Gun7_Wi5": {
+				"color": [
+					{
+						"time": 0,
+						"color": "ffffffa9",
+						"curve": [ 0.359, 0.43, 0.756, 1 ]
+					},
+					{
+						"time": 0.1667,
+						"color": "ffffff00",
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.4333,
+						"color": "ffffffff",
+						"curve": [ 0.26, 0, 0.618, 0.44 ]
+					},
+					{ "time": 0.5333, "color": "ffffffa9" }
+				]
+			},
+			"Gun7/Light_Gun7_Wi6": {
+				"color": [
+					{
+						"time": 0,
+						"color": "ffffffcf",
+						"curve": [ 0.333, 0.33, 0.758, 1 ]
+					},
+					{
+						"time": 0.2,
+						"color": "ffffff00",
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.4667,
+						"color": "ffffffff",
+						"curve": [ 0.276, 0, 0.621, 0.4 ]
+					},
+					{ "time": 0.5333, "color": "ffffffcf" }
+				]
+			},
+			"Gun7/Light_Gun7_Wi7": {
+				"color": [
+					{
+						"time": 0,
+						"color": "ffffffee",
+						"curve": [ 0.298, 0.2, 0.756, 1 ]
+					},
+					{
+						"time": 0.2333,
+						"color": "ffffff00",
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.5,
+						"color": "ffffffff",
+						"curve": [ 0.299, 0, 0.636, 0.36 ]
+					},
+					{ "time": 0.5333, "color": "ffffffee" }
+				]
+			},
+			"Gun7/Light_Gun7_Wi8": {
+				"color": [
+					{
+						"time": 0,
+						"color": "ffffffff",
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.2667,
+						"color": "ffffff00",
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 0.5333, "color": "ffffffff" }
+				]
+			},
+			"Gun7/Light_Gun7_Wi9": {
+				"color": [
+					{
+						"time": 0,
+						"color": "ffffffee",
+						"curve": [ 0.364, 0.64, 0.701, 1 ]
+					},
+					{
+						"time": 0.0333,
+						"color": "ffffffff",
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.3,
+						"color": "ffffff00",
+						"curve": [ 0.244, 0, 0.702, 0.8 ]
+					},
+					{ "time": 0.5333, "color": "ffffffee" }
+				]
+			},
+			"Gun7/Light_Gun7_Wi10": {
+				"color": [
+					{
+						"time": 0,
+						"color": "ffffffcf",
+						"curve": [ 0.379, 0.6, 0.724, 1 ]
+					},
+					{
+						"time": 0.0667,
+						"color": "ffffffff",
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.3333,
+						"color": "ffffff00",
+						"curve": [ 0.242, 0, 0.667, 0.67 ]
+					},
+					{ "time": 0.5333, "color": "ffffffcf" }
+				]
+			},
+			"Gun7/Light_Gun7_Wi11": {
+				"color": [
+					{
+						"time": 0,
+						"color": "ffffffa9",
+						"curve": [ 0.382, 0.56, 0.74, 1 ]
+					},
+					{
+						"time": 0.1,
+						"color": "ffffffff",
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.3667,
+						"color": "ffffff00",
+						"curve": [ 0.244, 0, 0.641, 0.57 ]
+					},
+					{ "time": 0.5333, "color": "ffffffa9" }
+				]
+			},
+			"Gun7/Light_Gun7_Wi12": {
+				"color": [
+					{
+						"time": 0,
+						"color": "ffffff7f",
+						"curve": [ 0.375, 0.5, 0.75, 1 ]
+					},
+					{
+						"time": 0.1333,
+						"color": "ffffffff",
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.4,
+						"color": "ffffff00",
+						"curve": [ 0.25, 0, 0.625, 0.5 ]
+					},
+					{ "time": 0.5333, "color": "ffffff7f" }
+				]
+			},
+			"Gun7/Light_Gun7_Wi13": {
+				"color": [
+					{
+						"time": 0,
+						"color": "ffffff55",
+						"curve": [ 0.359, 0.43, 0.756, 1 ]
+					},
+					{
+						"time": 0.1667,
+						"color": "ffffffff",
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.4333,
+						"color": "ffffff00",
+						"curve": [ 0.26, 0, 0.618, 0.44 ]
+					},
+					{ "time": 0.5333, "color": "ffffff55" }
+				]
+			},
+			"Gun7/Light_Gun7_Wi14": {
+				"color": [
+					{
+						"time": 0,
+						"color": "ffffff2f",
+						"curve": [ 0.333, 0.33, 0.758, 1 ]
+					},
+					{
+						"time": 0.2,
+						"color": "ffffffff",
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.4667,
+						"color": "ffffff00",
+						"curve": [ 0.276, 0, 0.621, 0.4 ]
+					},
+					{ "time": 0.5333, "color": "ffffff2f" }
+				]
+			},
+			"Gun7/Light_Gun7_Wi15": {
+				"color": [
+					{
+						"time": 0,
+						"color": "ffffff10",
+						"curve": [ 0.298, 0.2, 0.756, 1 ]
+					},
+					{
+						"time": 0.2333,
+						"color": "ffffffff",
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.5,
+						"color": "ffffff00",
+						"curve": [ 0.299, 0, 0.636, 0.36 ]
+					},
+					{ "time": 0.5333, "color": "ffffff10" }
+				]
+			},
+			"Gun7_Glow2": {
+				"color": [
+					{
+						"time": 0,
+						"color": "ffffff78",
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.1333,
+						"color": "ffffff39",
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.2667,
+						"color": "ffffff78",
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.4,
+						"color": "ffffff39",
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 0.5333, "color": "ffffff78" }
+				]
+			},
+			"Gun7_Glow3": {
+				"color": [
+					{
+						"time": 0,
+						"color": "ffffff78",
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.1333,
+						"color": "ffffff39",
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.2667,
+						"color": "ffffff78",
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.4,
+						"color": "ffffff39",
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 0.5333, "color": "ffffff78" }
+				]
+			}
+		},
+		"bones": {
+			"Fx": {
+				"rotate": [
+					{ "time": 0, "angle": 101.92 }
+				],
+				"translate": [
+					{ "time": 0, "x": -4.59, "y": -0.57 }
+				],
+				"scale": [
+					{ "time": 0, "x": 0.842, "y": 0.842 }
+				]
+			},
+			"Gun7_Glow": {
+				"scale": [
+					{
+						"time": 0,
+						"x": 1,
+						"y": 1,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.1333,
+						"x": 1.396,
+						"y": 1.396,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.2667,
+						"x": 1,
+						"y": 1,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.4,
+						"x": 1.396,
+						"y": 1.396,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 0.5333, "x": 1, "y": 1 }
+				]
+			},
+			"Gun7_Glow2": {
+				"scale": [
+					{
+						"time": 0,
+						"x": 1,
+						"y": 1,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.1333,
+						"x": 1.396,
+						"y": 1.396,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.2667,
+						"x": 1,
+						"y": 1,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.4,
+						"x": 1.396,
+						"y": 1.396,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 0.5333, "x": 1, "y": 1 }
+				]
+			},
+			"Gun7_Glow3": {
+				"scale": [
+					{
+						"time": 0,
+						"x": 1,
+						"y": 1,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.1333,
+						"x": 1.396,
+						"y": 1.396,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.2667,
+						"x": 1,
+						"y": 1,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.4,
+						"x": 1.396,
+						"y": 1.396,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 0.5333, "x": 1, "y": 1 }
+				]
+			}
+		}
+	},
+	"shoot": {
+		"slots": {
+			"Gun7_Glow": {
+				"color": [
+					{
+						"time": 0,
+						"color": "ffffff78",
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.1,
+						"color": "ffffff39",
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 0.2, "color": "ffffff78" }
+				]
+			},
+			"Gun7/Elements - Electricity 014 Charge Radial Loop noCT noRSZ_00000": {
+				"attachment": [
+					{ "time": 0, "name": "Gun7/Elements - Electricity 014 Charge Radial Loop noCT noRSZ_00000" },
+					{ "time": 0.0667, "name": "Gun7/Elements - Electricity 014 Charge Radial Loop noCT noRSZ_00002" },
+					{ "time": 0.1333, "name": "Gun7/Elements - Electricity 014 Charge Radial Loop noCT noRSZ_00004" },
+					{ "time": 0.2, "name": "Gun7/Elements - Electricity 014 Charge Radial Loop noCT noRSZ_00006" }
+				]
+			},
+			"Gun7/Elements - Electricity 014 Charge Radial Loop noCT noRSZ_0": {
+				"attachment": [
+					{ "time": 0, "name": "Gun7/Elements - Electricity 014 Charge Radial Loop noCT noRSZ_00000" },
+					{ "time": 0.0667, "name": "Gun7/Elements - Electricity 014 Charge Radial Loop noCT noRSZ_00002" },
+					{ "time": 0.1333, "name": "Gun7/Elements - Electricity 014 Charge Radial Loop noCT noRSZ_00004" },
+					{ "time": 0.2, "name": "Gun7/Elements - Electricity 014 Charge Radial Loop noCT noRSZ_00006" }
+				]
+			},
+			"Gun7/Gun7_star": {
+				"attachment": [
+					{ "time": 0.2, "name": null }
+				]
+			},
+			"Gun7/Gun7_Barrel2": {
+				"color": [
+					{
+						"time": 0,
+						"color": "ffffff00",
+						"curve": [ 0.25, 0, 0.625, 0.5 ]
+					},
+					{
+						"time": 0.0333,
+						"color": "ffffff7e",
+						"curve": [ 0.375, 0.5, 0.75, 1 ]
+					},
+					{
+						"time": 0.0667,
+						"color": "ffffff00",
+						"curve": [ 0.25, 0, 0.625, 0.5 ]
+					},
+					{
+						"time": 0.1,
+						"color": "ffffff7e",
+						"curve": [ 0.375, 0.5, 0.75, 1 ]
+					},
+					{ "time": 0.1667, "color": "ffffff00" }
+				]
+			},
+			"Gun7/Gun7_Barrel4": {
+				"color": [
+					{
+						"time": 0,
+						"color": "ffffff00",
+						"curve": [ 0.25, 0, 0.625, 0.5 ]
+					},
+					{
+						"time": 0.0333,
+						"color": "ffffff7e",
+						"curve": [ 0.375, 0.5, 0.75, 1 ]
+					},
+					{
+						"time": 0.0667,
+						"color": "ffffff00",
+						"curve": [ 0.25, 0, 0.625, 0.5 ]
+					},
+					{
+						"time": 0.1,
+						"color": "ffffff7e",
+						"curve": [ 0.375, 0.5, 0.75, 1 ]
+					},
+					{ "time": 0.1667, "color": "ffffff00" }
+				]
+			},
+			"Gun7/Gun7_Barrel6": {
+				"color": [
+					{
+						"time": 0,
+						"color": "ffffff00",
+						"curve": [ 0.25, 0, 0.625, 0.5 ]
+					},
+					{
+						"time": 0.0333,
+						"color": "ffffff7e",
+						"curve": [ 0.375, 0.5, 0.75, 1 ]
+					},
+					{
+						"time": 0.0667,
+						"color": "ffffff00",
+						"curve": [ 0.25, 0, 0.625, 0.5 ]
+					},
+					{
+						"time": 0.1,
+						"color": "ffffff7e",
+						"curve": [ 0.375, 0.5, 0.75, 1 ]
+					},
+					{ "time": 0.1667, "color": "ffffff00" }
+				]
+			},
+			"Gun7/Gun7_Barrel_Rotate3": {
+				"attachment": [
+					{ "time": 0.2, "name": null }
+				]
+			},
+			"Gun7/Gun7_Barrel_Rotate4": {
+				"attachment": [
+					{ "time": 0.1, "name": null },
+					{ "time": 0.1333, "name": "Gun7/Gun7_Barrel_Rotate" }
+				]
+			},
+			"Gun7/Gun7_Barrel_Rotate5": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.0333, "name": "Gun7/Gun7_Barrel_Rotate" }
+				]
+			},
+			"Gun7/Gun7_Barrel_Rotate8": {
+				"attachment": [
+					{ "time": 0.2, "name": null }
+				]
+			},
+			"Gun7/Gun7_Barrel_Rotate9": {
+				"attachment": [
+					{ "time": 0.1, "name": null },
+					{ "time": 0.1333, "name": "Gun7/Gun7_Barrel_Rotate" }
+				]
+			},
+			"Gun7/Gun7_Barrel_Rotate10": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.0333, "name": "Gun7/Gun7_Barrel_Rotate" }
+				]
+			},
+			"Gun7/Gun7_Barrel_Rotate13": {
+				"attachment": [
+					{ "time": 0.2, "name": null }
+				]
+			},
+			"Gun7/Gun7_Barrel_Rotate14": {
+				"attachment": [
+					{ "time": 0.1, "name": null },
+					{ "time": 0.1333, "name": "Gun7/Gun7_Barrel_Rotate" }
+				]
+			},
+			"Gun7/Gun7_Barrel_Rotate15": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.0333, "name": "Gun7/Gun7_Barrel_Rotate" }
+				]
+			},
+			"Gun7/Gun7_star3": {
+				"attachment": [
+					{ "time": 0.1, "name": null },
+					{ "time": 0.1333, "name": "Gun7/Gun7_star" }
+				]
+			},
+			"Gun7/Gun7_star4": {
+				"attachment": [
+					{ "time": 0, "name": "Gun7/Gun7_star" }
+				]
+			},
+			"Gun7/Gun7_star5": {
+				"attachment": [
+					{ "time": 0.2, "name": null }
+				]
+			},
+			"Gun7/Gun7_star7": {
+				"attachment": [
+					{ "time": 0.1, "name": null },
+					{ "time": 0.1333, "name": "Gun7/Gun7_star" }
+				]
+			},
+			"Gun7/Gun7_star8": {
+				"attachment": [
+					{ "time": 0, "name": "Gun7/Gun7_star" }
+				]
+			},
+			"Gun7/Gun7_star9": {
+				"attachment": [
+					{ "time": 0.2, "name": null }
+				]
+			},
+			"Gun7/Gun7_star11": {
+				"attachment": [
+					{ "time": 0.1, "name": null },
+					{ "time": 0.1333, "name": "Gun7/Gun7_star" }
+				]
+			},
+			"Gun7/Gun7_star12": {
+				"attachment": [
+					{ "time": 0, "name": "Gun7/Gun7_star" }
+				]
+			},
+			"Gun7/Light_Gun7_Wi": {
+				"color": [
+					{
+						"time": 0,
+						"color": "ffffff10",
+						"curve": [ 0.364, 0.64, 0.701, 1 ]
+					},
+					{
+						"time": 0.1125,
+						"color": "ffffffff",
+						"curve": [ 0.244, 0, 0.702, 0.8 ]
+					},
+					{ "time": 0.2, "color": "ffffff10" }
+				]
+			},
+			"Gun7/Light_Gun7_Wi2": {
+				"color": [
+					{
+						"time": 0,
+						"color": "ffffff2f",
+						"curve": [ 0.379, 0.6, 0.724, 1 ]
+					},
+					{
+						"time": 0.025,
+						"color": "ffffff00",
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 0.2, "color": "ffffff2f" }
+				]
+			},
+			"Gun7/Light_Gun7_Wi3": {
+				"color": [
+					{
+						"time": 0,
+						"color": "ffffff55",
+						"curve": [ 0.382, 0.56, 0.74, 1 ]
+					},
+					{
+						"time": 0.0375,
+						"color": "ffffff00",
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 0.2, "color": "ffffff55" }
+				]
+			},
+			"Gun7/Light_Gun7_Wi4": {
+				"color": [
+					{
+						"time": 0,
+						"color": "ffffff7f",
+						"curve": [ 0.375, 0.5, 0.75, 1 ]
+					},
+					{
+						"time": 0.05,
+						"color": "ffffff00",
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 0.2, "color": "ffffff7f" }
+				]
+			},
+			"Gun7/Light_Gun7_Wi5": {
+				"color": [
+					{
+						"time": 0,
+						"color": "ffffffa9",
+						"curve": [ 0.359, 0.43, 0.756, 1 ]
+					},
+					{
+						"time": 0.0625,
+						"color": "ffffff00",
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 0.2, "color": "ffffffa9" }
+				]
+			},
+			"Gun7/Light_Gun7_Wi6": {
+				"color": [
+					{
+						"time": 0,
+						"color": "ffffffcf",
+						"curve": [ 0.333, 0.33, 0.758, 1 ]
+					},
+					{
+						"time": 0.075,
+						"color": "ffffff00",
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 0.2, "color": "ffffffcf" }
+				]
+			},
+			"Gun7/Light_Gun7_Wi7": {
+				"color": [
+					{
+						"time": 0,
+						"color": "ffffffee",
+						"curve": [ 0.298, 0.2, 0.756, 1 ]
+					},
+					{
+						"time": 0.0875,
+						"color": "ffffff00",
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 0.2, "color": "ffffffee" }
+				]
+			},
+			"Gun7/Light_Gun7_Wi8": {
+				"color": [
+					{
+						"time": 0,
+						"color": "ffffffff",
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.1,
+						"color": "ffffff00",
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 0.2, "color": "ffffffff" }
+				]
+			},
+			"Gun7/Light_Gun7_Wi9": {
+				"color": [
+					{
+						"time": 0,
+						"color": "ffffffee",
+						"curve": [ 0.364, 0.64, 0.701, 1 ]
+					},
+					{
+						"time": 0.1125,
+						"color": "ffffff00",
+						"curve": [ 0.244, 0, 0.702, 0.8 ]
+					},
+					{ "time": 0.2, "color": "ffffffee" }
+				]
+			},
+			"Gun7/Light_Gun7_Wi10": {
+				"color": [
+					{
+						"time": 0,
+						"color": "ffffffcf",
+						"curve": [ 0.379, 0.6, 0.724, 1 ]
+					},
+					{
+						"time": 0.1251,
+						"color": "ffffff00",
+						"curve": [ 0.242, 0, 0.667, 0.67 ]
+					},
+					{ "time": 0.2, "color": "ffffffcf" }
+				]
+			},
+			"Gun7/Light_Gun7_Wi11": {
+				"color": [
+					{
+						"time": 0,
+						"color": "ffffffa9",
+						"curve": [ 0.382, 0.56, 0.74, 1 ]
+					},
+					{
+						"time": 0.1376,
+						"color": "ffffff00",
+						"curve": [ 0.244, 0, 0.641, 0.57 ]
+					},
+					{ "time": 0.2, "color": "ffffffa9" }
+				]
+			},
+			"Gun7/Light_Gun7_Wi12": {
+				"color": [
+					{
+						"time": 0,
+						"color": "ffffff7f",
+						"curve": [ 0.375, 0.5, 0.75, 1 ]
+					},
+					{
+						"time": 0.1501,
+						"color": "ffffff00",
+						"curve": [ 0.25, 0, 0.625, 0.5 ]
+					},
+					{ "time": 0.2, "color": "ffffff7f" }
+				]
+			},
+			"Gun7/Light_Gun7_Wi13": {
+				"color": [
+					{
+						"time": 0,
+						"color": "ffffff55",
+						"curve": [ 0.359, 0.43, 0.756, 1 ]
+					},
+					{
+						"time": 0.1626,
+						"color": "ffffff00",
+						"curve": [ 0.26, 0, 0.618, 0.44 ]
+					},
+					{ "time": 0.2, "color": "ffffff55" }
+				]
+			},
+			"Gun7/Light_Gun7_Wi14": {
+				"color": [
+					{
+						"time": 0,
+						"color": "ffffff2f",
+						"curve": [ 0.333, 0.33, 0.758, 1 ]
+					},
+					{
+						"time": 0.1751,
+						"color": "ffffff00",
+						"curve": [ 0.276, 0, 0.621, 0.4 ]
+					},
+					{ "time": 0.2, "color": "ffffff2f" }
+				]
+			},
+			"Gun7/Light_Gun7_Wi15": {
+				"color": [
+					{
+						"time": 0,
+						"color": "ffffff10",
+						"curve": [ 0.298, 0.2, 0.756, 1 ]
+					},
+					{
+						"time": 0.1876,
+						"color": "ffffff00",
+						"curve": [ 0.299, 0, 0.636, 0.36 ]
+					},
+					{ "time": 0.2, "color": "ffffff10" }
+				]
+			},
+			"Gun7_Glow2": {
+				"color": [
+					{
+						"time": 0,
+						"color": "ffffff78",
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.1,
+						"color": "ffffff39",
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 0.2, "color": "ffffff78" }
+				]
+			},
+			"Gun7_Glow3": {
+				"color": [
+					{
+						"time": 0,
+						"color": "ffffff78",
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.1,
+						"color": "ffffff39",
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 0.2, "color": "ffffff78" }
+				]
+			}
+		},
+		"bones": {
+			"Gun7_star": {
+				"translate": [
+					{
+						"time": 0,
+						"x": 0,
+						"y": 0,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.1,
+						"x": 27,
+						"y": 0,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 0.2, "x": 29.82, "y": 0 }
+				],
+				"scale": [
+					{
+						"time": 0,
+						"x": 1,
+						"y": 1,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.1,
+						"x": 0.5,
+						"y": 1,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 0.2, "x": 0.05, "y": 0.6 }
+				]
+			},
+			"Gun7_star2": {
+				"translate": [
+					{
+						"time": 0,
+						"x": 0,
+						"y": 0,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.1,
+						"x": 27,
+						"y": 0,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 0.2, "x": 54, "y": 0 }
+				],
+				"scale": [
+					{
+						"time": 0,
+						"x": 1,
+						"y": 1,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.1,
+						"x": 2,
+						"y": 1,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 0.2, "x": 1, "y": 1 }
+				]
+			},
+			"Gun7_star3": {
+				"translate": [
+					{
+						"time": 0,
+						"x": 0,
+						"y": 0,
+						"curve": [ 0.243, 0, 0.649, 0.6 ]
+					},
+					{
+						"time": 0.0667,
+						"x": 3.42,
+						"y": 0,
+						"curve": [ 0.382, 0.57, 0.735, 1 ]
+					},
+					{
+						"time": 0.1,
+						"x": 0,
+						"y": 0,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.1333,
+						"x": -57.81,
+						"y": 0,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 0.2, "x": -54, "y": 0 }
+				],
+				"scale": [
+					{
+						"time": 0,
+						"x": 1,
+						"y": 1,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 0.1, "x": 0.1, "y": 0.6, "curve": "stepped" },
+					{
+						"time": 0.1333,
+						"x": 0.1,
+						"y": 0.6,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 0.2, "x": 1, "y": 1 }
+				]
+			},
+			"Gun7_star4": {
+				"translate": [
+					{
+						"time": 0,
+						"x": -3.57,
+						"y": 0,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.1,
+						"x": 0,
+						"y": 0,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 0.2, "x": 27, "y": 0 }
+				],
+				"scale": [
+					{
+						"time": 0,
+						"x": 0.068,
+						"y": 0.6,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.1,
+						"x": 1,
+						"y": 1,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 0.2, "x": 2, "y": 1 }
+				]
+			},
+			"Gun7_Barrel": {
+				"translate": [
+					{
+						"time": 0,
+						"x": 0,
+						"y": 0,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.1,
+						"x": 0,
+						"y": 4.56,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 0.2, "x": 0, "y": 0 }
+				]
+			},
+			"Gun7_Barrel_Rotate": {
+				"translate": [
+					{
+						"time": 0,
+						"x": 0,
+						"y": 0,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.1,
+						"x": 19,
+						"y": 0,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 0.2, "x": 38, "y": 0 }
+				]
+			},
+			"Gun7_Barrel_Rotate3": {
+				"translate": [
+					{
+						"time": 0,
+						"x": 0,
+						"y": 0,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.1,
+						"x": 19,
+						"y": 0,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 0.2, "x": 23.42, "y": 0 }
+				],
+				"scale": [
+					{
+						"time": 0.1,
+						"x": 1,
+						"y": 1,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 0.2, "x": 0.06, "y": 1 }
+				]
+			},
+			"Gun7_Barrel_Rotate2": {
+				"translate": [
+					{
+						"time": 0,
+						"x": 0,
+						"y": 0,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.1,
+						"x": 18,
+						"y": 0,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 0.2, "x": 37, "y": 0 }
+				]
+			},
+			"Gun7_Barrel_Rotate4": {
+				"translate": [
+					{
+						"time": 0,
+						"x": 0,
+						"y": 0,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.1,
+						"x": 3.91,
+						"y": 0,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.1333,
+						"x": -57.41,
+						"y": 0,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 0.2, "x": -56, "y": 0 }
+				],
+				"scale": [
+					{
+						"time": 0,
+						"x": 1,
+						"y": 1,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.1,
+						"x": 0.06,
+						"y": 1,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 0.2, "x": 1, "y": 1 }
+				]
+			},
+			"Gun7_Barrel_Rotate5": {
+				"translate": [
+					{
+						"time": 0,
+						"x": -58.65,
+						"y": 0,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.1,
+						"x": -56,
+						"y": 0,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 0.2, "x": -38, "y": 0 }
+				],
+				"scale": [
+					{
+						"time": 0,
+						"x": 0.06,
+						"y": 1,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 0.1, "x": 1, "y": 1 }
+				]
+			},
+			"MIB_Gun7": {
+				"translate": [
+					{
+						"time": 0,
+						"x": 0,
+						"y": 0,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.0333,
+						"x": 0,
+						"y": -0.74,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.1,
+						"x": 0,
+						"y": 2.22,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 0.1667, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{
+						"time": 0,
+						"x": 1,
+						"y": 1,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.0333,
+						"x": 1,
+						"y": 0.97,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.1,
+						"x": 1,
+						"y": 0.992,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 0.1667, "x": 1, "y": 1 }
+				]
+			},
+			"Gun7_Barrel2": {
+				"translate": [
+					{
+						"time": 0,
+						"x": 0,
+						"y": 0,
+						"curve": [ 0.25, 0, 0.625, 0.5 ]
+					},
+					{
+						"time": 0.1,
+						"x": 0,
+						"y": -4.56,
+						"curve": [ 0.375, 0.5, 0.75, 1 ]
+					},
+					{ "time": 0.2, "x": 0, "y": 0 }
+				]
+			},
+			"Gun7_star5": {
+				"translate": [
+					{
+						"time": 0,
+						"x": 0,
+						"y": 0,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.1,
+						"x": 27,
+						"y": 0,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 0.2, "x": 29.82, "y": 0 }
+				],
+				"scale": [
+					{
+						"time": 0,
+						"x": 1,
+						"y": 1,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.1,
+						"x": 0.5,
+						"y": 1,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 0.2, "x": 0.05, "y": 0.6 }
+				]
+			},
+			"Gun7_Barrel_Rotate6": {
+				"translate": [
+					{
+						"time": 0,
+						"x": 0,
+						"y": 0,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.1,
+						"x": 19,
+						"y": 0,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 0.2, "x": 38, "y": 0 }
+				]
+			},
+			"Gun7_star6": {
+				"translate": [
+					{
+						"time": 0,
+						"x": 0,
+						"y": 0,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.1,
+						"x": 27,
+						"y": 0,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 0.2, "x": 54, "y": 0 }
+				],
+				"scale": [
+					{
+						"time": 0,
+						"x": 1,
+						"y": 1,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.1,
+						"x": 2,
+						"y": 1,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 0.2, "x": 1, "y": 1 }
+				]
+			},
+			"Gun7_star7": {
+				"translate": [
+					{
+						"time": 0,
+						"x": 0,
+						"y": 0,
+						"curve": [ 0.243, 0, 0.649, 0.6 ]
+					},
+					{
+						"time": 0.0667,
+						"x": 3.42,
+						"y": 0,
+						"curve": [ 0.382, 0.57, 0.735, 1 ]
+					},
+					{
+						"time": 0.1,
+						"x": 0,
+						"y": 0,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.1333,
+						"x": -57.81,
+						"y": 0,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 0.2, "x": -54, "y": 0 }
+				],
+				"scale": [
+					{
+						"time": 0,
+						"x": 1,
+						"y": 1,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 0.1, "x": 0.1, "y": 0.6, "curve": "stepped" },
+					{
+						"time": 0.1333,
+						"x": 0.1,
+						"y": 0.6,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 0.2, "x": 1, "y": 1 }
+				]
+			},
+			"Gun7_Barrel_Rotate7": {
+				"translate": [
+					{
+						"time": 0,
+						"x": 0,
+						"y": 0,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.1,
+						"x": 18,
+						"y": 0,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 0.2, "x": 37, "y": 0 }
+				]
+			},
+			"Gun7_Barrel_Rotate8": {
+				"translate": [
+					{
+						"time": 0,
+						"x": 0,
+						"y": 0,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.1,
+						"x": 19,
+						"y": 0,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 0.2, "x": 23.42, "y": 0 }
+				],
+				"scale": [
+					{
+						"time": 0.1,
+						"x": 1,
+						"y": 1,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 0.2, "x": 0.06, "y": 1 }
+				]
+			},
+			"Gun7_Barrel_Rotate9": {
+				"translate": [
+					{
+						"time": 0,
+						"x": 0,
+						"y": 0,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.1,
+						"x": 3.91,
+						"y": 0,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.1333,
+						"x": -57.41,
+						"y": 0,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 0.2, "x": -56, "y": 0 }
+				],
+				"scale": [
+					{
+						"time": 0,
+						"x": 1,
+						"y": 1,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.1,
+						"x": 0.06,
+						"y": 1,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 0.2, "x": 1, "y": 1 }
+				]
+			},
+			"Gun7_star8": {
+				"translate": [
+					{
+						"time": 0,
+						"x": -3.57,
+						"y": 0,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.1,
+						"x": 0,
+						"y": 0,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 0.2, "x": 27, "y": 0 }
+				],
+				"scale": [
+					{
+						"time": 0,
+						"x": 0.068,
+						"y": 0.6,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.1,
+						"x": 1,
+						"y": 1,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 0.2, "x": 2, "y": 1 }
+				]
+			},
+			"Gun7_Barrel_Rotate10": {
+				"translate": [
+					{
+						"time": 0,
+						"x": -58.65,
+						"y": 0,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.1,
+						"x": -56,
+						"y": 0,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 0.2, "x": -38, "y": 0 }
+				],
+				"scale": [
+					{
+						"time": 0,
+						"x": 0.06,
+						"y": 1,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 0.1, "x": 1, "y": 1 }
+				]
+			},
+			"Gun7_Barrel3": {
+				"translate": [
+					{
+						"time": 0,
+						"x": 0,
+						"y": 0,
+						"curve": [ 0.25, 0, 0.625, 0.5 ]
+					},
+					{
+						"time": 0.1,
+						"x": 0,
+						"y": -4.56,
+						"curve": [ 0.375, 0.5, 0.75, 1 ]
+					},
+					{ "time": 0.2, "x": 0, "y": 0 }
+				]
+			},
+			"Gun7_star9": {
+				"translate": [
+					{
+						"time": 0,
+						"x": 0,
+						"y": 0,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.1,
+						"x": 27,
+						"y": 0,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 0.2, "x": 29.82, "y": 0 }
+				],
+				"scale": [
+					{
+						"time": 0,
+						"x": 1,
+						"y": 1,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.1,
+						"x": 0.5,
+						"y": 1,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 0.2, "x": 0.05, "y": 0.6 }
+				]
+			},
+			"Gun7_Barrel_Rotate11": {
+				"translate": [
+					{
+						"time": 0,
+						"x": 0,
+						"y": 0,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.1,
+						"x": 19,
+						"y": 0,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 0.2, "x": 38, "y": 0 }
+				]
+			},
+			"Gun7_star10": {
+				"translate": [
+					{
+						"time": 0,
+						"x": 0,
+						"y": 0,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.1,
+						"x": 27,
+						"y": 0,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 0.2, "x": 54, "y": 0 }
+				],
+				"scale": [
+					{
+						"time": 0,
+						"x": 1,
+						"y": 1,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.1,
+						"x": 2,
+						"y": 1,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 0.2, "x": 1, "y": 1 }
+				]
+			},
+			"Gun7_star11": {
+				"translate": [
+					{
+						"time": 0,
+						"x": 0,
+						"y": 0,
+						"curve": [ 0.243, 0, 0.649, 0.6 ]
+					},
+					{
+						"time": 0.0667,
+						"x": 3.42,
+						"y": 0,
+						"curve": [ 0.382, 0.57, 0.735, 1 ]
+					},
+					{
+						"time": 0.1,
+						"x": 0,
+						"y": 0,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.1333,
+						"x": -57.81,
+						"y": 0,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 0.2, "x": -54, "y": 0 }
+				],
+				"scale": [
+					{
+						"time": 0,
+						"x": 1,
+						"y": 1,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 0.1, "x": 0.1, "y": 0.6, "curve": "stepped" },
+					{
+						"time": 0.1333,
+						"x": 0.1,
+						"y": 0.6,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 0.2, "x": 1, "y": 1 }
+				]
+			},
+			"Gun7_Barrel_Rotate12": {
+				"translate": [
+					{
+						"time": 0,
+						"x": 0,
+						"y": 0,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.1,
+						"x": 18,
+						"y": 0,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 0.2, "x": 37, "y": 0 }
+				]
+			},
+			"Gun7_Barrel_Rotate13": {
+				"translate": [
+					{
+						"time": 0,
+						"x": 0,
+						"y": 0,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.1,
+						"x": 19,
+						"y": 0,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 0.2, "x": 23.42, "y": 0 }
+				],
+				"scale": [
+					{
+						"time": 0.1,
+						"x": 1,
+						"y": 1,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 0.2, "x": 0.06, "y": 1 }
+				]
+			},
+			"Gun7_Barrel_Rotate14": {
+				"translate": [
+					{
+						"time": 0,
+						"x": 0,
+						"y": 0,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.1,
+						"x": 3.91,
+						"y": 0,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.1333,
+						"x": -57.41,
+						"y": 0,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 0.2, "x": -56, "y": 0 }
+				],
+				"scale": [
+					{
+						"time": 0,
+						"x": 1,
+						"y": 1,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.1,
+						"x": 0.06,
+						"y": 1,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 0.2, "x": 1, "y": 1 }
+				]
+			},
+			"Gun7_star12": {
+				"translate": [
+					{
+						"time": 0,
+						"x": -3.57,
+						"y": 0,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.1,
+						"x": 0,
+						"y": 0,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 0.2, "x": 27, "y": 0 }
+				],
+				"scale": [
+					{
+						"time": 0,
+						"x": 0.068,
+						"y": 0.6,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.1,
+						"x": 1,
+						"y": 1,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 0.2, "x": 2, "y": 1 }
+				]
+			},
+			"Gun7_Barrel_Rotate15": {
+				"translate": [
+					{
+						"time": 0,
+						"x": -58.65,
+						"y": 0,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.1,
+						"x": -56,
+						"y": 0,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 0.2, "x": -38, "y": 0 }
+				],
+				"scale": [
+					{
+						"time": 0,
+						"x": 0.06,
+						"y": 1,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 0.1, "x": 1, "y": 1 }
+				]
+			},
+			"Gun7_Glow": {
+				"scale": [
+					{
+						"time": 0,
+						"x": 1,
+						"y": 1,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.1,
+						"x": 1.396,
+						"y": 1.396,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 0.2, "x": 1, "y": 1 }
+				]
+			},
+			"Gun7_Glow2": {
+				"scale": [
+					{
+						"time": 0,
+						"x": 1,
+						"y": 1,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.1,
+						"x": 1.396,
+						"y": 1.396,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 0.2, "x": 1, "y": 1 }
+				]
+			},
+			"Gun7_Glow3": {
+				"scale": [
+					{
+						"time": 0,
+						"x": 1,
+						"y": 1,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.1,
+						"x": 1.396,
+						"y": 1.396,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 0.2, "x": 1, "y": 1 }
+				]
+			},
+			"Fx": {
+				"rotate": [
+					{ "time": 0, "angle": 101.92 }
+				],
+				"translate": [
+					{ "time": 0, "x": -4.59, "y": -0.57 }
+				],
+				"scale": [
+					{ "time": 0, "x": 0.842, "y": 0.842 }
+				]
+			}
+		}
+	}
+}
+}

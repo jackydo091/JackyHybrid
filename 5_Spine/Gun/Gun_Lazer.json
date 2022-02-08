@@ -1,0 +1,461 @@
+{
+"skeleton": { "hash": "L1T3BHeqymSyzGLaPD1b0VcQdGs", "spine": "3.7.94", "width": 71.48, "height": 142.31 },
+"bones": [
+	{ "name": "root" },
+	{ "name": "Scale", "parent": "root", "y": -17.39, "scaleX": 0.4, "scaleY": 0.4 },
+	{ "name": "body_left", "parent": "Scale", "length": 254.2, "rotation": 91, "x": -3.08, "y": -12.47 },
+	{ "name": "Orb", "parent": "Scale", "x": -2.46, "y": 148.88 },
+	{ "name": "body2", "parent": "body_left", "length": 40.26, "rotation": 29.25, "x": 259.58, "y": 30.26 },
+	{ "name": "body3", "parent": "body2", "length": 28.06, "rotation": -55.65, "x": 40.26 },
+	{ "name": "fx", "parent": "Scale", "x": 1.5, "y": 149.3, "scaleX": 1.101, "scaleY": 1.101 },
+	{
+		"name": "body_right",
+		"parent": "Scale",
+		"length": 254.2,
+		"rotation": 90.08,
+		"x": 3.22,
+		"y": -12.43,
+		"scaleY": -1
+	},
+	{ "name": "body5", "parent": "body_right", "length": 40.26, "rotation": 29.25, "x": 259.58, "y": 30.26 },
+	{ "name": "body6", "parent": "body5", "length": 28.06, "rotation": -55.65, "x": 40.26 },
+	{ "name": "head", "parent": "Scale", "x": -2.61, "y": 270.25 },
+	{ "name": "light_exp", "parent": "Scale", "x": -3.58, "y": 149.64, "scaleX": 0.665 },
+	{ "name": "light_exp2", "parent": "Scale", "x": 4.73, "y": 135.79, "scaleX": 0.556 },
+	{ "name": "light_exp3", "parent": "Scale", "x": -10.78, "y": 125.82, "scaleX": 0.556 },
+	{ "name": "light_exp4", "parent": "Scale", "x": -3.58, "y": 149.64, "scaleX": 0.665 },
+	{ "name": "light_exp5", "parent": "Scale", "x": 4.73, "y": 135.79, "scaleX": 0.556 },
+	{ "name": "light_exp6", "parent": "Scale", "x": -10.78, "y": 125.82, "scaleX": 0.556 }
+],
+"slots": [
+	{ "name": "Gun_Lazer/body", "bone": "body_left", "attachment": "Gun_Lazer/body" },
+	{ "name": "Gun_Lazer/body2", "bone": "body_right", "attachment": "Gun_Lazer/body" },
+	{ "name": "Gun_Lazer/orb", "bone": "Orb", "attachment": "Gun_Lazer/orb" },
+	{ "name": "light_clip", "bone": "body_left", "attachment": "light_clip" },
+	{ "name": "Gun_Lazer/light", "bone": "body_left", "attachment": "Gun_Lazer/light" },
+	{ "name": "light_clip2", "bone": "body_right", "attachment": "light_clip" },
+	{ "name": "Gun_Lazer/light2", "bone": "body_right", "attachment": "Gun_Lazer/light" },
+	{ "name": "Gun_Lazer/hand2", "bone": "body3", "attachment": "Gun_Lazer/hand2" },
+	{ "name": "Gun_Lazer/hand4", "bone": "body6", "attachment": "Gun_Lazer/hand2" },
+	{ "name": "Gun_Lazer/hand1", "bone": "body2", "attachment": "Gun_Lazer/hand1" },
+	{ "name": "Gun_Lazer/hand3", "bone": "body5", "attachment": "Gun_Lazer/hand1" },
+	{ "name": "Gun_Lazer/fx/fx0", "bone": "fx", "attachment": "Gun_Lazer/fx/fx0" },
+	{ "name": "Gun_Lazer/light_expl", "bone": "light_exp", "attachment": "Gun_Lazer/light_expl" },
+	{ "name": "Gun_Lazer/light_expl4", "bone": "light_exp4", "attachment": "Gun_Lazer/light_expl" },
+	{ "name": "Gun_Lazer/light_expl2", "bone": "light_exp2", "attachment": "Gun_Lazer/light_expl" },
+	{ "name": "Gun_Lazer/light_expl5", "bone": "light_exp5", "attachment": "Gun_Lazer/light_expl" },
+	{ "name": "Gun_Lazer/light_expl3", "bone": "light_exp3", "attachment": "Gun_Lazer/light_expl" },
+	{ "name": "Gun_Lazer/light_expl6", "bone": "light_exp6", "attachment": "Gun_Lazer/light_expl" },
+	{ "name": "Gun_Lazer/head", "bone": "head", "attachment": "Gun_Lazer/head" }
+],
+"skins": {
+	"default": {
+		"Gun_Lazer/body": {
+			"Gun_Lazer/body": { "x": 135.78, "y": 39.63, "rotation": -90.42, "width": 88, "height": 315 }
+		},
+		"Gun_Lazer/body2": {
+			"Gun_Lazer/body": { "x": 135.78, "y": 39.63, "rotation": -90.42, "width": 88, "height": 315 }
+		},
+		"Gun_Lazer/fx/fx0": {
+			"Gun_Lazer/fx/fx0": { "width": 92, "height": 88 },
+			"Gun_Lazer/fx/fx1": { "width": 92, "height": 88 },
+			"Gun_Lazer/fx/fx2": { "width": 92, "height": 88 },
+			"Gun_Lazer/fx/fx3": { "width": 92, "height": 88 },
+			"Gun_Lazer/fx/fx4": { "width": 92, "height": 88 },
+			"Gun_Lazer/fx/fx5": { "width": 92, "height": 88 },
+			"Gun_Lazer/fx/fx6": { "width": 92, "height": 88 },
+			"Gun_Lazer/fx/fx7": { "width": 92, "height": 88 },
+			"Gun_Lazer/fx/fx8": { "width": 92, "height": 88 }
+		},
+		"Gun_Lazer/hand1": {
+			"Gun_Lazer/hand1": { "x": 17.79, "y": -9.94, "rotation": -94.92, "width": 38, "height": 51 }
+		},
+		"Gun_Lazer/hand2": {
+			"Gun_Lazer/hand2": { "x": 15.74, "y": 0.12, "rotation": -88.03, "width": 19, "height": 44 }
+		},
+		"Gun_Lazer/hand3": {
+			"Gun_Lazer/hand1": { "x": 17.79, "y": -9.94, "rotation": -94.92, "width": 38, "height": 51 }
+		},
+		"Gun_Lazer/hand4": {
+			"Gun_Lazer/hand2": { "x": 15.74, "y": 0.12, "rotation": -88.03, "width": 19, "height": 44 }
+		},
+		"Gun_Lazer/head": {
+			"Gun_Lazer/head": { "x": 0.5, "y": 0.5, "width": 57, "height": 53 }
+		},
+		"Gun_Lazer/light": {
+			"Gun_Lazer/light": { "x": 141.29, "y": 42.68, "rotation": -90.42, "width": 86, "height": 215 }
+		},
+		"Gun_Lazer/light2": {
+			"Gun_Lazer/light": { "x": 140.76, "y": 42.98, "rotation": -90.42, "width": 86, "height": 215 }
+		},
+		"Gun_Lazer/light_expl": {
+			"Gun_Lazer/light_expl": { "x": 1.54, "y": 1.45, "scaleX": 1.465, "scaleY": 1.465, "width": 34, "height": 115 }
+		},
+		"Gun_Lazer/light_expl2": {
+			"Gun_Lazer/light_expl": { "x": 1.54, "y": 1.45, "scaleX": 1.465, "scaleY": 1.465, "width": 34, "height": 115 }
+		},
+		"Gun_Lazer/light_expl3": {
+			"Gun_Lazer/light_expl": { "x": 1.54, "y": 1.45, "scaleX": 1.465, "scaleY": 1.465, "width": 34, "height": 115 }
+		},
+		"Gun_Lazer/light_expl4": {
+			"Gun_Lazer/light_expl": { "x": 1.54, "y": 1.45, "scaleX": 1.465, "scaleY": 1.465, "width": 34, "height": 115 }
+		},
+		"Gun_Lazer/light_expl5": {
+			"Gun_Lazer/light_expl": { "x": 1.54, "y": 1.45, "scaleX": 1.465, "scaleY": 1.465, "width": 34, "height": 115 }
+		},
+		"Gun_Lazer/light_expl6": {
+			"Gun_Lazer/light_expl": { "x": 1.54, "y": 1.45, "scaleX": 1.465, "scaleY": 1.465, "width": 34, "height": 115 }
+		},
+		"Gun_Lazer/orb": {
+			"Gun_Lazer/orb": { "width": 71, "height": 71 }
+		},
+		"light_clip": {
+			"light_clip": {
+				"type": "clipping",
+				"end": "Gun_Lazer/light",
+				"vertexCount": 4,
+				"vertices": [ 4.65, 51.36, 49.09, -24.23, 63.66, -35.55, -6.07, 87.41 ]
+			}
+		},
+		"light_clip2": {
+			"light_clip": {
+				"type": "clipping",
+				"end": "Gun_Lazer/light2",
+				"vertexCount": 4,
+				"vertices": [ 5.04, 49.99, 49.48, -25.59, 64.05, -36.91, -5.68, 86.05 ]
+			}
+		}
+	}
+},
+"animations": {
+	"idle": {
+		"slots": {
+			"Gun_Lazer/fx/fx0": {
+				"attachment": [
+					{ "time": 0.0333, "name": null },
+					{ "time": 0.0667, "name": "Gun_Lazer/fx/fx1" },
+					{ "time": 0.1, "name": null },
+					{ "time": 0.1333, "name": "Gun_Lazer/fx/fx2" },
+					{ "time": 0.1667, "name": null },
+					{ "time": 0.2, "name": "Gun_Lazer/fx/fx3" },
+					{ "time": 0.2333, "name": null },
+					{ "time": 0.2667, "name": "Gun_Lazer/fx/fx4" },
+					{ "time": 0.3, "name": null },
+					{ "time": 0.3333, "name": "Gun_Lazer/fx/fx5" },
+					{ "time": 0.3667, "name": null },
+					{ "time": 0.4, "name": "Gun_Lazer/fx/fx6" },
+					{ "time": 0.4333, "name": null },
+					{ "time": 0.4667, "name": "Gun_Lazer/fx/fx7" },
+					{ "time": 0.5, "name": null },
+					{ "time": 0.5333, "name": "Gun_Lazer/fx/fx8" },
+					{ "time": 0.5667, "name": null },
+					{ "time": 0.6, "name": "Gun_Lazer/fx/fx0" },
+					{ "time": 0.6333, "name": null },
+					{ "time": 0.6667, "name": "Gun_Lazer/fx/fx1" },
+					{ "time": 0.7, "name": null },
+					{ "time": 0.7333, "name": "Gun_Lazer/fx/fx2" },
+					{ "time": 0.7667, "name": null },
+					{ "time": 0.8, "name": "Gun_Lazer/fx/fx3" },
+					{ "time": 0.8333, "name": null },
+					{ "time": 0.8667, "name": "Gun_Lazer/fx/fx4" },
+					{ "time": 0.9, "name": null },
+					{ "time": 0.9333, "name": "Gun_Lazer/fx/fx5" },
+					{ "time": 0.9667, "name": null },
+					{ "time": 1, "name": "Gun_Lazer/fx/fx6" }
+				]
+			},
+			"Gun_Lazer/light": {
+				"color": [
+					{ "time": 0.6667, "color": "ffffffff" },
+					{ "time": 1, "color": "ffffff00" }
+				]
+			},
+			"Gun_Lazer/light2": {
+				"color": [
+					{ "time": 0.6667, "color": "ffffffff" },
+					{ "time": 1, "color": "ffffff00" }
+				]
+			},
+			"Gun_Lazer/light_expl": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Gun_Lazer/light_expl2": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Gun_Lazer/light_expl3": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Gun_Lazer/light_expl4": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Gun_Lazer/light_expl5": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Gun_Lazer/light_expl6": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			}
+		},
+		"bones": {
+			"Orb": {
+				"rotate": [
+					{ "time": 0, "angle": 0 },
+					{ "time": 0.5, "angle": 180 },
+					{ "time": 1, "angle": 0 }
+				]
+			}
+		},
+		"deform": {
+			"default": {
+				"light_clip": {
+					"light_clip": [
+						{ "time": 0 },
+						{
+							"time": 0.4667,
+							"offset": 4,
+							"vertices": [ 214.12938, 14.61222, 214.12938, 14.61222 ]
+						}
+					]
+				},
+				"light_clip2": {
+					"light_clip": [
+						{ "time": 0 },
+						{
+							"time": 0.4667,
+							"offset": 4,
+							"vertices": [ 214.12938, 14.61222, 214.12938, 14.61222 ]
+						}
+					]
+				}
+			}
+		}
+	},
+	"shoot": {
+		"slots": {
+			"Gun_Lazer/fx/fx0": {
+				"color": [
+					{
+						"time": 0.1,
+						"color": "ffffffff",
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 0.5, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "time": 0, "name": "Gun_Lazer/fx/fx8" },
+					{ "time": 0.0667, "name": null },
+					{ "time": 0.1, "name": "Gun_Lazer/fx/fx2" },
+					{ "time": 0.1667, "name": null },
+					{ "time": 0.2333, "name": "Gun_Lazer/fx/fx4" },
+					{ "time": 0.2667, "name": null },
+					{ "time": 0.3, "name": "Gun_Lazer/fx/fx5" },
+					{ "time": 0.3333, "name": null },
+					{ "time": 0.3667, "name": "Gun_Lazer/fx/fx6" },
+					{ "time": 0.4, "name": null },
+					{ "time": 0.4333, "name": "Gun_Lazer/fx/fx7" },
+					{ "time": 0.4667, "name": null }
+				]
+			},
+			"Gun_Lazer/light_expl": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Gun_Lazer/light_expl2": {
+				"color": [
+					{ "time": 0.1, "color": "ffffffff" },
+					{ "time": 0.3333, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.1, "name": "Gun_Lazer/light_expl" },
+					{ "time": 0.4667, "name": null }
+				]
+			},
+			"Gun_Lazer/light_expl3": {
+				"color": [
+					{ "time": 0.0667, "color": "ffffffff" },
+					{ "time": 0.3, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.0667, "name": "Gun_Lazer/light_expl" },
+					{ "time": 0.4667, "name": null }
+				]
+			},
+			"Gun_Lazer/light_expl4": {
+				"color": [
+					{ "time": 0.2667, "color": "ffffffff" },
+					{ "time": 0.4, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2, "name": "Gun_Lazer/light_expl" },
+					{ "time": 0.4667, "name": null }
+				]
+			},
+			"Gun_Lazer/light_expl5": {
+				"color": [
+					{ "time": 0.4, "color": "ffffffff" },
+					{ "time": 0.5, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.4, "name": "Gun_Lazer/light_expl" },
+					{ "time": 0.5, "name": null }
+				]
+			},
+			"Gun_Lazer/light_expl6": {
+				"color": [
+					{ "time": 0.3333, "color": "ffffffff" },
+					{ "time": 0.4667, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.3333, "name": "Gun_Lazer/light_expl" },
+					{ "time": 0.4667, "name": null }
+				]
+			}
+		},
+		"bones": {
+			"head": {
+				"translate": [
+					{
+						"time": 0,
+						"x": 0,
+						"y": 0,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.1667,
+						"x": 0,
+						"y": 3.51,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.2,
+						"x": -0.71,
+						"y": -14.08,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 0.5, "x": 0, "y": 0 }
+				]
+			},
+			"body2": {
+				"rotate": [
+					{
+						"time": 0,
+						"angle": 0,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.2,
+						"angle": 18.06,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 0.5, "angle": 0 }
+				]
+			},
+			"body3": {
+				"rotate": [
+					{
+						"time": 0,
+						"angle": 0,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.1667,
+						"angle": 17.5,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 0.5, "angle": 0 }
+				]
+			},
+			"body5": {
+				"rotate": [
+					{
+						"time": 0,
+						"angle": 0,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.2,
+						"angle": 14.81,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 0.5, "angle": 0 }
+				]
+			},
+			"body6": {
+				"rotate": [
+					{
+						"time": 0,
+						"angle": 0,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.1667,
+						"angle": 26.27,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 0.5, "angle": 0 }
+				]
+			},
+			"fx": {
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1 },
+					{ "time": 0.3333, "x": 1.287, "y": 1.287 }
+				]
+			},
+			"light_exp2": {
+				"translate": [
+					{ "time": 0.1, "x": 4.3, "y": -160.32 },
+					{ "time": 0.1667, "x": 2.15, "y": 92.54 }
+				]
+			},
+			"light_exp3": {
+				"translate": [
+					{ "time": 0.0667, "x": 4.3, "y": -160.32 },
+					{ "time": 0.1333, "x": 2.15, "y": 92.54 }
+				]
+			},
+			"Scale": {
+				"translate": [
+					{ "time": 0.1333, "x": 0, "y": 0 },
+					{ "time": 0.2, "x": 0, "y": -5.36 },
+					{ "time": 0.3333, "x": 0, "y": 0 }
+				]
+			},
+			"light_exp4": {
+				"translate": [
+					{ "time": 0.1667, "x": 4.3, "y": -160.32 },
+					{ "time": 0.2667, "x": 2.15, "y": 92.54 }
+				]
+			},
+			"light_exp5": {
+				"translate": [
+					{ "time": 0.4, "x": 4.3, "y": -160.32 },
+					{ "time": 0.5, "x": 2.15, "y": 92.54 }
+				]
+			},
+			"light_exp6": {
+				"translate": [
+					{ "time": 0.3333, "x": 4.3, "y": -160.32 },
+					{ "time": 0.4333, "x": 2.15, "y": 92.54 }
+				]
+			}
+		}
+	}
+}
+}

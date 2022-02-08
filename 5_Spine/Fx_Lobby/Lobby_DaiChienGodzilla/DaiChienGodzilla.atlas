@@ -1,0 +1,251 @@
+
+DaiChienGodzilla.png
+size: 993,959
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0/1 (1)
+  rotate: true
+  xy: 902, 855
+  size: 102, 89
+  orig: 102, 89
+  offset: 0, 0
+  index: -1
+0/1 (2)
+  rotate: true
+  xy: 902, 751
+  size: 102, 89
+  orig: 102, 89
+  offset: 0, 0
+  index: -1
+0/1 (3)
+  rotate: false
+  xy: 422, 130
+  size: 102, 89
+  orig: 102, 89
+  offset: 0, 0
+  index: -1
+0/1 (4)
+  rotate: false
+  xy: 697, 19
+  size: 102, 89
+  orig: 102, 89
+  offset: 0, 0
+  index: -1
+0/1 (5)
+  rotate: false
+  xy: 801, 19
+  size: 102, 89
+  orig: 102, 89
+  offset: 0, 0
+  index: -1
+0/1 (6)
+  rotate: true
+  xy: 898, 474
+  size: 102, 89
+  orig: 102, 89
+  offset: 0, 0
+  index: -1
+1/4
+  rotate: true
+  xy: 422, 375
+  size: 152, 100
+  orig: 152, 100
+  offset: 0, 0
+  index: -1
+1/5
+  rotate: true
+  xy: 422, 221
+  size: 152, 100
+  orig: 152, 100
+  offset: 0, 0
+  index: -1
+1/6
+  rotate: true
+  xy: 524, 299
+  size: 152, 100
+  orig: 152, 100
+  offset: 0, 0
+  index: -1
+1/7
+  rotate: true
+  xy: 626, 299
+  size: 152, 100
+  orig: 152, 100
+  offset: 0, 0
+  index: -1
+1/8
+  rotate: false
+  xy: 728, 354
+  size: 152, 100
+  orig: 152, 100
+  offset: 0, 0
+  index: -1
+1/redlight
+  rotate: false
+  xy: 524, 453
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+FX
+  rotate: false
+  xy: 2, 529
+  size: 483, 428
+  orig: 483, 428
+  offset: 0, 0
+  index: -1
+Text_Godzilla
+  rotate: false
+  xy: 2, 2
+  size: 449, 123
+  orig: 449, 123
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 487, 583
+  size: 302, 374
+  orig: 302, 374
+  offset: 0, 0
+  index: -1
+gold2
+  rotate: true
+  xy: 487, 538
+  size: 43, 35
+  orig: 43, 35
+  offset: 0, 0
+  index: -1
+gold3
+  rotate: false
+  xy: 648, 184
+  size: 44, 46
+  orig: 44, 46
+  offset: 0, 0
+  index: -1
+gold4
+  rotate: false
+  xy: 907, 597
+  size: 54, 53
+  orig: 54, 53
+  offset: 0, 0
+  index: -1
+gold5
+  rotate: false
+  xy: 575, 17
+  size: 62, 36
+  orig: 62, 36
+  offset: 0, 0
+  index: -1
+gold6
+  rotate: false
+  xy: 639, 17
+  size: 41, 36
+  orig: 41, 36
+  offset: 0, 0
+  index: -1
+gold8
+  rotate: false
+  xy: 526, 130
+  size: 40, 45
+  orig: 40, 45
+  offset: 0, 0
+  index: -1
+l_hand
+  rotate: false
+  xy: 791, 578
+  size: 114, 139
+  orig: 114, 139
+  offset: 0, 0
+  index: -1
+light
+  rotate: true
+  xy: 648, 232
+  size: 65, 63
+  orig: 65, 63
+  offset: 0, 0
+  index: -1
+lightingl1/lightingl1_00
+  rotate: false
+  xy: 654, 461
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+lightingl1/lightingl1_02
+  rotate: false
+  xy: 776, 456
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+lightingl1/lightingl1_04
+  rotate: false
+  xy: 453, 8
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+lightingl1/lightingl1_06
+  rotate: false
+  xy: 728, 232
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+lightingl1/lightingl1_08
+  rotate: false
+  xy: 526, 177
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+lightingl1/lightingl1_10
+  rotate: false
+  xy: 850, 232
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+lightingl1/lightingl1_13
+  rotate: false
+  xy: 575, 55
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+lightingl1/lightingl1_15
+  rotate: false
+  xy: 697, 110
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+lightingl1/lightingl1_17
+  rotate: false
+  xy: 819, 110
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+r_hand
+  rotate: true
+  xy: 907, 652
+  size: 97, 84
+  orig: 97, 84
+  offset: 0, 0
+  index: -1
+tail
+  rotate: false
+  xy: 2, 127
+  size: 418, 400
+  orig: 418, 400
+  offset: 0, 0
+  index: -1
+text_daichien
+  rotate: true
+  xy: 791, 719
+  size: 238, 109
+  orig: 238, 109
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,195 @@
+
+FX_Magic_Explosion.png
+size: 567,1068
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1/1 (10)
+  rotate: false
+  xy: 430, 510
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: -1
+1/1 (11)
+  rotate: false
+  xy: 430, 383
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: -1
+1/1 (12)
+  rotate: false
+  xy: 430, 256
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: -1
+1/1 (13)
+  rotate: false
+  xy: 313, 129
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: -1
+1/1 (14)
+  rotate: false
+  xy: 440, 129
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: -1
+1/1 (15)
+  rotate: false
+  xy: 313, 2
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: -1
+1/1 (16)
+  rotate: false
+  xy: 440, 2
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: -1
+1/1 (6)
+  rotate: false
+  xy: 303, 555
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: -1
+1/1 (7)
+  rotate: false
+  xy: 303, 428
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: -1
+1/1 (8)
+  rotate: false
+  xy: 303, 301
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: -1
+1/1 (9)
+  rotate: false
+  xy: 430, 637
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: -1
+Scan_Miniboss
+  rotate: false
+  xy: 423, 764
+  size: 139, 139
+  orig: 139, 139
+  offset: 0, 0
+  index: -1
+fx (6)
+  rotate: false
+  xy: 303, 682
+  size: 118, 108
+  orig: 118, 108
+  offset: 0, 0
+  index: -1
+fx (7)
+  rotate: false
+  xy: 165, 62
+  size: 146, 146
+  orig: 146, 146
+  offset: 0, 0
+  index: -1
+fx (8)
+  rotate: false
+  xy: 2, 810
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+fx2/scifi_exp0
+  rotate: false
+  xy: 2, 561
+  size: 161, 136
+  orig: 161, 136
+  offset: 0, 0
+  index: -1
+fx2/scifi_exp1
+  rotate: false
+  xy: 2, 423
+  size: 161, 136
+  orig: 161, 136
+  offset: 0, 0
+  index: -1
+fx2/scifi_exp10
+  rotate: true
+  xy: 165, 210
+  size: 161, 136
+  orig: 161, 136
+  offset: 0, 0
+  index: -1
+fx2/scifi_exp2
+  rotate: false
+  xy: 2, 285
+  size: 161, 136
+  orig: 161, 136
+  offset: 0, 0
+  index: -1
+fx2/scifi_exp3
+  rotate: false
+  xy: 2, 147
+  size: 161, 136
+  orig: 161, 136
+  offset: 0, 0
+  index: -1
+fx2/scifi_exp4
+  rotate: false
+  xy: 2, 9
+  size: 161, 136
+  orig: 161, 136
+  offset: 0, 0
+  index: -1
+fx2/scifi_exp5
+  rotate: false
+  xy: 260, 792
+  size: 161, 136
+  orig: 161, 136
+  offset: 0, 0
+  index: -1
+fx2/scifi_exp6
+  rotate: true
+  xy: 423, 905
+  size: 161, 136
+  orig: 161, 136
+  offset: 0, 0
+  index: -1
+fx2/scifi_exp7
+  rotate: true
+  xy: 165, 536
+  size: 161, 136
+  orig: 161, 136
+  offset: 0, 0
+  index: -1
+fx2/scifi_exp8
+  rotate: true
+  xy: 165, 373
+  size: 161, 136
+  orig: 161, 136
+  offset: 0, 0
+  index: -1
+fx2/scifi_exp9
+  rotate: false
+  xy: 260, 930
+  size: 161, 136
+  orig: 161, 136
+  offset: 0, 0
+  index: -1
+fx6
+  rotate: false
+  xy: 2, 699
+  size: 194, 109
+  orig: 194, 109
+  offset: 0, 0
+  index: -1

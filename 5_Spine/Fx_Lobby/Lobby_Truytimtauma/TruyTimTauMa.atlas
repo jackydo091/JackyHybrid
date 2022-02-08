@@ -1,0 +1,209 @@
+
+TruyTimTauMa.png
+size: 898,583
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FX/light
+  rotate: false
+  xy: 694, 63
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+anchor
+  rotate: false
+  xy: 634, 317
+  size: 223, 264
+  orig: 223, 264
+  offset: 0, 0
+  index: -1
+bongbong
+  rotate: false
+  xy: 2, 2
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+bubble1
+  rotate: false
+  xy: 824, 102
+  size: 69, 89
+  orig: 69, 89
+  offset: 0, 0
+  index: -1
+bubble2
+  rotate: true
+  xy: 694, 10
+  size: 51, 56
+  orig: 51, 56
+  offset: 0, 0
+  index: -1
+cord
+  rotate: true
+  xy: 494, 10
+  size: 213, 62
+  orig: 213, 62
+  offset: 0, 0
+  index: -1
+cord1
+  rotate: true
+  xy: 859, 520
+  size: 61, 35
+  orig: 61, 35
+  offset: 0, 0
+  index: -1
+gold
+  rotate: false
+  xy: 578, 193
+  size: 274, 122
+  orig: 274, 122
+  offset: 0, 0
+  index: -1
+gold1
+  rotate: false
+  xy: 637, 2
+  size: 26, 25
+  orig: 26, 25
+  offset: 0, 0
+  index: -1
+gold10
+  rotate: false
+  xy: 637, 29
+  size: 29, 23
+  orig: 29, 23
+  offset: 0, 0
+  index: -1
+gold2
+  rotate: false
+  xy: 854, 233
+  size: 39, 39
+  orig: 39, 39
+  offset: 0, 0
+  index: -1
+gold3
+  rotate: true
+  xy: 558, 13
+  size: 39, 43
+  orig: 39, 43
+  offset: 0, 0
+  index: -1
+gold4
+  rotate: false
+  xy: 859, 443
+  size: 31, 30
+  orig: 31, 30
+  offset: 0, 0
+  index: -1
+gold5
+  rotate: false
+  xy: 752, 39
+  size: 30, 22
+  orig: 30, 22
+  offset: 0, 0
+  index: -1
+gold6
+  rotate: true
+  xy: 859, 475
+  size: 43, 34
+  orig: 43, 34
+  offset: 0, 0
+  index: -1
+gold7
+  rotate: true
+  xy: 578, 320
+  size: 52, 54
+  orig: 52, 54
+  offset: 0, 0
+  index: -1
+gold8
+  rotate: false
+  xy: 603, 19
+  size: 32, 33
+  orig: 32, 33
+  offset: 0, 0
+  index: -1
+gold9
+  rotate: false
+  xy: 854, 206
+  size: 39, 25
+  orig: 39, 25
+  offset: 0, 0
+  index: -1
+light
+  rotate: true
+  xy: 2, 18
+  size: 286, 219
+  orig: 286, 219
+  offset: 0, 0
+  index: -1
+sail
+  rotate: false
+  xy: 2, 306
+  size: 281, 275
+  orig: 281, 275
+  offset: 0, 0
+  index: -1
+seafood1
+  rotate: false
+  xy: 558, 54
+  size: 134, 137
+  orig: 134, 137
+  offset: 0, 0
+  index: -1
+seafood2
+  rotate: false
+  xy: 854, 274
+  size: 42, 41
+  orig: 42, 41
+  offset: 0, 0
+  index: -1
+seafood3
+  rotate: false
+  xy: 824, 32
+  size: 71, 68
+  orig: 71, 68
+  offset: 0, 0
+  index: -1
+seafood4
+  rotate: true
+  xy: 558, 202
+  size: 21, 18
+  orig: 21, 18
+  offset: 0, 0
+  index: -1
+seafood5
+  rotate: false
+  xy: 668, 24
+  size: 24, 28
+  orig: 24, 28
+  offset: 0, 0
+  index: -1
+ship
+  rotate: false
+  xy: 223, 16
+  size: 269, 207
+  orig: 269, 207
+  offset: 0, 0
+  index: -1
+text
+  rotate: false
+  xy: 285, 225
+  size: 291, 147
+  orig: 291, 147
+  offset: 0, 0
+  index: -1
+wave
+  rotate: false
+  xy: 285, 374
+  size: 347, 207
+  orig: 347, 207
+  offset: 0, 0
+  index: -1
+wave1
+  rotate: true
+  xy: 223, 229
+  size: 75, 60
+  orig: 75, 60
+  offset: 0, 0
+  index: -1

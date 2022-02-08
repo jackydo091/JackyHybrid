@@ -1,0 +1,69 @@
+
+Fish_1988.png
+size: 1476,1476
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+17_x30x100/Body
+  rotate: true
+  xy: 682, 719
+  size: 153, 81
+  orig: 153, 81
+  offset: 0, 0
+  index: -1
+17_x30x100/Fin
+  rotate: true
+  xy: 1386, 1083
+  size: 44, 85
+  orig: 44, 85
+  offset: 0, 0
+  index: -1
+17_x30x100/Fin_Mid_1
+  rotate: true
+  xy: 1469, 476
+  size: 35, 5
+  orig: 35, 5
+  offset: 0, 0
+  index: -1
+17_x30x100/Fin_Mid_2
+  rotate: true
+  xy: 1344, 33
+  size: 31, 10
+  orig: 31, 10
+  offset: 0, 0
+  index: -1
+17_x30x100/Fin_bot
+  rotate: true
+  xy: 1385, 583
+  size: 65, 31
+  orig: 65, 31
+  offset: 0, 0
+  index: -1
+17_x30x100/Shadown
+  rotate: false
+  xy: 360, 33
+  size: 116, 91
+  orig: 116, 91
+  offset: 0, 0
+  index: -1
+17_x30x100/Tail
+  rotate: true
+  xy: 1451, 273
+  size: 49, 12
+  orig: 49, 12
+  offset: 0, 0
+  index: -1
+17_x30x100/mouth_bottom
+  rotate: true
+  xy: 1365, 952
+  size: 51, 77
+  orig: 51, 77
+  offset: 0, 0
+  index: -1
+17_x30x100/teeth
+  rotate: false
+  xy: 1337, 89
+  size: 14, 37
+  orig: 14, 37
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,181 @@
+
+Fish_1988.png
+size: 1476,1476
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+21_x150/Arm_1
+  rotate: true
+  xy: 950, 265
+  size: 69, 38
+  orig: 69, 38
+  offset: 0, 0
+  index: -1
+21_x150/Arm_2
+  rotate: true
+  xy: 1131, 41
+  size: 50, 38
+  orig: 50, 38
+  offset: 0, 0
+  index: -1
+21_x150/Arm_3
+  rotate: true
+  xy: 987, 193
+  size: 70, 10
+  orig: 70, 10
+  offset: 0, 0
+  index: -1
+21_x150/Arm_4
+  rotate: true
+  xy: 1199, 72
+  size: 47, 28
+  orig: 47, 28
+  offset: 0, 0
+  index: -1
+21_x150/BodyFin_1
+  rotate: false
+  xy: 1364, 526
+  size: 19, 40
+  orig: 19, 40
+  offset: 0, 0
+  index: -1
+21_x150/Body_2
+  rotate: true
+  xy: 1247, 557
+  size: 20, 35
+  orig: 20, 35
+  offset: 0, 0
+  index: -1
+21_x150/Eye_White
+  rotate: false
+  xy: 1136, 620
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: -1
+21_x150/Head_1
+  rotate: false
+  xy: 1012, 647
+  size: 27, 75
+  orig: 27, 75
+  offset: 0, 0
+  index: -1
+21_x150/Head_2
+  rotate: true
+  xy: 825, 59
+  size: 44, 65
+  orig: 44, 65
+  offset: 0, 0
+  index: -1
+21_x150/Head_3
+  rotate: false
+  xy: 893, 261
+  size: 55, 70
+  orig: 55, 70
+  offset: 0, 0
+  index: -1
+21_x150/Head_4
+  rotate: false
+  xy: 1307, 30
+  size: 35, 29
+  orig: 35, 29
+  offset: 0, 0
+  index: -1
+21_x150/Head_5
+  rotate: false
+  xy: 1187, 169
+  size: 21, 28
+  orig: 21, 28
+  offset: 0, 0
+  index: -1
+21_x150/Partiicle_1
+  rotate: false
+  xy: 1058, 268
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+21_x150/Partiicle_2
+  rotate: false
+  xy: 386, 770
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+21_x150/Partiicle_3
+  rotate: false
+  xy: 1441, 164
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+21_x150/Partiicle_4
+  rotate: false
+  xy: 1084, 2
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+21_x150/Tentacle_1
+  rotate: false
+  xy: 1174, 788
+  size: 149, 32
+  orig: 149, 32
+  offset: 0, 0
+  index: -1
+21_x150/Tentacle_2
+  rotate: true
+  xy: 1435, 1252
+  size: 119, 11
+  orig: 119, 11
+  offset: 0, 0
+  index: -1
+21_x150/Tentacle_3
+  rotate: false
+  xy: 975, 926
+  size: 155, 24
+  orig: 155, 24
+  offset: 0, 0
+  index: -1
+21_x150/Tentacle_4
+  rotate: true
+  xy: 1451, 1329
+  size: 145, 23
+  orig: 145, 23
+  offset: 0, 0
+  index: -1
+21_x150/Tentacle_5
+  rotate: false
+  xy: 478, 2
+  size: 109, 18
+  orig: 109, 18
+  offset: 0, 0
+  index: -1
+21_x150/Tentacle_6
+  rotate: true
+  xy: 638, 75
+  size: 134, 38
+  orig: 134, 38
+  offset: 0, 0
+  index: -1
+21_x150/Tongue
+  rotate: true
+  xy: 356, 135
+  size: 52, 20
+  orig: 52, 20
+  offset: 0, 0
+  index: -1
+21_x150/dom_dom
+  rotate: false
+  xy: 598, 487
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+21_x150/shadow
+  rotate: false
+  xy: 969, 494
+  size: 64, 35
+  orig: 64, 35
+  offset: 0, 0
+  index: -1

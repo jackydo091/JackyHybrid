@@ -1,0 +1,20 @@
+
+Gun_1988.png
+size: 1666,396
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Gun1/Gun_LV1
+  rotate: false
+  xy: 478, 223
+  size: 56, 171
+  orig: 56, 171
+  offset: 0, 0
+  index: -1
+Gun1/Gun_LV1_Light
+  rotate: true
+  xy: 1586, 208
+  size: 36, 41
+  orig: 36, 41
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,167 @@
+
+Jackpot_No.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Arrow
+  rotate: false
+  xy: 438, 2
+  size: 53, 84
+  orig: 53, 84
+  offset: 0, 0
+  index: -1
+Big_Frame
+  rotate: false
+  xy: 2, 516
+  size: 996, 506
+  orig: 996, 506
+  offset: 0, 0
+  index: -1
+Boris
+  rotate: false
+  xy: 493, 20
+  size: 119, 36
+  orig: 119, 36
+  offset: 0, 0
+  index: -1
+Boris_Face
+  rotate: false
+  xy: 824, 360
+  size: 119, 154
+  orig: 119, 154
+  offset: 0, 0
+  index: -1
+Boris_Face_1
+  rotate: false
+  xy: 824, 204
+  size: 119, 154
+  orig: 119, 154
+  offset: 0, 0
+  index: -1
+Boris_unglow
+  rotate: false
+  xy: 614, 30
+  size: 109, 26
+  orig: 109, 26
+  offset: 0, 0
+  index: -1
+Coin_Back
+  rotate: true
+  xy: 735, 154
+  size: 360, 87
+  orig: 360, 87
+  offset: 0, 0
+  index: -1
+Coin_Front
+  rotate: true
+  xy: 690, 394
+  size: 120, 42
+  orig: 120, 42
+  offset: 0, 0
+  index: -1
+Line_1
+  rotate: false
+  xy: 289, 2
+  size: 53, 10
+  orig: 53, 10
+  offset: 0, 0
+  index: -1
+Mission_Success_unglow
+  rotate: false
+  xy: 135, 7
+  size: 152, 79
+  orig: 152, 79
+  offset: 0, 0
+  index: -1
+Star_1
+  rotate: false
+  xy: 922, 8
+  size: 95, 85
+  orig: 95, 85
+  offset: 0, 0
+  index: -1
+Wanted
+  rotate: true
+  xy: 945, 357
+  size: 157, 35
+  orig: 157, 35
+  offset: 0, 0
+  index: -1
+Wanted_unglow
+  rotate: true
+  xy: 945, 207
+  size: 148, 25
+  orig: 148, 25
+  offset: 0, 0
+  index: -1
+Warning_1
+  rotate: true
+  xy: 1000, 1002
+  size: 20, 22
+  orig: 20, 22
+  offset: 0, 0
+  index: -1
+X
+  rotate: false
+  xy: 735, 51
+  size: 94, 101
+  orig: 94, 101
+  offset: 0, 0
+  index: -1
+arrow_blue
+  rotate: false
+  xy: 982, 494
+  size: 14, 20
+  orig: 14, 20
+  offset: 0, 0
+  index: -1
+fire
+  rotate: true
+  xy: 501, 58
+  size: 320, 232
+  orig: 320, 232
+  offset: 0, 0
+  index: -1
+flame
+  rotate: true
+  xy: 289, 14
+  size: 72, 147
+  orig: 72, 180
+  offset: 0, 16
+  index: -1
+jackpot
+  rotate: true
+  xy: 2, 2
+  size: 512, 131
+  orig: 512, 131
+  offset: 0, 0
+  index: -1
+mission_success
+  rotate: true
+  xy: 831, 41
+  size: 161, 89
+  orig: 161, 89
+  offset: 0, 0
+  index: -1
+panel_money
+  rotate: false
+  xy: 135, 380
+  size: 553, 134
+  orig: 553, 134
+  offset: 0, 0
+  index: -1
+smoke
+  rotate: true
+  xy: 922, 95
+  size: 107, 89
+  orig: 107, 93
+  offset: 0, 1
+  index: -1
+space_Ship
+  rotate: false
+  xy: 135, 88
+  size: 364, 290
+  orig: 364, 290
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,68 @@
+{
+  "ver": "1.0.21",
+  "importer": "image",
+  "imported": true,
+  "uuid": "8d5d9d45-2e36-43ab-b59f-2df78a131fdb",
+  "files": [
+    ".png",
+    ".json"
+  ],
+  "subMetas": {
+    "Matrix": {
+      "ver": "1.0.4",
+      "uuid": "fca6bea4-5859-47f1-861c-7ec901f52419",
+      "rawTextureUuid": "8d5d9d45-2e36-43ab-b59f-2df78a131fdb",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 2,
+      "trimY": 2,
+      "width": 105,
+      "height": 42,
+      "rawWidth": 109,
+      "rawHeight": 46,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {},
+      "importer": "*",
+      "imported": false,
+      "files": [],
+      "userData": {},
+      "displayName": "",
+      "id": "",
+      "name": ""
+    },
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "8d5d9d45-2e36-43ab-b59f-2df78a131fdb@6c48a",
+      "displayName": "Matrix",
+      "id": "6c48a",
+      "name": "texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "8d5d9d45-2e36-43ab-b59f-2df78a131fdb"
+      },
+      "ver": "1.0.21",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "hasAlpha": true,
+    "type": "texture",
+    "redirect": "8d5d9d45-2e36-43ab-b59f-2df78a131fdb@6c48a"
+  }
+}

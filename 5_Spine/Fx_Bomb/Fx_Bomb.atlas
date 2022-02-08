@@ -1,0 +1,20 @@
+
+Fx_Bomb.png
+size: 1284,1282
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+96 (7)
+  rotate: false
+  xy: 2, 318
+  size: 256, 240
+  orig: 257, 240
+  offset: 0, 0
+  index: -1
+Layer 2
+  rotate: false
+  xy: 2, 560
+  size: 1280, 720
+  orig: 1280, 720
+  offset: 0, 0
+  index: -1

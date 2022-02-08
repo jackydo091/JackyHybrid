@@ -1,0 +1,68 @@
+{
+  "ver": "1.0.21",
+  "importer": "image",
+  "imported": true,
+  "uuid": "b4b4bfcc-d4de-4646-abcf-5fd45e13f7b6",
+  "files": [
+    ".png",
+    ".json"
+  ],
+  "subMetas": {
+    "Stt_Sung": {
+      "ver": "1.0.4",
+      "uuid": "1ea6a33d-b25c-476c-a70d-4e7d7d5b3387",
+      "rawTextureUuid": "b4b4bfcc-d4de-4646-abcf-5fd45e13f7b6",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": -1,
+      "trimX": 2,
+      "trimY": 4,
+      "width": 1020,
+      "height": 464,
+      "rawWidth": 1024,
+      "rawHeight": 470,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {},
+      "importer": "*",
+      "imported": false,
+      "files": [],
+      "userData": {},
+      "displayName": "",
+      "id": "",
+      "name": ""
+    },
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "b4b4bfcc-d4de-4646-abcf-5fd45e13f7b6@6c48a",
+      "displayName": "Stt_Sung",
+      "id": "6c48a",
+      "name": "texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 1,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "b4b4bfcc-d4de-4646-abcf-5fd45e13f7b6"
+      },
+      "ver": "1.0.21",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "hasAlpha": true,
+    "type": "texture",
+    "redirect": "b4b4bfcc-d4de-4646-abcf-5fd45e13f7b6@6c48a"
+  }
+}

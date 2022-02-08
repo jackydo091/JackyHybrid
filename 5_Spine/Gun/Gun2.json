@@ -1,0 +1,139 @@
+{
+"skeleton": { "hash": "mZDCe/9/a8AuQ71LiDUVTAQ8HBE", "spine": "3.7.94", "width": 33.74, "height": 101.14 },
+"bones": [
+	{ "name": "root" },
+	{ "name": "All", "parent": "root", "scaleX": 0.5, "scaleY": 0.5 },
+	{ "name": "body", "parent": "All", "length": 103.8, "rotation": 90 },
+	{ "name": "head", "parent": "body", "x": 161.82, "y": -0.26 }
+],
+"slots": [
+	{ "name": "sung2/image/body", "bone": "body", "attachment": "Gun2/body" },
+	{ "name": "sung2/image/daunong", "bone": "head", "attachment": "Gun2/daunong" },
+	{ "name": "sung2/image/light", "bone": "body", "attachment": "Gun2/light" },
+	{ "name": "sung2/image/light5", "bone": "body" },
+	{ "name": "sung2/image/light3", "bone": "body" },
+	{ "name": "sung2/image/light4", "bone": "body" },
+	{ "name": "sung2/image/light2", "bone": "head", "attachment": "Gun2/light2" }
+],
+"skins": {
+	"default": {
+		"sung2/image/body": {
+			"Gun2/body": { "x": 62.49, "y": -0.68, "rotation": -90.62, "width": 66, "height": 137 }
+		},
+		"sung2/image/daunong": {
+			"Gun2/daunong": { "x": -8.14, "y": -1.53, "rotation": -90.62, "width": 46, "height": 84 }
+		},
+		"sung2/image/light": {
+			"Gun2/light": { "x": 74.16, "y": -0.5, "rotation": -90.62, "width": 44, "height": 10 }
+		},
+		"sung2/image/light2": {
+			"Gun2/light2": { "x": -3.9, "y": -1.25, "rotation": -90.62, "width": 15, "height": 58 }
+		},
+		"sung2/image/light3": {
+			"Gun2/light2": { "x": 65.26, "y": -0.4, "rotation": -90.62, "width": 15, "height": 58 }
+		},
+		"sung2/image/light4": {
+			"Gun2/light2": { "x": 56.38, "y": -0.32, "rotation": -90.62, "width": 15, "height": 58 }
+		},
+		"sung2/image/light5": {
+			"Gun2/light2": { "x": 45.88, "y": -0.2, "rotation": -90.62, "width": 15, "height": 58 }
+		}
+	}
+},
+"animations": {
+	"idle": {
+		"slots": {
+			"sung2/image/light": {
+				"attachment": [
+					{ "time": 0.2667, "name": null }
+				]
+			},
+			"sung2/image/light2": {
+				"color": [
+					{ "time": 0, "color": "ffffffff" },
+					{ "time": 0.1667, "color": "ffffff9b" },
+					{ "time": 0.3333, "color": "ffffffff" }
+				]
+			},
+			"sung2/image/light3": {
+				"attachment": [
+					{ "time": 0.0667, "name": "Gun2/light2" },
+					{ "time": 0.3, "name": null }
+				]
+			},
+			"sung2/image/light4": {
+				"attachment": [
+					{ "time": 0.1333, "name": "Gun2/light2" },
+					{ "time": 0.3333, "name": null }
+				]
+			},
+			"sung2/image/light5": {
+				"attachment": [
+					{ "time": 0.2, "name": "Gun2/light2" }
+				]
+			}
+		}
+	},
+	"shoot": {
+		"slots": {
+			"sung2/image/light": {
+				"attachment": [
+					{ "time": 0.0667, "name": null },
+					{ "time": 0.1333, "name": "Gun2/light" },
+					{ "time": 0.2, "name": null }
+				]
+			},
+			"sung2/image/light3": {
+				"attachment": [
+					{ "time": 0, "name": "Gun2/light2" },
+					{ "time": 0.0667, "name": null },
+					{ "time": 0.1333, "name": "Gun2/light2" },
+					{ "time": 0.2, "name": null }
+				]
+			},
+			"sung2/image/light4": {
+				"attachment": [
+					{ "time": 0, "name": "Gun2/light2" },
+					{ "time": 0.0667, "name": null },
+					{ "time": 0.1333, "name": "Gun2/light2" },
+					{ "time": 0.2, "name": null }
+				]
+			},
+			"sung2/image/light5": {
+				"attachment": [
+					{ "time": 0, "name": "Gun2/light2" },
+					{ "time": 0.0667, "name": null },
+					{ "time": 0.1333, "name": "Gun2/light2" },
+					{ "time": 0.2, "name": null }
+				]
+			}
+		},
+		"bones": {
+			"body": {
+				"translate": [
+					{
+						"time": 0,
+						"x": 0,
+						"y": 0,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.0667,
+						"x": 0.14,
+						"y": -12.46,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 0.2, "x": 0, "y": 0 }
+				]
+			},
+			"head": {
+				"translate": [
+					{ "time": 0, "x": 0, "y": -0.24 },
+					{ "time": 0.1, "x": -10.66, "y": 0.2 },
+					{ "time": 0.2, "x": 0, "y": -0.24 }
+				]
+			}
+		}
+	}
+}
+}

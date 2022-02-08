@@ -1,0 +1,118 @@
+
+Jackpot_Noti.png
+size: 1000,914
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Big_Frame
+  rotate: false
+  xy: 2, 406
+  size: 996, 506
+  orig: 996, 506
+  offset: 0, 0
+  index: -1
+Boris_Face
+  rotate: true
+  xy: 823, 285
+  size: 119, 154
+  orig: 119, 154
+  offset: 0, 0
+  index: -1
+Boris_Face_1
+  rotate: true
+  xy: 823, 164
+  size: 119, 154
+  orig: 119, 154
+  offset: 0, 0
+  index: -1
+Drone
+  rotate: true
+  xy: 633, 2
+  size: 70, 65
+  orig: 70, 65
+  offset: 0, 0
+  index: -1
+Light
+  rotate: true
+  xy: 736, 77
+  size: 182, 50
+  orig: 182, 50
+  offset: 0, 0
+  index: -1
+Star_1
+  rotate: false
+  xy: 788, 77
+  size: 95, 85
+  orig: 95, 85
+  offset: 0, 0
+  index: -1
+Star_blue
+  rotate: false
+  xy: 885, 77
+  size: 95, 85
+  orig: 95, 85
+  offset: 0, 0
+  index: -1
+Wanted
+  rotate: false
+  xy: 2, 3
+  size: 157, 35
+  orig: 157, 35
+  offset: 0, 0
+  index: -1
+Wanted_unglow
+  rotate: false
+  xy: 161, 13
+  size: 148, 25
+  orig: 148, 25
+  offset: 0, 0
+  index: -1
+Wing
+  rotate: false
+  xy: 884, 11
+  size: 58, 64
+  orig: 58, 64
+  offset: 0, 0
+  index: -1
+X
+  rotate: true
+  xy: 633, 165
+  size: 94, 101
+  orig: 94, 101
+  offset: 0, 0
+  index: -1
+fire
+  rotate: false
+  xy: 311, 27
+  size: 320, 232
+  orig: 320, 232
+  offset: 0, 0
+  index: -1
+flame
+  rotate: true
+  xy: 735, 23
+  size: 52, 147
+  orig: 72, 180
+  offset: 10, 16
+  index: -1
+jackpot
+  rotate: false
+  xy: 294, 261
+  size: 527, 143
+  orig: 527, 143
+  offset: 0, 0
+  index: -1
+smoke
+  rotate: false
+  xy: 633, 74
+  size: 100, 89
+  orig: 107, 93
+  offset: 7, 1
+  index: -1
+space_Ship
+  rotate: true
+  xy: 2, 40
+  size: 364, 290
+  orig: 364, 290
+  offset: 0, 0
+  index: -1

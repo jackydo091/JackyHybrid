@@ -1,0 +1,139 @@
+
+Fx_Gun_1988.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Fx_Gun6/Gun6 (1)
+  rotate: false
+  xy: 364, 569
+  size: 226, 146
+  orig: 249, 236
+  offset: 8, 31
+  index: -1
+Fx_Gun6/Gun6 (11)
+  rotate: false
+  xy: 602, 793
+  size: 226, 138
+  orig: 249, 236
+  offset: 8, 36
+  index: -1
+Fx_Gun6/Gun6 (13)
+  rotate: true
+  xy: 1209, 419
+  size: 176, 125
+  orig: 249, 236
+  offset: 30, 42
+  index: -1
+Fx_Gun6/Gun6 (15)
+  rotate: true
+  xy: 1922, 1409
+  size: 176, 112
+  orig: 249, 236
+  offset: 30, 49
+  index: -1
+Fx_Gun6/Gun6 (16)
+  rotate: false
+  xy: 392, 25
+  size: 174, 98
+  orig: 249, 236
+  offset: 31, 56
+  index: -1
+Fx_Gun6/Gun6 (4)
+  rotate: false
+  xy: 136, 544
+  size: 226, 171
+  orig: 249, 236
+  offset: 8, 18
+  index: -1
+Fx_Gun6/Gun6 (5)
+  rotate: false
+  xy: 830, 733
+  size: 226, 181
+  orig: 249, 236
+  offset: 8, 13
+  index: -1
+Fx_Gun6/Gun6 (7)
+  rotate: false
+  xy: 602, 933
+  size: 226, 198
+  orig: 249, 236
+  offset: 8, 6
+  index: -1
+Fx_Gun6/Gun6 (9)
+  rotate: false
+  xy: 808, 593
+  size: 226, 138
+  orig: 249, 236
+  offset: 8, 36
+  index: -1
+Fx_Gun6/Gun7 (1)
+  rotate: false
+  xy: 994, 1371
+  size: 195, 215
+  orig: 233, 215
+  offset: 19, 0
+  index: -1
+Fx_Gun6/Gun7 (10)
+  rotate: true
+  xy: 1256, 983
+  size: 192, 147
+  orig: 233, 215
+  offset: 17, 35
+  index: -1
+Fx_Gun6/Gun7 (2)
+  rotate: false
+  xy: 599, 359
+  size: 209, 215
+  orig: 233, 215
+  offset: 12, 0
+  index: -1
+Fx_Gun6/Gun7 (3)
+  rotate: false
+  xy: 356, 717
+  size: 228, 212
+  orig: 233, 215
+  offset: 3, 0
+  index: -1
+Fx_Gun6/Gun7 (4)
+  rotate: false
+  xy: 1705, 1602
+  size: 232, 212
+  orig: 233, 215
+  offset: 1, 0
+  index: -1
+Fx_Gun6/Gun7 (5)
+  rotate: false
+  xy: 136, 941
+  size: 233, 210
+  orig: 233, 215
+  offset: 0, 1
+  index: -1
+Fx_Gun6/Gun7 (6)
+  rotate: false
+  xy: 392, 1141
+  size: 233, 203
+  orig: 233, 215
+  offset: 0, 7
+  index: -1
+Fx_Gun6/Gun7 (7)
+  rotate: true
+  xy: 175, 309
+  size: 233, 200
+  orig: 233, 215
+  offset: 0, 9
+  index: -1
+Fx_Gun6/Gun7 (8)
+  rotate: true
+  xy: 200, 76
+  size: 231, 190
+  orig: 233, 215
+  offset: 1, 14
+  index: -1
+Fx_Gun6/Gun7 (9)
+  rotate: true
+  xy: 1240, 1177
+  size: 203, 161
+  orig: 233, 215
+  offset: 17, 28
+  index: -1

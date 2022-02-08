@@ -1,0 +1,139 @@
+
+Fish_1988.png
+size: 1476,1476
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+43_Bom/Arm_1
+  rotate: false
+  xy: 360, 16
+  size: 116, 15
+  orig: 116, 15
+  offset: 0, 0
+  index: -1
+43_Bom/Arm_2
+  rotate: true
+  xy: 1202, 303
+  size: 76, 22
+  orig: 76, 22
+  offset: 0, 0
+  index: -1
+43_Bom/Arm_3
+  rotate: false
+  xy: 1226, 298
+  size: 67, 22
+  orig: 67, 22
+  offset: 0, 0
+  index: -1
+43_Bom/Arm_4
+  rotate: false
+  xy: 1228, 557
+  size: 17, 61
+  orig: 17, 61
+  offset: 0, 0
+  index: -1
+43_Bom/Arm_5
+  rotate: false
+  xy: 968, 194
+  size: 17, 69
+  orig: 17, 69
+  offset: 0, 0
+  index: -1
+43_Bom/Arm_6_1
+  rotate: true
+  xy: 1441, 171
+  size: 25, 33
+  orig: 25, 33
+  offset: 0, 0
+  index: -1
+43_Bom/Arm_6_2
+  rotate: true
+  xy: 1121, 119
+  size: 14, 65
+  orig: 14, 65
+  offset: 0, 0
+  index: -1
+43_Bom/Body
+  rotate: true
+  xy: 894, 144
+  size: 46, 59
+  orig: 46, 59
+  offset: 0, 0
+  index: -1
+43_Bom/Eye
+  rotate: true
+  xy: 1268, 61
+  size: 32, 25
+  orig: 32, 25
+  offset: 0, 0
+  index: -1
+43_Bom/Eye_Closed
+  rotate: false
+  xy: 1451, 248
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+43_Bom/Light
+  rotate: true
+  xy: 1012, 599
+  size: 46, 27
+  orig: 46, 27
+  offset: 0, 0
+  index: -1
+43_Bom/Petal
+  rotate: true
+  xy: 1386, 1129
+  size: 112, 88
+  orig: 112, 88
+  offset: 0, 0
+  index: -1
+43_Bom/Petal_2
+  rotate: true
+  xy: 231, 2
+  size: 101, 85
+  orig: 101, 85
+  offset: 0, 0
+  index: -1
+43_Bom/Teeth_3
+  rotate: false
+  xy: 1131, 2
+  size: 44, 37
+  orig: 44, 37
+  offset: 0, 0
+  index: -1
+43_Bom/eye_white
+  rotate: false
+  xy: 1144, 661
+  size: 4, 3
+  orig: 4, 3
+  offset: 0, 0
+  index: -1
+43_Bom/poison_dot
+  rotate: false
+  xy: 662, 864
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+43_Bom/pupil
+  rotate: true
+  xy: 1352, 399
+  size: 12, 13
+  orig: 12, 13
+  offset: 0, 0
+  index: -1
+43_Bom/shadow
+  rotate: true
+  xy: 894, 192
+  size: 67, 52
+  orig: 67, 52
+  offset: 0, 0
+  index: -1
+43_Bom/smoke_04
+  rotate: false
+  xy: 1371, 423
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1

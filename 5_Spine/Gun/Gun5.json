@@ -1,0 +1,508 @@
+{
+"skeleton": { "hash": "trn3bmelKIYwGl/hMTjfWUIfrvM", "spine": "3.7.94", "width": 44.29, "height": 113.09 },
+"bones": [
+	{ "name": "root" },
+	{ "name": "Gun_LV5", "parent": "root", "y": -33.24, "scaleX": 0.43, "scaleY": 0.43 },
+	{ "name": "Gun_LV5_Body2", "parent": "Gun_LV5", "length": 100, "rotation": 90, "x": 30, "y": 80 },
+	{ "name": "Fx", "parent": "Gun_LV5", "y": 110 },
+	{ "name": "Fx2", "parent": "Gun_LV5", "x": -1.96, "y": 110.39 },
+	{ "name": "Gun_LV7", "parent": "Gun_LV5", "scaleX": -1 },
+	{ "name": "Gun_LV5_Body3", "parent": "Gun_LV7", "length": 100, "rotation": 90, "x": 30, "y": 80 }
+],
+"slots": [
+	{ "name": "Gun_LV5_Body2", "bone": "Gun_LV5_Body2", "attachment": "Gun5/Gun_LV5_Body2" },
+	{ "name": "Gun_LV5_Body3", "bone": "Gun_LV5_Body3", "attachment": "Gun5/Gun_LV5_Body2" },
+	{ "name": "Cliping", "bone": "Gun_LV5", "attachment": "Cliping" },
+	{ "name": "Gun_LV5_Light", "bone": "Gun_LV5_Body2", "attachment": "Gun5/Gun_LV5_Light" },
+	{ "name": "Gun_LV5_Light2", "bone": "Gun_LV5_Body3", "attachment": "Gun5/Gun_LV5_Light" },
+	{ "name": "Gun_LV5", "bone": "Gun_LV5", "attachment": "Gun5/Gun_LV5" },
+	{ "name": "Gun_LV5_Layer", "bone": "Gun_LV5", "color": "ffffff00", "attachment": "Gun5/Gun_LV5_Layer2" },
+	{ "name": "Gun_LV5_LightB", "bone": "Gun_LV5", "color": "ffffff00", "attachment": "Gun5/Gun_LV5_LightB" },
+	{ "name": "Gun5/Elements - Electricity 011 Ray Up noCT noRSZ_00000", "bone": "Fx" },
+	{ "name": "Gun5/Elements - Electricity 011 Ray Up noCT noRSZ_0", "bone": "Fx2" }
+],
+"skins": {
+	"default": {
+		"Cliping": {
+			"Cliping": {
+				"type": "clipping",
+				"end": "Gun_LV5_Light2",
+				"vertexCount": 4,
+				"vertices": [ -83.7, 62.12, 111.05, 64.84, 111.59, 279.18, -95.13, 278.09 ]
+			}
+		},
+		"Gun5/Elements - Electricity 011 Ray Up noCT noRSZ_0": {
+			"Gun5/Elements - Electricity 011 Ray Up noCT noRSZ_00000": { "width": 100, "height": 100 },
+			"Gun5/Elements - Electricity 011 Ray Up noCT noRSZ_00001": { "width": 100, "height": 100 },
+			"Gun5/Elements - Electricity 011 Ray Up noCT noRSZ_00002": { "width": 100, "height": 100 },
+			"Gun5/Elements - Electricity 011 Ray Up noCT noRSZ_00003": { "width": 100, "height": 100 },
+			"Gun5/Elements - Electricity 011 Ray Up noCT noRSZ_00005": { "width": 100, "height": 100 },
+			"Gun5/Elements - Electricity 011 Ray Up noCT noRSZ_00007": { "width": 100, "height": 100 },
+			"Gun5/Elements - Electricity 011 Ray Up noCT noRSZ_00009": { "width": 100, "height": 100 },
+			"Gun5/Elements - Electricity 011 Ray Up noCT noRSZ_00010": { "width": 100, "height": 100 },
+			"Gun5/Elements - Electricity 011 Ray Up noCT noRSZ_00012": { "width": 100, "height": 100 },
+			"Gun5/Elements - Electricity 011 Ray Up noCT noRSZ_00014": { "width": 100, "height": 100 }
+		},
+		"Gun5/Elements - Electricity 011 Ray Up noCT noRSZ_00000": {
+			"Gun5/Elements - Electricity 011 Ray Up noCT noRSZ_00000": { "width": 100, "height": 100 },
+			"Gun5/Elements - Electricity 011 Ray Up noCT noRSZ_00001": { "width": 100, "height": 100 },
+			"Gun5/Elements - Electricity 011 Ray Up noCT noRSZ_00002": { "width": 100, "height": 100 },
+			"Gun5/Elements - Electricity 011 Ray Up noCT noRSZ_00003": { "width": 100, "height": 100 },
+			"Gun5/Elements - Electricity 011 Ray Up noCT noRSZ_00005": { "width": 100, "height": 100 },
+			"Gun5/Elements - Electricity 011 Ray Up noCT noRSZ_00007": { "width": 100, "height": 100 },
+			"Gun5/Elements - Electricity 011 Ray Up noCT noRSZ_00009": { "width": 100, "height": 100 },
+			"Gun5/Elements - Electricity 011 Ray Up noCT noRSZ_00010": { "width": 100, "height": 100 },
+			"Gun5/Elements - Electricity 011 Ray Up noCT noRSZ_00012": { "width": 100, "height": 100 },
+			"Gun5/Elements - Electricity 011 Ray Up noCT noRSZ_00014": { "width": 100, "height": 100 }
+		},
+		"Gun_LV5": {
+			"Gun5/Gun_LV5": { "x": -0.66, "y": 128.05, "width": 103, "height": 263 }
+		},
+		"Gun_LV5_Body2": {
+			"Gun5/Gun_LV5_Body2": { "x": 56.55, "y": 7.66, "rotation": -90, "width": 53, "height": 170 }
+		},
+		"Gun_LV5_Body3": {
+			"Gun5/Gun_LV5_Body2": { "x": 56.55, "y": 7.66, "rotation": -90, "width": 53, "height": 170 }
+		},
+		"Gun_LV5_Layer": {
+			"Gun5/Gun_LV5_Layer2": { "x": -0.67, "y": 35.67, "width": 41, "height": 76 }
+		},
+		"Gun_LV5_Light": {
+			"Gun5/Gun_LV5_Light": { "x": 62.05, "y": -7.34, "rotation": -90, "width": 13, "height": 135 }
+		},
+		"Gun_LV5_Light2": {
+			"Gun5/Gun_LV5_Light": { "x": 62.05, "y": -7.34, "rotation": -90, "width": 13, "height": 135 }
+		},
+		"Gun_LV5_LightB": {
+			"Gun5/Gun_LV5_LightB": {
+				"type": "mesh",
+				"uvs": [ 1, 1, 0, 1, 0, 0, 1, 0 ],
+				"triangles": [ 1, 2, 3, 1, 3, 0 ],
+				"vertices": [ 23.61, 67.24, -25.39, 67.24, -25.39, 258.24, 23.61, 258.24 ],
+				"hull": 4
+			}
+		}
+	}
+},
+"animations": {
+	"idle": {
+		"slots": {
+			"Gun5/Elements - Electricity 011 Ray Up noCT noRSZ_00000": {
+				"attachment": [
+					{ "time": 0.1667, "name": "Gun5/Elements - Electricity 011 Ray Up noCT noRSZ_00000" },
+					{ "time": 0.2333, "name": "Gun5/Elements - Electricity 011 Ray Up noCT noRSZ_00001" },
+					{ "time": 0.2667, "name": "Gun5/Elements - Electricity 011 Ray Up noCT noRSZ_00003" },
+					{ "time": 0.3333, "name": "Gun5/Elements - Electricity 011 Ray Up noCT noRSZ_00005" },
+					{ "time": 0.3667, "name": "Gun5/Elements - Electricity 011 Ray Up noCT noRSZ_00009" },
+					{ "time": 0.4333, "name": "Gun5/Elements - Electricity 011 Ray Up noCT noRSZ_00010" },
+					{ "time": 0.4667, "name": "Gun5/Elements - Electricity 011 Ray Up noCT noRSZ_00014" },
+					{ "time": 0.5333, "name": null }
+				]
+			},
+			"Gun5/Elements - Electricity 011 Ray Up noCT noRSZ_0": {
+				"attachment": [
+					{ "time": 0.3, "name": "Gun5/Elements - Electricity 011 Ray Up noCT noRSZ_00000" },
+					{ "time": 0.3667, "name": "Gun5/Elements - Electricity 011 Ray Up noCT noRSZ_00002" },
+					{ "time": 0.4, "name": "Gun5/Elements - Electricity 011 Ray Up noCT noRSZ_00003" },
+					{ "time": 0.4667, "name": "Gun5/Elements - Electricity 011 Ray Up noCT noRSZ_00007" },
+					{ "time": 0.5, "name": "Gun5/Elements - Electricity 011 Ray Up noCT noRSZ_00009" },
+					{ "time": 0.5667, "name": "Gun5/Elements - Electricity 011 Ray Up noCT noRSZ_00012" },
+					{ "time": 0.6, "name": "Gun5/Elements - Electricity 011 Ray Up noCT noRSZ_00014" },
+					{ "time": 0.6667, "name": null }
+				]
+			},
+			"Gun_LV5_Layer": {
+				"color": [
+					{
+						"time": 0,
+						"color": "ffffff00",
+						"curve": [ 0.25, 0, 0.625, 0.5 ]
+					},
+					{
+						"time": 0.1,
+						"color": "ffffff55",
+						"curve": [ 0.334, 0.33, 0.667, 0.67 ]
+					},
+					{
+						"time": 0.1667,
+						"color": "ffffff40",
+						"curve": [ 0.334, 0.33, 0.667, 0.67 ]
+					},
+					{
+						"time": 0.3333,
+						"color": "ffffff9f",
+						"curve": [ 0.334, 0.33, 0.667, 0.67 ]
+					},
+					{
+						"time": 0.4667,
+						"color": "ffffff76",
+						"curve": [ 0.334, 0.33, 0.667, 0.67 ]
+					},
+					{
+						"time": 0.6333,
+						"color": "ffffffff",
+						"curve": [ 0.334, 0.33, 0.667, 0.67 ]
+					},
+					{ "time": 1, "color": "ffffff00" }
+				]
+			},
+			"Gun_LV5_LightB": {
+				"color": [
+					{
+						"time": 0.2667,
+						"color": "ffffff00",
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.5,
+						"color": "ffffffcf",
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 0.8667, "color": "ffffff00" }
+				]
+			}
+		},
+		"bones": {
+			"Gun_LV5_Body2": {
+				"rotate": [
+					{
+						"time": 0,
+						"angle": 0,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.4667,
+						"angle": -0.29,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 1, "angle": 0 }
+				],
+				"translate": [
+					{
+						"time": 0,
+						"x": 0,
+						"y": 0,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.5667,
+						"x": 1.46,
+						"y": 0,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 1, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{
+						"time": 0,
+						"x": 1,
+						"y": 1,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.7,
+						"x": 1.02,
+						"y": 1.02,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 1, "x": 1, "y": 1 }
+				]
+			},
+			"Fx": {
+				"scale": [
+					{ "time": 0.1667, "x": 1, "y": 1.3 }
+				]
+			},
+			"Fx2": {
+				"translate": [
+					{ "time": 0.3, "x": 0, "y": 88.42 }
+				],
+				"scale": [
+					{ "time": 0.3, "x": 1, "y": 1.3 }
+				]
+			},
+			"Gun_LV5_Body3": {
+				"rotate": [
+					{
+						"time": 0,
+						"angle": 0,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.4667,
+						"angle": -0.29,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 1, "angle": 0 }
+				],
+				"translate": [
+					{
+						"time": 0,
+						"x": 0,
+						"y": 0,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.5667,
+						"x": 1.46,
+						"y": 0,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 1, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{
+						"time": 0,
+						"x": 1,
+						"y": 1,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.7,
+						"x": 1.02,
+						"y": 1.02,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 1, "x": 1, "y": 1 }
+				]
+			}
+		},
+		"deform": {
+			"default": {
+				"Cliping": {
+					"Cliping": [
+						{
+							"time": 0,
+							"curve": [ 0.258, 0, 0.619, 0.45 ]
+						},
+						{
+							"time": 0.3333,
+							"offset": 1,
+							"vertices": [ 152.43375, 1.0E-5, 152.43375 ],
+							"curve": [ 0.33, 0.32, 0.665, 0.66 ]
+						},
+						{
+							"time": 0.6667,
+							"vertices": [ -1.53198, -16.9743, -1.53198, -16.9743, -2.0E-5, -195.32968, -2.0E-5, -195.32968 ],
+							"curve": [ 0.376, 0.5, 0.749, 1 ]
+						},
+						{ "time": 1 }
+					]
+				}
+			}
+		}
+	},
+	"shoot": {
+		"slots": {
+			"Gun5/Elements - Electricity 011 Ray Up noCT noRSZ_00000": {
+				"attachment": [
+					{ "time": 0, "name": "Gun5/Elements - Electricity 011 Ray Up noCT noRSZ_00002" },
+					{ "time": 0.0667, "name": "Gun5/Elements - Electricity 011 Ray Up noCT noRSZ_00005" },
+					{ "time": 0.1333, "name": "Gun5/Elements - Electricity 011 Ray Up noCT noRSZ_00009" },
+					{ "time": 0.2, "name": "Gun5/Elements - Electricity 011 Ray Up noCT noRSZ_00012" }
+				]
+			},
+			"Gun5/Elements - Electricity 011 Ray Up noCT noRSZ_0": {
+				"attachment": [
+					{ "time": 0, "name": "Gun5/Elements - Electricity 011 Ray Up noCT noRSZ_00001" },
+					{ "time": 0.0667, "name": "Gun5/Elements - Electricity 011 Ray Up noCT noRSZ_00003" },
+					{ "time": 0.1333, "name": "Gun5/Elements - Electricity 011 Ray Up noCT noRSZ_00007" },
+					{ "time": 0.2, "name": "Gun5/Elements - Electricity 011 Ray Up noCT noRSZ_00010" }
+				]
+			},
+			"Gun_LV5_Light": {
+				"color": [
+					{
+						"time": 0,
+						"color": "ffffffff",
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.1,
+						"color": "ffffffa8",
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 0.2, "color": "ffffffff" }
+				]
+			},
+			"Gun_LV5_LightB": {
+				"color": [
+					{
+						"time": 0,
+						"color": "ffffff00",
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.1,
+						"color": "ffffff7c",
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 0.2, "color": "ffffff00" }
+				]
+			},
+			"Gun_LV5_Light2": {
+				"color": [
+					{
+						"time": 0,
+						"color": "ffffffff",
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.1,
+						"color": "ffffffa8",
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 0.2, "color": "ffffffff" }
+				]
+			}
+		},
+		"bones": {
+			"Gun_LV5_Body2": {
+				"rotate": [
+					{
+						"time": 0,
+						"angle": 0,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.1,
+						"angle": 1.27,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 0.2, "angle": 0 }
+				],
+				"scale": [
+					{
+						"time": 0,
+						"x": 1,
+						"y": 1,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.1,
+						"x": 1,
+						"y": 1.213,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 0.2, "x": 1, "y": 1 }
+				]
+			},
+			"Gun_LV5": {
+				"translate": [
+					{
+						"time": 0,
+						"x": 0,
+						"y": 0,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.0667,
+						"x": 0,
+						"y": -2.17,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.1333,
+						"x": 0,
+						"y": 0.35,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 0.2, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{
+						"time": 0,
+						"x": 1,
+						"y": 1,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.0667,
+						"x": 1,
+						"y": 0.962,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.1333,
+						"x": 1,
+						"y": 0.983,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 0.2, "x": 1, "y": 1 }
+				]
+			},
+			"Gun_LV5_Body3": {
+				"rotate": [
+					{
+						"time": 0,
+						"angle": 0,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.1,
+						"angle": 0.46,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 0.2, "angle": 0 }
+				],
+				"scale": [
+					{
+						"time": 0,
+						"x": 1,
+						"y": 1,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.1,
+						"x": 1,
+						"y": 1.2,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 0.2, "x": 1, "y": 1 }
+				]
+			},
+			"Fx": {
+				"translate": [
+					{
+						"time": 0,
+						"x": 0,
+						"y": 67.87,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 0.2, "x": 0, "y": 79.99 }
+				]
+			},
+			"Fx2": {
+				"translate": [
+					{
+						"time": 0,
+						"x": 0,
+						"y": 3.64,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 0.2, "x": 0, "y": 9.7 }
+				]
+			}
+		},
+		"deform": {
+			"default": {
+				"Cliping": {
+					"Cliping": [
+						{
+							"time": 0,
+							"curve": [ 0.258, 0, 0.619, 0.45 ]
+						},
+						{
+							"time": 0.0661,
+							"offset": 1,
+							"vertices": [ 152.43375, 1.0E-5, 152.43375 ],
+							"curve": [ 0.33, 0.32, 0.665, 0.66 ]
+						},
+						{ "time": 0.2 }
+					]
+				}
+			}
+		}
+	}
+}
+}

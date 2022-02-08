@@ -1,0 +1,48 @@
+
+Fx_Gun_1988.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Fx_Gun2/Gun4 (1)
+  rotate: false
+  xy: 1219, 118
+  size: 134, 129
+  orig: 288, 272
+  offset: 71, 70
+  index: -1
+Fx_Gun2/Gun4 (11)
+  rotate: false
+  xy: 807, 2
+  size: 186, 175
+  orig: 288, 272
+  offset: 57, 43
+  index: -1
+Fx_Gun2/Gun4 (3)
+  rotate: true
+  xy: 1022, 398
+  size: 193, 185
+  orig: 288, 272
+  offset: 46, 39
+  index: -1
+Fx_Gun2/Gun4 (5)
+  rotate: false
+  xy: 757, 1588
+  size: 246, 243
+  orig: 288, 272
+  offset: 21, 11
+  index: -1
+Fx_Gun2/Gun4 (7)
+  rotate: false
+  xy: 1809, 1005
+  size: 194, 194
+  orig: 288, 272
+  offset: 49, 33
+  index: -1
+Fx_Gun2/Gun4 (9)
+  rotate: false
+  xy: 1605, 1008
+  size: 202, 191
+  orig: 288, 272
+  offset: 49, 34
+  index: -1

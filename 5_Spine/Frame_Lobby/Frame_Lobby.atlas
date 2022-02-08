@@ -1,0 +1,90 @@
+
+Frame_Lobby.png
+size: 723,723
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+DEAD OR ALIVE
+  rotate: false
+  xy: 515, 57
+  size: 120, 44
+  orig: 120, 44
+  offset: 0, 0
+  index: -1
+JB_Arrow
+  rotate: false
+  xy: 311, 89
+  size: 13, 12
+  orig: 13, 12
+  offset: 0, 0
+  index: -1
+JB_Center_FrameBG
+  rotate: false
+  xy: 311, 103
+  size: 313, 86
+  orig: 314, 86
+  offset: 0, 0
+  index: -1
+JB_Elip1
+  rotate: false
+  xy: 2, 372
+  size: 349, 349
+  orig: 349, 349
+  offset: 0, 0
+  index: -1
+JB_Elip2
+  rotate: false
+  xy: 326, 37
+  size: 187, 64
+  orig: 187, 64
+  offset: 0, 0
+  index: -1
+JB_Elip3
+  rotate: false
+  xy: 2, 63
+  size: 307, 307
+  orig: 307, 307
+  offset: 0, 0
+  index: -1
+JB_LightSpeed
+  rotate: true
+  xy: 490, 191
+  size: 530, 109
+  orig: 530, 109
+  offset: 0, 0
+  index: -1
+JB_Light_Center
+  rotate: false
+  xy: 2, 2
+  size: 322, 59
+  orig: 322, 60
+  offset: 0, 1
+  index: -1
+JB_Shape1
+  rotate: true
+  xy: 311, 201
+  size: 169, 31
+  orig: 169, 31
+  offset: 0, 0
+  index: -1
+JB_WhirlpoolB
+  rotate: true
+  xy: 353, 191
+  size: 530, 135
+  orig: 530, 135
+  offset: 0, 0
+  index: -1
+JB_WhirlpoolL
+  rotate: true
+  xy: 601, 195
+  size: 526, 91
+  orig: 530, 99
+  offset: 1, 7
+  index: -1
+WANTED
+  rotate: true
+  xy: 626, 107
+  size: 86, 39
+  orig: 86, 39
+  offset: 0, 0
+  index: -1

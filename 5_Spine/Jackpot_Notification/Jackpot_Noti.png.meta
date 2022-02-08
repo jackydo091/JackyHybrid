@@ -1,0 +1,68 @@
+{
+  "ver": "1.0.21",
+  "importer": "image",
+  "imported": true,
+  "uuid": "c49da31c-4f60-45ca-bd9e-a417955293a1",
+  "files": [
+    ".png",
+    ".json"
+  ],
+  "subMetas": {
+    "Jackpot_Noti": {
+      "ver": "1.0.4",
+      "uuid": "dd7109fc-1750-474c-ac2a-10cc8644a796",
+      "rawTextureUuid": "c49da31c-4f60-45ca-bd9e-a417955293a1",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 1,
+      "offsetY": -3.5,
+      "trimX": 4,
+      "trimY": 9,
+      "width": 997,
+      "height": 888,
+      "rawWidth": 1003,
+      "rawHeight": 899,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {},
+      "importer": "*",
+      "imported": false,
+      "files": [],
+      "userData": {},
+      "displayName": "",
+      "id": "",
+      "name": ""
+    },
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "c49da31c-4f60-45ca-bd9e-a417955293a1@6c48a",
+      "displayName": "Jackpot_Noti",
+      "id": "6c48a",
+      "name": "texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "c49da31c-4f60-45ca-bd9e-a417955293a1"
+      },
+      "ver": "1.0.21",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "hasAlpha": true,
+    "type": "texture",
+    "redirect": "c49da31c-4f60-45ca-bd9e-a417955293a1@6c48a"
+  }
+}

@@ -1,0 +1,300 @@
+
+Fish_1988.png
+size: 1476,1476
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+44_Drill/belt
+  rotate: true
+  xy: 652, 365
+  size: 120, 44
+  orig: 120, 44
+  offset: 0, 0
+  index: -1
+44_Drill/belt_hand
+  rotate: true
+  xy: 1225, 1212
+  size: 23, 27
+  orig: 23, 27
+  offset: 0, 0
+  index: -1
+44_Drill/body_boss
+  rotate: false
+  xy: 1006, 1367
+  size: 276, 107
+  orig: 276, 107
+  offset: 0, 0
+  index: -1
+44_Drill/body_boss_light
+  rotate: true
+  xy: 2, 334
+  size: 276, 107
+  orig: 276, 107
+  offset: 0, 0
+  index: -1
+44_Drill/body_human
+  rotate: false
+  xy: 625, 569
+  size: 81, 98
+  orig: 81, 98
+  offset: 0, 0
+  index: -1
+44_Drill/fin
+  rotate: true
+  xy: 682, 669
+  size: 48, 71
+  orig: 48, 71
+  offset: 0, 0
+  index: -1
+44_Drill/gun
+  rotate: false
+  xy: 908, 659
+  size: 102, 63
+  orig: 102, 63
+  offset: 0, 0
+  index: -1
+44_Drill/gun_light
+  rotate: false
+  xy: 908, 594
+  size: 102, 63
+  orig: 102, 63
+  offset: 0, 0
+  index: -1
+44_Drill/hand
+  rotate: false
+  xy: 1228, 2
+  size: 31, 27
+  orig: 31, 27
+  offset: 0, 0
+  index: -1
+44_Drill/head
+  rotate: true
+  xy: 1132, 926
+  size: 24, 40
+  orig: 24, 40
+  offset: 0, 0
+  index: -1
+44_Drill/head2
+  rotate: true
+  xy: 1418, 476
+  size: 35, 49
+  orig: 35, 49
+  offset: 0, 0
+  index: -1
+44_Drill/lava0
+  rotate: false
+  xy: 1284, 1367
+  size: 5, 4
+  orig: 5, 4
+  offset: 0, 0
+  index: -1
+44_Drill/lava1
+  rotate: false
+  xy: 617, 4
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+44_Drill/lava2
+  rotate: true
+  xy: 432, 2
+  size: 12, 21
+  orig: 12, 21
+  offset: 0, 0
+  index: -1
+44_Drill/leg
+  rotate: true
+  xy: 755, 641
+  size: 67, 119
+  orig: 67, 119
+  offset: 0, 0
+  index: -1
+44_Drill/muikhoan0
+  rotate: false
+  xy: 1418, 703
+  size: 56, 117
+  orig: 56, 117
+  offset: 0, 0
+  index: -1
+44_Drill/muikhoan1
+  rotate: false
+  xy: 1418, 584
+  size: 56, 117
+  orig: 56, 117
+  offset: 0, 0
+  index: -1
+44_Drill/muikhoan2
+  rotate: true
+  xy: 749, 583
+  size: 56, 117
+  orig: 56, 117
+  offset: 0, 0
+  index: -1
+44_Drill/muikhoan3
+  rotate: false
+  xy: 698, 368
+  size: 56, 117
+  orig: 56, 117
+  offset: 0, 0
+  index: -1
+44_Drill/muikhoan4
+  rotate: true
+  xy: 753, 525
+  size: 56, 117
+  orig: 56, 117
+  offset: 0, 0
+  index: -1
+44_Drill/muikhoan5
+  rotate: false
+  xy: 756, 385
+  size: 56, 117
+  orig: 56, 117
+  offset: 0, 0
+  index: -1
+44_Drill/muikhoan6
+  rotate: false
+  xy: 814, 385
+  size: 56, 117
+  orig: 56, 117
+  offset: 0, 0
+  index: -1
+44_Drill/muikhoan7
+  rotate: false
+  xy: 662, 246
+  size: 56, 117
+  orig: 56, 117
+  offset: 0, 0
+  index: -1
+44_Drill/muikhoan8
+  rotate: true
+  xy: 720, 306
+  size: 56, 117
+  orig: 56, 117
+  offset: 0, 0
+  index: -1
+44_Drill/particle0
+  rotate: false
+  xy: 996, 1212
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+44_Drill/particle1
+  rotate: false
+  xy: 1366, 1237
+  size: 5, 4
+  orig: 5, 4
+  offset: 0, 0
+  index: -1
+44_Drill/particle2
+  rotate: false
+  xy: 652, 355
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+44_Drill/particle3
+  rotate: false
+  xy: 221, 358
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+44_Drill/particle4
+  rotate: true
+  xy: 1450, 149
+  size: 20, 24
+  orig: 20, 24
+  offset: 0, 0
+  index: -1
+44_Drill/particle5
+  rotate: false
+  xy: 1408, 164
+  size: 31, 30
+  orig: 31, 30
+  offset: 0, 0
+  index: -1
+44_Drill/shadown
+  rotate: true
+  xy: 116, 70
+  size: 142, 103
+  orig: 142, 103
+  offset: 0, 0
+  index: -1
+44_Drill/smoke0
+  rotate: false
+  xy: 1199, 53
+  size: 20, 17
+  orig: 20, 17
+  offset: 0, 0
+  index: -1
+44_Drill/smoke1
+  rotate: false
+  xy: 1408, 247
+  size: 41, 41
+  orig: 41, 41
+  offset: 0, 0
+  index: -1
+44_Drill/smoke2
+  rotate: true
+  xy: 1020, 93
+  size: 41, 43
+  orig: 41, 43
+  offset: 0, 0
+  index: -1
+44_Drill/smoke3
+  rotate: false
+  xy: 1423, 443
+  size: 51, 31
+  orig: 51, 31
+  offset: 0, 0
+  index: -1
+44_Drill/smoke4
+  rotate: false
+  xy: 1423, 410
+  size: 51, 31
+  orig: 51, 31
+  offset: 0, 0
+  index: -1
+44_Drill/smoke5
+  rotate: false
+  xy: 1408, 335
+  size: 41, 47
+  orig: 41, 47
+  offset: 0, 0
+  index: -1
+44_Drill/smoke6
+  rotate: false
+  xy: 1065, 219
+  size: 54, 54
+  orig: 54, 54
+  offset: 0, 0
+  index: -1
+44_Drill/smoke7
+  rotate: false
+  xy: 1408, 290
+  size: 41, 43
+  orig: 41, 43
+  offset: 0, 0
+  index: -1
+44_Drill/stream0
+  rotate: false
+  xy: 1353, 413
+  size: 16, 78
+  orig: 16, 78
+  offset: 0, 0
+  index: -1
+44_Drill/stream1
+  rotate: true
+  xy: 964, 8
+  size: 11, 62
+  orig: 11, 62
+  offset: 0, 0
+  index: -1
+44_Drill/stream2
+  rotate: false
+  xy: 1451, 324
+  size: 14, 58
+  orig: 14, 58
+  offset: 0, 0
+  index: -1

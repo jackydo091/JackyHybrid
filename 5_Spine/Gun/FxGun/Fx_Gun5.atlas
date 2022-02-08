@@ -1,0 +1,76 @@
+
+Fx_Gun_1988.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Fx_Gun5/Gun5 (1)
+  rotate: true
+  xy: 1062, 1160
+  size: 209, 176
+  orig: 330, 330
+  offset: 75, 66
+  index: -1
+Fx_Gun5/Gun5 (10)
+  rotate: false
+  xy: 1403, 1180
+  size: 200, 200
+  orig: 330, 330
+  offset: 63, 63
+  index: -1
+Fx_Gun5/Gun5 (2)
+  rotate: false
+  xy: 1062, 969
+  size: 192, 189
+  orig: 330, 330
+  offset: 69, 63
+  index: -1
+Fx_Gun5/Gun5 (3)
+  rotate: false
+  xy: 757, 1833
+  size: 296, 213
+  orig: 330, 330
+  offset: 8, 49
+  index: -1
+Fx_Gun5/Gun5 (4)
+  rotate: false
+  xy: 1055, 1826
+  size: 246, 220
+  orig: 330, 330
+  offset: 59, 46
+  index: -1
+Fx_Gun5/Gun5 (5)
+  rotate: false
+  xy: 1481, 1588
+  size: 222, 226
+  orig: 330, 330
+  offset: 57, 43
+  index: -1
+Fx_Gun5/Gun5 (6)
+  rotate: false
+  xy: 136, 717
+  size: 218, 222
+  orig: 330, 330
+  offset: 59, 45
+  index: -1
+Fx_Gun5/Gun5 (7)
+  rotate: false
+  xy: 592, 576
+  size: 214, 215
+  orig: 330, 330
+  offset: 63, 48
+  index: -1
+Fx_Gun5/Gun5 (8)
+  rotate: false
+  xy: 810, 179
+  size: 215, 200
+  orig: 330, 330
+  offset: 63, 63
+  index: -1
+Fx_Gun5/Gun5 (9)
+  rotate: false
+  xy: 1705, 1400
+  size: 215, 200
+  orig: 330, 330
+  offset: 63, 63
+  index: -1

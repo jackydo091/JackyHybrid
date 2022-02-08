@@ -1,0 +1,76 @@
+{
+"skeleton": { "hash": "6TOSGx6Y5Pg/hOou/C7szIEtbVY", "spine": "3.7.94", "width": 0, "height": 0 },
+"bones": [
+	{ "name": "root" },
+	{ "name": "Gun8", "parent": "root", "scaleX": 0.88, "scaleY": 0.88 },
+	{ "name": "Gun8_2", "parent": "Gun8", "scaleX": 0.986, "scaleY": 0.986 }
+],
+"slots": [
+	{ "name": "Fx_Gun7/Gun8", "bone": "Gun8" },
+	{ "name": "Fx_Gun7/Gun8_2", "bone": "Gun8_2", "dark": "000000" }
+],
+"skins": {
+	"default": {
+		"Fx_Gun7/Gun8": {
+			"Fx_Gun7/Gun8 (1)": { "width": 236, "height": 230 },
+			"Fx_Gun7/Gun8 (3)": { "width": 236, "height": 230 },
+			"Fx_Gun7/Gun8 (4)": { "width": 236, "height": 230 },
+			"Fx_Gun7/Gun8 (5)": { "width": 236, "height": 230 },
+			"Fx_Gun7/Gun8 (7)": { "width": 236, "height": 230 },
+			"Fx_Gun7/Gun8 (8)": { "width": 236, "height": 230 },
+			"Fx_Gun7/Gun8 (9)": { "width": 236, "height": 230 },
+			"Fx_Gun7/Gun8 (11)": { "width": 236, "height": 230 }
+		},
+		"Fx_Gun7/Gun8_2": {
+			"Fx_Gun7/Gun8 (12)": { "x": 0.5, "width": 107, "height": 86 },
+			"Fx_Gun7/Gun8 (13)": { "y": 0.5, "width": 104, "height": 85 },
+			"Fx_Gun7/Gun8 (14)": { "y": 0.5, "width": 100, "height": 105 },
+			"Fx_Gun7/Gun8 (15)": { "x": 0.5, "width": 91, "height": 104 },
+			"Fx_Gun7/Gun8 (16)": { "width": 100, "height": 92 },
+			"Fx_Gun7/Gun8 (17)": { "width": 100, "height": 88 },
+			"Fx_Gun7/Gun8 (18)": { "x": 0.5, "width": 49, "height": 64 }
+		}
+	}
+},
+"animations": {
+	"animation": {
+		"slots": {
+			"Fx_Gun7/Gun8": {
+				"attachment": [
+					{ "time": 0, "name": "Fx_Gun7/Gun8 (1)" },
+					{ "time": 0.0667, "name": "Fx_Gun7/Gun8 (3)" },
+					{ "time": 0.1, "name": "Fx_Gun7/Gun8 (4)" },
+					{ "time": 0.1333, "name": "Fx_Gun7/Gun8 (5)" },
+					{ "time": 0.2, "name": "Fx_Gun7/Gun8 (7)" },
+					{ "time": 0.2333, "name": "Fx_Gun7/Gun8 (8)" },
+					{ "time": 0.2667, "name": "Fx_Gun7/Gun8 (9)" },
+					{ "time": 0.3, "name": "Fx_Gun7/Gun8 (11)" },
+					{ "time": 0.3667, "name": null }
+				]
+			},
+			"Fx_Gun7/Gun8_2": {
+				"twoColor": [
+					{ "time": 0, "light": "ffffffff", "dark": "e407eb" }
+				],
+				"attachment": [
+					{ "time": 0.0531, "name": "Fx_Gun7/Gun8 (12)" },
+					{ "time": 0.1061, "name": "Fx_Gun7/Gun8 (13)" },
+					{ "time": 0.1588, "name": "Fx_Gun7/Gun8 (14)" },
+					{ "time": 0.2121, "name": "Fx_Gun7/Gun8 (15)" },
+					{ "time": 0.2651, "name": "Fx_Gun7/Gun8 (16)" },
+					{ "time": 0.318, "name": "Fx_Gun7/Gun8 (17)" },
+					{ "time": 0.371, "name": "Fx_Gun7/Gun8 (18)" },
+					{ "time": 0.4367, "name": null }
+				]
+			}
+		},
+		"bones": {
+			"Gun8_2": {
+				"scale": [
+					{ "time": 0, "x": 1.6, "y": 1.6 }
+				]
+			}
+		}
+	}
+}
+}

@@ -1,0 +1,97 @@
+
+ExplosionSmall.png
+size: 824,243
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fx2/scifi_exp0
+  rotate: false
+  xy: 2, 8
+  size: 49, 49
+  orig: 161, 136
+  offset: 57, 41
+  index: -1
+fx2/scifi_exp1
+  rotate: false
+  xy: 148, 17
+  size: 92, 89
+  orig: 161, 136
+  offset: 35, 21
+  index: -1
+fx2/scifi_exp10
+  rotate: false
+  xy: 564, 130
+  size: 147, 111
+  orig: 161, 136
+  offset: 0, 10
+  index: -1
+fx2/scifi_exp2
+  rotate: true
+  xy: 713, 129
+  size: 112, 104
+  orig: 161, 136
+  offset: 25, 13
+  index: -1
+fx2/scifi_exp3
+  rotate: false
+  xy: 413, 3
+  size: 120, 112
+  orig: 161, 136
+  offset: 21, 9
+  index: -1
+fx2/scifi_exp4
+  rotate: false
+  xy: 694, 11
+  size: 128, 116
+  orig: 161, 136
+  offset: 17, 7
+  index: -1
+fx2/scifi_exp5
+  rotate: false
+  xy: 564, 11
+  size: 128, 117
+  orig: 161, 136
+  offset: 19, 10
+  index: -1
+fx2/scifi_exp6
+  rotate: true
+  xy: 284, 115
+  size: 126, 127
+  orig: 161, 136
+  offset: 19, 5
+  index: -1
+fx2/scifi_exp7
+  rotate: true
+  xy: 148, 108
+  size: 133, 134
+  orig: 161, 136
+  offset: 14, 1
+  index: -1
+fx2/scifi_exp8
+  rotate: false
+  xy: 2, 107
+  size: 144, 134
+  orig: 161, 136
+  offset: 9, 0
+  index: -1
+fx2/scifi_exp9
+  rotate: false
+  xy: 413, 117
+  size: 149, 124
+  orig: 161, 136
+  offset: 5, 2
+  index: -1
+lens
+  rotate: false
+  xy: 2, 59
+  size: 112, 46
+  orig: 112, 46
+  offset: 0, 0
+  index: -1
+light
+  rotate: false
+  xy: 284, 2
+  size: 112, 111
+  orig: 112, 111
+  offset: 0, 0
+  index: -1

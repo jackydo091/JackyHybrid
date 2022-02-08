@@ -1,0 +1,102 @@
+{
+  "ver": "1.0.21",
+  "importer": "image",
+  "imported": true,
+  "uuid": "42ecfa76-3ef3-4117-8ff3-cccd0ad9d6c1",
+  "files": [
+    ".png",
+    ".json"
+  ],
+  "subMetas": {
+    "GunPedestal_2": {
+      "ver": "1.0.4",
+      "uuid": "d5a6f3c4-438f-4b1c-aa48-f19effb0c1ab",
+      "rawTextureUuid": "42ecfa76-3ef3-4117-8ff3-cccd0ad9d6c1",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 112,
+      "height": 67,
+      "rawWidth": 112,
+      "rawHeight": 67,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {},
+      "importer": "*",
+      "imported": false,
+      "files": [],
+      "userData": {},
+      "displayName": "",
+      "id": "",
+      "name": ""
+    },
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "42ecfa76-3ef3-4117-8ff3-cccd0ad9d6c1@6c48a",
+      "displayName": "GunPedestal_2",
+      "id": "6c48a",
+      "name": "texture",
+      "userData": {
+        "wrapModeS": "clamp-to-edge",
+        "wrapModeT": "clamp-to-edge",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 1,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "42ecfa76-3ef3-4117-8ff3-cccd0ad9d6c1"
+      },
+      "ver": "1.0.21",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f9941": {
+      "importer": "sprite-frame",
+      "uuid": "42ecfa76-3ef3-4117-8ff3-cccd0ad9d6c1@f9941",
+      "displayName": "GunPedestal_2",
+      "id": "f9941",
+      "name": "spriteFrame",
+      "userData": {
+        "trimType": "auto",
+        "trimThreshold": 1,
+        "rotated": false,
+        "offsetX": 0,
+        "offsetY": 0,
+        "trimX": 0,
+        "trimY": 0,
+        "width": 112,
+        "height": 67,
+        "rawWidth": 112,
+        "rawHeight": 67,
+        "borderTop": 0,
+        "borderBottom": 0,
+        "borderLeft": 0,
+        "borderRight": 0,
+        "packable": true,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "42ecfa76-3ef3-4117-8ff3-cccd0ad9d6c1@6c48a",
+        "atlasUuid": ""
+      },
+      "ver": "1.0.9",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "hasAlpha": true,
+    "type": "sprite-frame",
+    "redirect": "42ecfa76-3ef3-4117-8ff3-cccd0ad9d6c1@f9941"
+  }
+}

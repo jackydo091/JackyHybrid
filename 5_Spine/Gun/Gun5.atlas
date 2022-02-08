@@ -1,0 +1,118 @@
+
+Gun_1988.png
+size: 1666,396
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Gun5/Elements - Electricity 011 Ray Up noCT noRSZ_00000
+  rotate: false
+  xy: 234, 4
+  size: 21, 17
+  orig: 75, 75
+  offset: 27, 1
+  index: -1
+Gun5/Elements - Electricity 011 Ray Up noCT noRSZ_00001
+  rotate: false
+  xy: 311, 198
+  size: 47, 22
+  orig: 75, 75
+  offset: 14, 2
+  index: -1
+Gun5/Elements - Electricity 011 Ray Up noCT noRSZ_00002
+  rotate: false
+  xy: 1421, 67
+  size: 51, 28
+  orig: 75, 75
+  offset: 13, 4
+  index: -1
+Gun5/Elements - Electricity 011 Ray Up noCT noRSZ_00003
+  rotate: false
+  xy: 1474, 68
+  size: 52, 27
+  orig: 75, 75
+  offset: 13, 7
+  index: -1
+Gun5/Elements - Electricity 011 Ray Up noCT noRSZ_00005
+  rotate: false
+  xy: 489, 2
+  size: 52, 43
+  orig: 75, 75
+  offset: 13, 9
+  index: -1
+Gun5/Elements - Electricity 011 Ray Up noCT noRSZ_00007
+  rotate: false
+  xy: 855, 67
+  size: 51, 45
+  orig: 75, 75
+  offset: 13, 11
+  index: -1
+Gun5/Elements - Electricity 011 Ray Up noCT noRSZ_00009
+  rotate: true
+  xy: 963, 67
+  size: 52, 53
+  orig: 75, 75
+  offset: 13, 12
+  index: -1
+Gun5/Elements - Electricity 011 Ray Up noCT noRSZ_00010
+  rotate: true
+  xy: 1123, 67
+  size: 54, 58
+  orig: 75, 75
+  offset: 13, 13
+  index: -1
+Gun5/Elements - Electricity 011 Ray Up noCT noRSZ_00012
+  rotate: true
+  xy: 1183, 67
+  size: 54, 49
+  orig: 75, 75
+  offset: 13, 26
+  index: -1
+Gun5/Elements - Electricity 011 Ray Up noCT noRSZ_00014
+  rotate: true
+  xy: 1018, 67
+  size: 52, 48
+  orig: 75, 75
+  offset: 13, 27
+  index: -1
+Gun5/Gun_LV5
+  rotate: false
+  xy: 182, 197
+  size: 77, 197
+  orig: 77, 197
+  offset: 0, 0
+  index: -1
+Gun5/Gun_LV5_Body2
+  rotate: false
+  xy: 608, 267
+  size: 40, 127
+  orig: 40, 128
+  offset: 0, 0
+  index: -1
+Gun5/Gun_LV5_Layer
+  rotate: false
+  xy: 1528, 68
+  size: 31, 57
+  orig: 31, 57
+  offset: 0, 0
+  index: -1
+Gun5/Gun_LV5_Layer2
+  rotate: true
+  xy: 1603, 115
+  size: 31, 57
+  orig: 31, 57
+  offset: 0, 0
+  index: -1
+Gun5/Gun_LV5_Light
+  rotate: true
+  xy: 631, 212
+  size: 10, 100
+  orig: 10, 101
+  offset: 0, 1
+  index: -1
+Gun5/Gun_LV5_LightB
+  rotate: false
+  xy: 629, 66
+  size: 36, 143
+  orig: 37, 143
+  offset: 0, 0
+  index: -1

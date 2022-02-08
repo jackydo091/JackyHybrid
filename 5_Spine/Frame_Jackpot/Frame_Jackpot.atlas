@@ -1,0 +1,286 @@
+
+Frame_Jackpot.png
+size: 1390,1389
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+JB_Arrow
+  rotate: false
+  xy: 1269, 583
+  size: 13, 12
+  orig: 13, 12
+  offset: 0, 0
+  index: -1
+JB_Arrow_O
+  rotate: false
+  xy: 704, 1101
+  size: 13, 12
+  orig: 13, 12
+  offset: 0, 0
+  index: -1
+JB_Arrow_R
+  rotate: false
+  xy: 665, 492
+  size: 13, 12
+  orig: 13, 12
+  offset: 0, 0
+  index: -1
+JB_Arrow_Y
+  rotate: false
+  xy: 314, 322
+  size: 13, 12
+  orig: 13, 12
+  offset: 0, 0
+  index: -1
+JB_Center_FrameBG
+  rotate: false
+  xy: 314, 106
+  size: 313, 86
+  orig: 313, 86
+  offset: 0, 0
+  index: -1
+JB_Center_FrameBG_O
+  rotate: false
+  xy: 314, 18
+  size: 313, 86
+  orig: 313, 86
+  offset: 0, 0
+  index: -1
+JB_Center_FrameBG_R
+  rotate: false
+  xy: 974, 2
+  size: 313, 86
+  orig: 313, 86
+  offset: 0, 0
+  index: -1
+JB_Center_FrameBG_Y
+  rotate: true
+  xy: 1302, 1074
+  size: 313, 86
+  orig: 313, 86
+  offset: 0, 0
+  index: -1
+JB_Elip1
+  rotate: false
+  xy: 2, 1038
+  size: 349, 349
+  orig: 349, 349
+  offset: 0, 0
+  index: -1
+JB_Elip1_O
+  rotate: false
+  xy: 2, 687
+  size: 349, 349
+  orig: 349, 349
+  offset: 0, 0
+  index: -1
+JB_Elip1_R
+  rotate: false
+  xy: 353, 1038
+  size: 349, 349
+  orig: 349, 349
+  offset: 0, 0
+  index: -1
+JB_Elip1_Y
+  rotate: false
+  xy: 2, 336
+  size: 349, 349
+  orig: 349, 349
+  offset: 0, 0
+  index: -1
+JB_Elip2
+  rotate: true
+  xy: 1236, 1200
+  size: 187, 64
+  orig: 187, 64
+  offset: 0, 0
+  index: -1
+JB_Elip2_R
+  rotate: true
+  xy: 1236, 1200
+  size: 187, 64
+  orig: 187, 64
+  offset: 0, 0
+  index: -1
+JB_Elip2_O
+  rotate: true
+  xy: 1302, 579
+  size: 187, 64
+  orig: 187, 64
+  offset: 0, 0
+  index: -1
+JB_Elip2_Y
+  rotate: true
+  xy: 1302, 579
+  size: 187, 64
+  orig: 187, 64
+  offset: 0, 0
+  index: -1
+JB_Elip3
+  rotate: false
+  xy: 974, 90
+  size: 301, 301
+  orig: 307, 307
+  offset: 2, 3
+  index: -1
+JB_Elip3_O
+  rotate: false
+  xy: 2, 24
+  size: 310, 310
+  orig: 311, 315
+  offset: 1, 3
+  index: -1
+JB_Elip3_R
+  rotate: false
+  xy: 665, 84
+  size: 307, 307
+  orig: 307, 307
+  offset: 0, 0
+  index: -1
+JB_Elip3_Y
+  rotate: false
+  xy: 353, 194
+  size: 310, 310
+  orig: 311, 315
+  offset: 1, 3
+  index: -1
+JB_LightSpeed
+  rotate: true
+  xy: 627, 506
+  size: 530, 109
+  orig: 530, 109
+  offset: 0, 0
+  index: -1
+JB_LightSpeed_O
+  rotate: true
+  xy: 738, 583
+  size: 530, 109
+  orig: 530, 109
+  offset: 0, 0
+  index: -1
+JB_LightSpeed_R
+  rotate: true
+  xy: 849, 583
+  size: 530, 109
+  orig: 530, 109
+  offset: 0, 0
+  index: -1
+JB_LightSpeed_Y
+  rotate: true
+  xy: 960, 583
+  size: 530, 109
+  orig: 530, 109
+  offset: 0, 0
+  index: -1
+JB_Light_Center
+  rotate: true
+  xy: 1277, 273
+  size: 304, 40
+  orig: 304, 42
+  offset: 0, 2
+  index: -1
+JB_Light_Center_O
+  rotate: true
+  xy: 1269, 768
+  size: 304, 42
+  orig: 304, 42
+  offset: 0, 0
+  index: -1
+JB_Light_Center_R
+  rotate: false
+  xy: 629, 23
+  size: 322, 59
+  orig: 322, 60
+  offset: 0, 1
+  index: -1
+JB_Light_Center_Y
+  rotate: true
+  xy: 1313, 768
+  size: 304, 42
+  orig: 304, 42
+  offset: 0, 0
+  index: -1
+JB_Shape1
+  rotate: false
+  xy: 155, 12
+  size: 150, 10
+  orig: 150, 10
+  offset: 0, 0
+  index: -1
+JB_Shape1_O
+  rotate: false
+  xy: 2, 11
+  size: 151, 11
+  orig: 169, 31
+  offset: 9, 10
+  index: -1
+JB_Shape1_R
+  rotate: true
+  xy: 1269, 597
+  size: 169, 31
+  orig: 169, 31
+  offset: 0, 0
+  index: -1
+JB_Shape1_Y
+  rotate: true
+  xy: 1357, 921
+  size: 151, 11
+  orig: 169, 31
+  offset: 9, 10
+  index: -1
+JB_WhirlpoolB
+  rotate: true
+  xy: 353, 506
+  size: 530, 135
+  orig: 530, 135
+  offset: 0, 0
+  index: -1
+JB_WhirlpoolB_O
+  rotate: false
+  xy: 704, 1252
+  size: 530, 135
+  orig: 530, 135
+  offset: 0, 0
+  index: -1
+JB_WhirlpoolB_R
+  rotate: true
+  xy: 490, 506
+  size: 530, 135
+  orig: 530, 135
+  offset: 0, 0
+  index: -1
+JB_WhirlpoolB_Y
+  rotate: false
+  xy: 704, 1115
+  size: 530, 135
+  orig: 530, 135
+  offset: 0, 0
+  index: -1
+JB_WhirlpoolL
+  rotate: true
+  xy: 1071, 583
+  size: 530, 99
+  orig: 530, 99
+  offset: 0, 0
+  index: -1
+JB_WhirlpoolL_O
+  rotate: true
+  xy: 1172, 583
+  size: 530, 95
+  orig: 530, 99
+  offset: 0, 1
+  index: -1
+JB_WhirlpoolL_R
+  rotate: false
+  xy: 665, 393
+  size: 526, 91
+  orig: 530, 99
+  offset: 1, 7
+  index: -1
+JB_WhirlpoolL_Y
+  rotate: false
+  xy: 738, 486
+  size: 530, 95
+  orig: 530, 99
+  offset: 0, 1
+  index: -1

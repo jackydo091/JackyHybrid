@@ -1,0 +1,111 @@
+
+Fish_1988.png
+size: 1476,1476
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+22_x180/Body
+  rotate: false
+  xy: 1006, 1212
+  size: 185, 34
+  orig: 185, 34
+  offset: 0, 0
+  index: -1
+22_x180/Body - Copy
+  rotate: true
+  xy: 74, 138
+  size: 194, 40
+  orig: 194, 40
+  offset: 0, 0
+  index: -1
+22_x180/electricity/1
+  rotate: false
+  xy: 1440, 198
+  size: 25, 47
+  orig: 25, 47
+  offset: 0, 0
+  index: -1
+22_x180/electricity/10
+  rotate: false
+  xy: 1450, 122
+  size: 18, 25
+  orig: 18, 25
+  offset: 0, 0
+  index: -1
+22_x180/electricity/2
+  rotate: false
+  xy: 1361, 305
+  size: 45, 45
+  orig: 45, 45
+  offset: 0, 0
+  index: -1
+22_x180/electricity/3
+  rotate: true
+  xy: 1228, 142
+  size: 22, 46
+  orig: 22, 46
+  offset: 0, 0
+  index: -1
+22_x180/electricity/4
+  rotate: true
+  xy: 1065, 93
+  size: 25, 49
+  orig: 25, 49
+  offset: 0, 0
+  index: -1
+22_x180/electricity/5
+  rotate: true
+  xy: 1371, 399
+  size: 22, 50
+  orig: 22, 50
+  offset: 0, 0
+  index: -1
+22_x180/electricity/6
+  rotate: true
+  xy: 1423, 384
+  size: 24, 51
+  orig: 24, 51
+  offset: 0, 0
+  index: -1
+22_x180/electricity/7
+  rotate: true
+  xy: 1030, 2
+  size: 18, 25
+  orig: 18, 25
+  offset: 0, 0
+  index: -1
+22_x180/electricity/8
+  rotate: true
+  xy: 1057, 2
+  size: 18, 25
+  orig: 18, 25
+  offset: 0, 0
+  index: -1
+22_x180/electricity/9
+  rotate: true
+  xy: 589, 2
+  size: 18, 26
+  orig: 18, 26
+  offset: 0, 0
+  index: -1
+22_x180/head
+  rotate: false
+  xy: 1298, 653
+  size: 36, 133
+  orig: 36, 133
+  offset: 0, 0
+  index: -1
+22_x180/leg
+  rotate: false
+  xy: 1467, 352
+  size: 7, 30
+  orig: 7, 30
+  offset: 0, 0
+  index: -1
+22_x180/shadown
+  rotate: false
+  xy: 221, 105
+  size: 133, 82
+  orig: 133, 82
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,97 @@
+
+Fish_1988.png
+size: 1476,1476
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+23_x220/Beard
+  rotate: true
+  xy: 736, 85
+  size: 49, 30
+  orig: 49, 30
+  offset: 0, 0
+  index: -1
+23_x220/Beard_Light
+  rotate: false
+  xy: 1448, 1243
+  size: 26, 20
+  orig: 26, 20
+  offset: 0, 0
+  index: -1
+23_x220/Body_2
+  rotate: false
+  xy: 769, 888
+  size: 193, 55
+  orig: 193, 55
+  offset: 0, 0
+  index: -1
+23_x220/Body_2 - Copy
+  rotate: true
+  xy: 625, 669
+  size: 193, 55
+  orig: 193, 55
+  offset: 0, 0
+  index: -1
+23_x220/Fin
+  rotate: false
+  xy: 2, 2
+  size: 69, 65
+  orig: 69, 65
+  offset: 0, 0
+  index: -1
+23_x220/Hair_1
+  rotate: true
+  xy: 1361, 127
+  size: 35, 48
+  orig: 35, 48
+  offset: 0, 0
+  index: -1
+23_x220/Hair_2
+  rotate: true
+  xy: 478, 81
+  size: 43, 26
+  orig: 43, 26
+  offset: 0, 0
+  index: -1
+23_x220/Hiar_Light
+  rotate: false
+  xy: 1365, 1088
+  size: 19, 17
+  orig: 19, 17
+  offset: 0, 0
+  index: -1
+23_x220/Horn
+  rotate: true
+  xy: 955, 168
+  size: 22, 11
+  orig: 22, 11
+  offset: 0, 0
+  index: -1
+23_x220/Horn - Copy
+  rotate: true
+  xy: 955, 144
+  size: 22, 11
+  orig: 22, 11
+  offset: 0, 0
+  index: -1
+23_x220/Light_green
+  rotate: false
+  xy: 385, 555
+  size: 6, 6
+  orig: 6, 6
+  offset: 0, 0
+  index: -1
+23_x220/Tail
+  rotate: true
+  xy: 1448, 1265
+  size: 62, 26
+  orig: 62, 26
+  offset: 0, 0
+  index: -1
+23_x220/shadown
+  rotate: false
+  xy: 221, 248
+  size: 154, 108
+  orig: 154, 108
+  offset: 0, 0
+  index: -1

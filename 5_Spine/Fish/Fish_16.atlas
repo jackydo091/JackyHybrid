@@ -1,0 +1,48 @@
+
+Fish_1988.png
+size: 1476,1476
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+16_x50/Head
+  rotate: true
+  xy: 508, 211
+  size: 43, 21
+  orig: 43, 21
+  offset: 0, 0
+  index: -1
+16_x50/Leg_B_R
+  rotate: true
+  xy: 1187, 138
+  size: 29, 17
+  orig: 29, 17
+  offset: 0, 0
+  index: -1
+16_x50/Leg_F_R
+  rotate: false
+  xy: 1408, 196
+  size: 30, 49
+  orig: 30, 49
+  offset: 0, 0
+  index: -1
+16_x50/Shell
+  rotate: false
+  xy: 1298, 580
+  size: 85, 68
+  orig: 85, 68
+  offset: 0, 0
+  index: -1
+16_x50/Tail
+  rotate: true
+  xy: 996, 1219
+  size: 19, 8
+  orig: 19, 8
+  offset: 0, 0
+  index: -1
+16_x50/shadow
+  rotate: false
+  xy: 990, 268
+  size: 66, 64
+  orig: 66, 64
+  offset: 0, 0
+  index: -1

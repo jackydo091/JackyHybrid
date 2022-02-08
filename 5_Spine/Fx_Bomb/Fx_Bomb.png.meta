@@ -1,0 +1,68 @@
+{
+  "ver": "1.0.21",
+  "importer": "image",
+  "imported": true,
+  "uuid": "af16dfd2-8fc1-426e-b744-4ed9db2cba74",
+  "files": [
+    ".png",
+    ".json"
+  ],
+  "subMetas": {
+    "Fx_Bomb": {
+      "ver": "1.0.4",
+      "uuid": "75f25036-834d-419b-b474-ee66ce4b9cf8",
+      "rawTextureUuid": "af16dfd2-8fc1-426e-b744-4ed9db2cba74",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 31,
+      "offsetY": 21,
+      "trimX": 74,
+      "trimY": 4,
+      "width": 1869,
+      "height": 616,
+      "rawWidth": 1955,
+      "rawHeight": 666,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {},
+      "importer": "*",
+      "imported": false,
+      "files": [],
+      "userData": {},
+      "displayName": "",
+      "id": "",
+      "name": ""
+    },
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "af16dfd2-8fc1-426e-b744-4ed9db2cba74@6c48a",
+      "displayName": "Fx_Bomb",
+      "id": "6c48a",
+      "name": "texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 1,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "af16dfd2-8fc1-426e-b744-4ed9db2cba74"
+      },
+      "ver": "1.0.21",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "hasAlpha": true,
+    "type": "texture",
+    "redirect": "af16dfd2-8fc1-426e-b744-4ed9db2cba74@6c48a"
+  }
+}

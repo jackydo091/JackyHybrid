@@ -1,0 +1,307 @@
+
+Fish_1988.png
+size: 1476,1476
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+27_laser/1
+  rotate: true
+  xy: 1268, 95
+  size: 43, 25
+  orig: 43, 25
+  offset: 0, 0
+  index: -1
+27_laser/11
+  rotate: false
+  xy: 74, 70
+  size: 23, 24
+  orig: 23, 24
+  offset: 0, 0
+  index: -1
+27_laser/2
+  rotate: false
+  xy: 893, 333
+  size: 52, 53
+  orig: 52, 53
+  offset: 0, 0
+  index: -1
+27_laser/22
+  rotate: true
+  xy: 1295, 61
+  size: 31, 37
+  orig: 31, 37
+  offset: 0, 0
+  index: -1
+27_laser/3
+  rotate: true
+  xy: 1229, 71
+  size: 26, 37
+  orig: 26, 37
+  offset: 0, 0
+  index: -1
+27_laser/33
+  rotate: true
+  xy: 99, 83
+  size: 11, 15
+  orig: 11, 15
+  offset: 0, 0
+  index: -1
+27_laser/4
+  rotate: true
+  xy: 839, 302
+  size: 60, 47
+  orig: 60, 47
+  offset: 0, 0
+  index: -1
+27_laser/44
+  rotate: false
+  xy: 1325, 1082
+  size: 38, 23
+  orig: 38, 23
+  offset: 0, 0
+  index: -1
+27_laser/5
+  rotate: false
+  xy: 1411, 121
+  size: 37, 41
+  orig: 37, 41
+  offset: 0, 0
+  index: -1
+27_laser/55
+  rotate: false
+  xy: 1035, 510
+  size: 26, 18
+  orig: 26, 18
+  offset: 0, 0
+  index: -1
+27_laser/6
+  rotate: true
+  xy: 1063, 398
+  size: 58, 57
+  orig: 58, 57
+  offset: 0, 0
+  index: -1
+27_laser/66
+  rotate: true
+  xy: 1084, 9
+  size: 29, 45
+  orig: 29, 45
+  offset: 0, 0
+  index: -1
+27_laser/Line
+  rotate: true
+  xy: 948, 192
+  size: 66, 18
+  orig: 66, 18
+  offset: 0, 0
+  index: -1
+27_laser/biduc_1
+  rotate: false
+  xy: 1262, 34
+  size: 43, 25
+  orig: 43, 25
+  offset: 0, 0
+  index: -1
+27_laser/biduc_2
+  rotate: false
+  xy: 1030, 38
+  size: 52, 53
+  orig: 52, 53
+  offset: 0, 0
+  index: -1
+27_laser/biduc_3
+  rotate: true
+  xy: 1261, 2
+  size: 26, 36
+  orig: 26, 36
+  offset: 0, 0
+  index: -1
+27_laser/biduc_4
+  rotate: false
+  xy: 958, 87
+  size: 60, 47
+  orig: 60, 47
+  offset: 0, 0
+  index: -1
+27_laser/biduc_5
+  rotate: false
+  xy: 1229, 99
+  size: 37, 41
+  orig: 37, 41
+  offset: 0, 0
+  index: -1
+27_laser/biduc_6
+  rotate: true
+  xy: 1063, 275
+  size: 58, 57
+  orig: 58, 57
+  offset: 0, 0
+  index: -1
+27_laser/biduc_core
+  rotate: true
+  xy: 743, 6
+  size: 53, 60
+  orig: 53, 60
+  offset: 0, 0
+  index: -1
+27_laser/core
+  rotate: true
+  xy: 805, 4
+  size: 53, 60
+  orig: 53, 60
+  offset: 0, 0
+  index: -1
+27_laser/core_2
+  rotate: true
+  xy: 1434, 822
+  size: 25, 37
+  orig: 25, 37
+  offset: 0, 0
+  index: -1
+27_laser/coree_1
+  rotate: false
+  xy: 1228, 31
+  size: 32, 38
+  orig: 32, 38
+  offset: 0, 0
+  index: -1
+27_laser/coree_2
+  rotate: false
+  xy: 639, 864
+  size: 21, 8
+  orig: 21, 8
+  offset: 0, 0
+  index: -1
+27_laser/coree_3
+  rotate: true
+  xy: 662, 211
+  size: 33, 39
+  orig: 33, 39
+  offset: 0, 0
+  index: -1
+27_laser/crack_light
+  rotate: true
+  xy: 1276, 231
+  size: 65, 17
+  orig: 65, 17
+  offset: 0, 0
+  index: -1
+27_laser/glow
+  rotate: false
+  xy: 1065, 165
+  size: 54, 52
+  orig: 54, 52
+  offset: 0, 0
+  index: -1
+27_laser/noise/Noise_00000
+  rotate: false
+  xy: 713, 179
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+27_laser/noise/Noise_00006
+  rotate: false
+  xy: 828, 171
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+27_laser/noise/Noise_00012
+  rotate: false
+  xy: 826, 105
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+27_laser/noise/Noise_00018
+  rotate: false
+  xy: 1295, 326
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+27_laser/noise/Noise_00024
+  rotate: false
+  xy: 1295, 260
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+27_laser/noise/Noise_00030
+  rotate: false
+  xy: 892, 78
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+27_laser/noise/Noise_00036
+  rotate: false
+  xy: 898, 12
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+27_laser/noise/Noise_00042
+  rotate: false
+  xy: 999, 202
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+27_laser/noise/Noise_00048
+  rotate: false
+  xy: 1121, 201
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+27_laser/noise/Noise_00054
+  rotate: false
+  xy: 999, 136
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+27_laser/noise/Noise_00060
+  rotate: false
+  xy: 1121, 135
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+27_laser/noise/Noise_00066
+  rotate: false
+  xy: 1210, 232
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+27_laser/noise/Noise_00072
+  rotate: false
+  xy: 1210, 166
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+27_laser/noise/Noise_00078
+  rotate: false
+  xy: 1295, 194
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+27_laser/noise/Noise_00084
+  rotate: false
+  xy: 1295, 128
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+27_laser/shadow
+  rotate: false
+  xy: 1296, 493
+  size: 66, 73
+  orig: 66, 73
+  offset: 0, 0
+  index: -1

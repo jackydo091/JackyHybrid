@@ -1,0 +1,412 @@
+
+MIB_Lobby.png
+size: 1143,1141
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG_Serleena
+  rotate: true
+  xy: 906, 890
+  size: 249, 232
+  orig: 249, 232
+  offset: 0, 0
+  index: -1
+Boat_Boris
+  rotate: false
+  xy: 469, 744
+  size: 392, 216
+  orig: 392, 219
+  offset: 0, 0
+  index: -1
+Elip_Light_1
+  rotate: false
+  xy: 410, 21
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+Human_Boris
+  rotate: true
+  xy: 384, 67
+  size: 127, 72
+  orig: 128, 122
+  offset: 1, 43
+  index: -1
+Human_Serleena
+  rotate: false
+  xy: 176, 4
+  size: 102, 317
+  orig: 102, 317
+  offset: 0, 0
+  index: -1
+JB_Elip2
+  rotate: false
+  xy: 222, 510
+  size: 187, 64
+  orig: 187, 64
+  offset: 0, 0
+  index: -1
+Light_Boat_Boris
+  rotate: false
+  xy: 469, 549
+  size: 381, 193
+  orig: 381, 193
+  offset: 0, 0
+  index: -1
+Light_Folder
+  rotate: false
+  xy: 712, 4
+  size: 108, 143
+  orig: 108, 143
+  offset: 0, 0
+  index: -1
+Light_Serleena
+  rotate: true
+  xy: 2, 14
+  size: 335, 127
+  orig: 337, 129
+  offset: 1, 1
+  index: -1
+Light_Serleena2
+  rotate: true
+  xy: 852, 394
+  size: 206, 248
+  orig: 206, 248
+  offset: 0, 0
+  index: -1
+Light_Sf
+  rotate: false
+  xy: 2, 701
+  size: 407, 144
+  orig: 409, 146
+  offset: 1, 1
+  index: -1
+Light_boris_1
+  rotate: false
+  xy: 280, 12
+  size: 102, 322
+  orig: 102, 322
+  offset: 0, 0
+  index: -1
+Light_boris_2
+  rotate: false
+  xy: 411, 351
+  size: 51, 333
+  orig: 51, 333
+  offset: 0, 0
+  index: -1
+Light_len_Boris
+  rotate: true
+  xy: 464, 4
+  size: 375, 139
+  orig: 375, 139
+  offset: 0, 0
+  index: -1
+Map_Boris
+  rotate: true
+  xy: 384, 196
+  size: 138, 77
+  orig: 138, 77
+  offset: 0, 0
+  index: -1
+Ring_2
+  rotate: false
+  xy: 2, 354
+  size: 218, 220
+  orig: 218, 220
+  offset: 0, 0
+  index: -1
+Scifi_1
+  rotate: false
+  xy: 131, 323
+  size: 89, 29
+  orig: 91, 31
+  offset: 1, 1
+  index: -1
+Scifi_10
+  rotate: false
+  xy: 410, 45
+  size: 47, 20
+  orig: 47, 20
+  offset: 0, 0
+  index: -1
+Scifi_11
+  rotate: true
+  xy: 691, 527
+  size: 20, 19
+  orig: 20, 19
+  offset: 0, 0
+  index: -1
+Scifi_12
+  rotate: false
+  xy: 1102, 573
+  size: 26, 27
+  orig: 26, 27
+  offset: 0, 0
+  index: -1
+Scifi_13
+  rotate: true
+  xy: 414, 976
+  size: 28, 54
+  orig: 28, 54
+  offset: 0, 0
+  index: -1
+Scifi_14
+  rotate: false
+  xy: 2, 576
+  size: 407, 123
+  orig: 407, 123
+  offset: 0, 0
+  index: -1
+Scifi_2
+  rotate: false
+  xy: 863, 892
+  size: 39, 26
+  orig: 39, 26
+  offset: 0, 0
+  index: -1
+Scifi_3
+  rotate: true
+  xy: 1102, 381
+  size: 47, 28
+  orig: 47, 28
+  offset: 0, 0
+  index: -1
+Scifi_4
+  rotate: false
+  xy: 863, 776
+  size: 37, 21
+  orig: 37, 21
+  offset: 0, 0
+  index: -1
+Scifi_5
+  rotate: false
+  xy: 863, 920
+  size: 41, 40
+  orig: 41, 40
+  offset: 0, 0
+  index: -1
+Scifi_6
+  rotate: true
+  xy: 863, 799
+  size: 68, 37
+  orig: 68, 37
+  offset: 0, 0
+  index: -1
+Scifi_7
+  rotate: false
+  xy: 1102, 475
+  size: 32, 23
+  orig: 32, 23
+  offset: 0, 0
+  index: -1
+Scifi_8
+  rotate: false
+  xy: 1102, 430
+  size: 31, 20
+  orig: 31, 20
+  offset: 0, 0
+  index: -1
+Scifi_9
+  rotate: false
+  xy: 1102, 452
+  size: 31, 21
+  orig: 31, 21
+  offset: 0, 0
+  index: -1
+Scifi_Ellipse
+  rotate: false
+  xy: 1070, 334
+  size: 45, 45
+  orig: 45, 45
+  offset: 0, 0
+  index: -1
+Scifi_Ellipse1
+  rotate: false
+  xy: 1070, 287
+  size: 45, 45
+  orig: 45, 45
+  offset: 0, 0
+  index: -1
+Scifi_Ellipse2
+  rotate: false
+  xy: 1038, 102
+  size: 45, 45
+  orig: 45, 45
+  offset: 0, 0
+  index: -1
+Scifi_Ellipse3
+  rotate: true
+  xy: 822, 2
+  size: 118, 140
+  orig: 118, 140
+  offset: 0, 0
+  index: -1
+Scifi_Ellipse4
+  rotate: false
+  xy: 712, 184
+  size: 130, 127
+  orig: 130, 127
+  offset: 0, 0
+  index: -1
+Scifi_Ellipse5
+  rotate: true
+  xy: 464, 403
+  size: 144, 225
+  orig: 144, 225
+  offset: 0, 0
+  index: -1
+Scifi_Load
+  rotate: false
+  xy: 476, 962
+  size: 428, 177
+  orig: 428, 177
+  offset: 0, 0
+  index: -1
+Scifi_Load_BG
+  rotate: false
+  xy: 2, 847
+  size: 410, 157
+  orig: 428, 177
+  offset: 10, 10
+  index: -1
+Scifi_Load_TTSL
+  rotate: false
+  xy: 844, 122
+  size: 192, 117
+  orig: 192, 117
+  offset: 0, 0
+  index: -1
+Scifi_Vuong
+  rotate: false
+  xy: 852, 735
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+Scifi_Vuong2
+  rotate: false
+  xy: 1130, 768
+  size: 11, 12
+  orig: 11, 12
+  offset: 0, 0
+  index: -1
+ShadownText_MIBPVP
+  rotate: false
+  xy: 852, 602
+  size: 262, 125
+  orig: 262, 125
+  offset: 0, 0
+  index: -1
+Stretched
+  rotate: false
+  xy: 1130, 593
+  size: 8, 173
+  orig: 8, 173
+  offset: 0, 0
+  index: -1
+TTSL_Light
+  rotate: true
+  xy: 605, 5
+  size: 374, 105
+  orig: 376, 107
+  offset: 1, 1
+  index: -1
+TTSL_Light2
+  rotate: true
+  xy: 222, 336
+  size: 172, 185
+  orig: 174, 187
+  offset: 1, 1
+  index: -1
+TTSL_Light3
+  rotate: true
+  xy: 863, 869
+  size: 21, 39
+  orig: 21, 39
+  offset: 0, 0
+  index: -1
+TTSL_Light4
+  rotate: false
+  xy: 384, 15
+  size: 24, 50
+  orig: 25, 51
+  offset: 0, 1
+  index: -1
+TTSL_Light5
+  rotate: false
+  xy: 1102, 500
+  size: 32, 71
+  orig: 32, 71
+  offset: 0, 0
+  index: -1
+Text_Boris_SRM
+  rotate: false
+  xy: 904, 782
+  size: 236, 106
+  orig: 342, 114
+  offset: 50, 5
+  index: -1
+Text_GDLHT
+  rotate: false
+  xy: 2, 1006
+  size: 472, 133
+  orig: 472, 133
+  offset: 0, 0
+  index: -1
+Text_PVP_SRM
+  rotate: false
+  xy: 863, 729
+  size: 265, 45
+  orig: 265, 45
+  offset: 0, 0
+  index: -1
+Text_Serleena
+  rotate: true
+  xy: 131, 3
+  size: 318, 43
+  orig: 318, 43
+  offset: 0, 0
+  index: -1
+Text_TruyTim
+  rotate: true
+  xy: 414, 686
+  size: 288, 53
+  orig: 288, 53
+  offset: 0, 0
+  index: -1
+lock
+  rotate: true
+  xy: 712, 313
+  size: 96, 136
+  orig: 140, 143
+  offset: 18, 1
+  index: -1
+lock2
+  rotate: false
+  xy: 712, 411
+  size: 138, 136
+  orig: 140, 143
+  offset: 0, 1
+  index: -1
+lock3
+  rotate: false
+  xy: 1045, 149
+  size: 96, 136
+  orig: 140, 143
+  offset: 18, 1
+  index: -1
+sap_ra_mat_vang
+  rotate: false
+  xy: 850, 324
+  size: 218, 68
+  orig: 218, 68
+  offset: 0, 0
+  index: -1
+truy_tim_selena
+  rotate: false
+  xy: 850, 241
+  size: 193, 81
+  orig: 193, 81
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,68 @@
+{
+  "ver": "1.0.21",
+  "importer": "image",
+  "imported": true,
+  "uuid": "bd6b52d1-07e8-4477-8acf-211869fc95e6",
+  "files": [
+    ".png",
+    ".json"
+  ],
+  "subMetas": {
+    "Fx_Skill_Using": {
+      "ver": "1.0.4",
+      "uuid": "a07d89a7-9ac8-4bdf-b721-6bebb9d0c8ad",
+      "rawTextureUuid": "bd6b52d1-07e8-4477-8acf-211869fc95e6",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 2,
+      "trimY": 2,
+      "width": 84,
+      "height": 182,
+      "rawWidth": 88,
+      "rawHeight": 186,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {},
+      "importer": "*",
+      "imported": false,
+      "files": [],
+      "userData": {},
+      "displayName": "",
+      "id": "",
+      "name": ""
+    },
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "bd6b52d1-07e8-4477-8acf-211869fc95e6@6c48a",
+      "displayName": "Fx_Skill_Using",
+      "id": "6c48a",
+      "name": "texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 1,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "bd6b52d1-07e8-4477-8acf-211869fc95e6"
+      },
+      "ver": "1.0.21",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "hasAlpha": true,
+    "type": "texture",
+    "redirect": "bd6b52d1-07e8-4477-8acf-211869fc95e6@6c48a"
+  }
+}

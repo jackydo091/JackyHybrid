@@ -1,0 +1,118 @@
+
+Gun_1988.png
+size: 1666,396
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Gun_Lazer/body
+  rotate: false
+  xy: 2, 158
+  size: 66, 236
+  orig: 66, 236
+  offset: 0, 0
+  index: -1
+Gun_Lazer/fx/fx0
+  rotate: false
+  xy: 1421, 97
+  size: 60, 65
+  orig: 69, 66
+  offset: 0, 1
+  index: -1
+Gun_Lazer/fx/fx1
+  rotate: false
+  xy: 1433, 328
+  size: 59, 66
+  orig: 69, 66
+  offset: 0, 0
+  index: -1
+Gun_Lazer/fx/fx2
+  rotate: false
+  xy: 944, 2
+  size: 69, 63
+  orig: 69, 66
+  offset: 0, 2
+  index: -1
+Gun_Lazer/fx/fx3
+  rotate: true
+  xy: 1191, 224
+  size: 69, 59
+  orig: 69, 66
+  offset: 0, 3
+  index: -1
+Gun_Lazer/fx/fx4
+  rotate: true
+  xy: 1310, 229
+  size: 69, 56
+  orig: 69, 66
+  offset: 0, 4
+  index: -1
+Gun_Lazer/fx/fx5
+  rotate: false
+  xy: 941, 224
+  size: 69, 60
+  orig: 69, 66
+  offset: 0, 6
+  index: -1
+Gun_Lazer/fx/fx6
+  rotate: true
+  xy: 1128, 224
+  size: 69, 61
+  orig: 69, 66
+  offset: 0, 4
+  index: -1
+Gun_Lazer/fx/fx7
+  rotate: false
+  xy: 1150, 3
+  size: 64, 62
+  orig: 69, 66
+  offset: 0, 3
+  index: -1
+Gun_Lazer/fx/fx8
+  rotate: true
+  xy: 1083, 3
+  size: 62, 65
+  orig: 69, 66
+  offset: 0, 0
+  index: -1
+Gun_Lazer/hand1
+  rotate: true
+  xy: 1612, 6
+  size: 29, 38
+  orig: 29, 38
+  offset: 0, 0
+  index: -1
+Gun_Lazer/hand2
+  rotate: true
+  xy: 454, 10
+  size: 14, 33
+  orig: 14, 33
+  offset: 0, 0
+  index: -1
+Gun_Lazer/head
+  rotate: true
+  xy: 543, 2
+  size: 43, 40
+  orig: 43, 40
+  offset: 0, 0
+  index: -1
+Gun_Lazer/light
+  rotate: false
+  xy: 489, 47
+  size: 65, 161
+  orig: 65, 161
+  offset: 0, 0
+  index: -1
+Gun_Lazer/light_expl
+  rotate: false
+  xy: 1332, 141
+  size: 26, 86
+  orig: 26, 86
+  offset: 0, 0
+  index: -1
+Gun_Lazer/orb
+  rotate: false
+  xy: 1068, 67
+  size: 53, 53
+  orig: 53, 53
+  offset: 0, 0
+  index: -1

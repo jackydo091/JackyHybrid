@@ -1,0 +1,69 @@
+
+Transition.png
+size: 1208,947
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG_Black
+  rotate: false
+  xy: 2, 465
+  size: 480, 480
+  orig: 480, 480
+  offset: 0, 0
+  index: -1
+BG_Black_Light
+  rotate: false
+  xy: 484, 465
+  size: 480, 480
+  orig: 480, 480
+  offset: 0, 0
+  index: -1
+Circle
+  rotate: false
+  xy: 844, 101
+  size: 362, 362
+  orig: 362, 362
+  offset: 0, 0
+  index: -1
+Circle_BG
+  rotate: false
+  xy: 465, 92
+  size: 377, 371
+  orig: 377, 371
+  offset: 0, 0
+  index: -1
+Circle_Glow
+  rotate: false
+  xy: 2, 2
+  size: 461, 461
+  orig: 461, 461
+  offset: 0, 0
+  index: -1
+Glow_1
+  rotate: false
+  xy: 966, 560
+  size: 66, 66
+  orig: 66, 66
+  offset: 0, 0
+  index: -1
+Glow_2
+  rotate: false
+  xy: 1034, 560
+  size: 66, 66
+  orig: 66, 66
+  offset: 0, 0
+  index: -1
+Out1
+  rotate: true
+  xy: 966, 756
+  size: 189, 142
+  orig: 189, 142
+  offset: 0, 0
+  index: -1
+Out2
+  rotate: true
+  xy: 966, 628
+  size: 126, 81
+  orig: 126, 81
+  offset: 0, 0
+  index: -1

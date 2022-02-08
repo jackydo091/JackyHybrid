@@ -1,0 +1,132 @@
+
+Fish_1988.png
+size: 1476,1476
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+24_x100x500/Wheel_Face
+  rotate: true
+  xy: 598, 575
+  size: 200, 25
+  orig: 200, 25
+  offset: 0, 0
+  index: -1
+24_x100x500/Wheel_Face_Glow
+  rotate: false
+  xy: 1408, 384
+  size: 12, 13
+  orig: 12, 13
+  offset: 0, 0
+  index: -1
+24_x100x500/Wheel_Light
+  rotate: false
+  xy: 1116, 93
+  size: 53, 24
+  orig: 53, 24
+  offset: 0, 0
+  index: -1
+24_x100x500/Wheel_Side_Glow
+  rotate: false
+  xy: 770, 1240
+  size: 234, 234
+  orig: 234, 234
+  offset: 0, 0
+  index: -1
+24_x100x500/body
+  rotate: false
+  xy: 1041, 574
+  size: 93, 49
+  orig: 93, 49
+  offset: 0, 0
+  index: -1
+24_x100x500/bread
+  rotate: false
+  xy: 1298, 568
+  size: 85, 10
+  orig: 85, 10
+  offset: 0, 0
+  index: -1
+24_x100x500/bubble
+  rotate: false
+  xy: 1299, 11
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+30_x100x500/bubble
+  rotate: false
+  xy: 1299, 11
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+24_x100x500/head
+  rotate: false
+  xy: 768, 115
+  size: 56, 62
+  orig: 56, 62
+  offset: 0, 0
+  index: -1
+24_x100x500/leg1
+  rotate: true
+  xy: 872, 388
+  size: 21, 73
+  orig: 21, 73
+  offset: 0, 0
+  index: -1
+24_x100x500/leg1a
+  rotate: true
+  xy: 876, 624
+  size: 84, 30
+  orig: 84, 30
+  offset: 0, 0
+  index: -1
+24_x100x500/leg1c
+  rotate: false
+  xy: 1444, 953
+  size: 30, 29
+  orig: 30, 29
+  offset: 0, 0
+  index: -1
+24_x100x500/leg2
+  rotate: true
+  xy: 1276, 181
+  size: 48, 17
+  orig: 48, 17
+  offset: 0, 0
+  index: -1
+24_x100x500/leg2a
+  rotate: true
+  xy: 1171, 53
+  size: 64, 14
+  orig: 64, 14
+  offset: 0, 0
+  index: -1
+24_x100x500/leg2b
+  rotate: true
+  xy: 868, 594
+  size: 28, 27
+  orig: 28, 27
+  offset: 0, 0
+  index: -1
+24_x100x500/machine
+  rotate: true
+  xy: 111, 375
+  size: 235, 127
+  orig: 235, 127
+  offset: 0, 0
+  index: -1
+24_x100x500/shadown
+  rotate: false
+  xy: 1136, 568
+  size: 90, 50
+  orig: 90, 50
+  offset: 0, 0
+  index: -1
+24_x100x500/tail
+  rotate: false
+  xy: 779, 179
+  size: 47, 64
+  orig: 47, 64
+  offset: 0, 0
+  index: -1

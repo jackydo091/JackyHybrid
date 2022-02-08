@@ -1,0 +1,314 @@
+
+Fx_Gun_1988.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Spark Shot/Beam
+  rotate: false
+  xy: 1939, 1587
+  size: 106, 227
+  orig: 120, 230
+  offset: 7, 3
+  index: -1
+Spark Shot/Comp 1/Comp 1_00000
+  rotate: false
+  xy: 2, 544
+  size: 65, 700
+  orig: 65, 700
+  offset: 0, 0
+  index: -1
+Spark Shot/Comp 1/Comp 1_00003
+  rotate: false
+  xy: 154, 1346
+  size: 65, 700
+  orig: 65, 700
+  offset: 0, 0
+  index: -1
+Spark Shot/Comp 1/Comp 1_00006
+  rotate: false
+  xy: 69, 544
+  size: 65, 700
+  orig: 65, 700
+  offset: 0, 0
+  index: -1
+Spark Shot/Comp 1/Comp 1_00009
+  rotate: false
+  xy: 221, 1346
+  size: 65, 700
+  orig: 65, 700
+  offset: 0, 0
+  index: -1
+Spark Shot/Comp 1/Comp 1_00012
+  rotate: false
+  xy: 288, 1346
+  size: 65, 700
+  orig: 65, 700
+  offset: 0, 0
+  index: -1
+Spark Shot/Comp 1/Comp 1_00015
+  rotate: false
+  xy: 355, 1346
+  size: 65, 700
+  orig: 65, 700
+  offset: 0, 0
+  index: -1
+Spark Shot/Comp 1/Comp 1_00018
+  rotate: false
+  xy: 422, 1346
+  size: 65, 700
+  orig: 65, 700
+  offset: 0, 0
+  index: -1
+Spark Shot/Comp 1/Comp 1_00021
+  rotate: false
+  xy: 489, 1346
+  size: 65, 700
+  orig: 65, 700
+  offset: 0, 0
+  index: -1
+Spark Shot/Comp 1/Comp 1_00024
+  rotate: false
+  xy: 556, 1346
+  size: 65, 700
+  orig: 65, 700
+  offset: 0, 0
+  index: -1
+Spark Shot/Comp 1/Comp 1_00027
+  rotate: false
+  xy: 623, 1346
+  size: 65, 700
+  orig: 65, 700
+  offset: 0, 0
+  index: -1
+Spark Shot/Comp 1/Comp 1_00030
+  rotate: false
+  xy: 690, 1346
+  size: 65, 700
+  orig: 65, 700
+  offset: 0, 0
+  index: -1
+Spark Shot/Elements - Fire 075 Hit Right MIX noCT noRSZ_00000
+  rotate: true
+  xy: 1058, 744
+  size: 33, 60
+  orig: 125, 125
+  offset: 0, 35
+  index: -1
+Spark Shot/Elements - Fire 075 Hit Right MIX noCT noRSZ_00001
+  rotate: false
+  xy: 1851, 939
+  size: 58, 64
+  orig: 125, 125
+  offset: 0, 31
+  index: -1
+Spark Shot/Elements - Fire 075 Hit Right MIX noCT noRSZ_00002
+  rotate: true
+  xy: 1368, 182
+  size: 78, 86
+  orig: 125, 125
+  offset: 0, 20
+  index: -1
+Spark Shot/Elements - Fire 075 Hit Right MIX noCT noRSZ_00003
+  rotate: false
+  xy: 1537, 506
+  size: 92, 101
+  orig: 125, 125
+  offset: 1, 13
+  index: -1
+Spark Shot/Elements - Fire 075 Hit Right MIX noCT noRSZ_00004
+  rotate: false
+  xy: 1459, 609
+  size: 103, 101
+  orig: 125, 125
+  offset: 2, 13
+  index: -1
+Spark Shot/Elements - Fire 075 Hit Right MIX noCT noRSZ_00005
+  rotate: false
+  xy: 1456, 403
+  size: 107, 101
+  orig: 125, 125
+  offset: 2, 13
+  index: -1
+Spark Shot/Elements - Fire 075 Hit Right MIX noCT noRSZ_00006
+  rotate: true
+  xy: 1324, 7
+  size: 109, 101
+  orig: 125, 125
+  offset: 3, 13
+  index: -1
+Spark Shot/Elements - Fire 075 Hit Right MIX noCT noRSZ_00007
+  rotate: false
+  xy: 1424, 506
+  size: 111, 101
+  orig: 125, 125
+  offset: 3, 13
+  index: -1
+Spark Shot/Elements - Fire 075 Hit Right MIX noCT noRSZ_00008
+  rotate: true
+  xy: 1459, 712
+  size: 113, 102
+  orig: 125, 125
+  offset: 3, 13
+  index: -1
+Spark Shot/Elements - Fire 075 Hit Right MIX noCT noRSZ_00009
+  rotate: true
+  xy: 1219, 2
+  size: 114, 103
+  orig: 125, 125
+  offset: 3, 13
+  index: -1
+Spark Shot/Elements - Fire 075 Hit Right MIX noCT noRSZ_00010
+  rotate: false
+  xy: 1341, 616
+  size: 116, 103
+  orig: 125, 125
+  offset: 4, 13
+  index: -1
+Spark Shot/Elements - Fire 075 Hit Right MIX noCT noRSZ_00011
+  rotate: false
+  xy: 1341, 721
+  size: 116, 104
+  orig: 125, 125
+  offset: 4, 13
+  index: -1
+Spark Shot/exp11
+  rotate: true
+  xy: 1027, 203
+  size: 193, 181
+  orig: 202, 210
+  offset: 9, 23
+  index: -1
+Spark Shot/exp13
+  rotate: false
+  xy: 1191, 1382
+  size: 209, 200
+  orig: 222, 210
+  offset: 0, 10
+  index: -1
+Spark Shot/exp15
+  rotate: false
+  xy: 810, 381
+  size: 210, 210
+  orig: 210, 210
+  offset: 0, 0
+  index: -1
+Spark Shot/exp17
+  rotate: false
+  xy: 371, 931
+  size: 229, 208
+  orig: 232, 210
+  offset: 0, 1
+  index: -1
+Spark Shot/exp19
+  rotate: true
+  xy: 2, 30
+  size: 240, 196
+  orig: 240, 210
+  offset: 0, 6
+  index: -1
+Spark Shot/exp21
+  rotate: false
+  xy: 154, 1153
+  size: 236, 191
+  orig: 238, 210
+  offset: 2, 11
+  index: -1
+Spark Shot/exp23
+  rotate: true
+  xy: 2, 272
+  size: 270, 171
+  orig: 284, 210
+  offset: 0, 25
+  index: -1
+Spark Shot/exp3
+  rotate: true
+  xy: 1081, 55
+  size: 146, 136
+  orig: 172, 164
+  offset: 14, 19
+  index: -1
+Spark Shot/exp5
+  rotate: true
+  xy: 1210, 249
+  size: 168, 156
+  orig: 188, 160
+  offset: 12, 4
+  index: -1
+Spark Shot/exp7
+  rotate: true
+  xy: 1173, 597
+  size: 180, 166
+  orig: 184, 174
+  offset: 4, 8
+  index: -1
+Spark Shot/exp9
+  rotate: false
+  xy: 1405, 1000
+  size: 191, 178
+  orig: 214, 188
+  offset: 14, 10
+  index: -1
+Spark Shot/new/115 (1)
+  rotate: true
+  xy: 1405, 905
+  size: 93, 169
+  orig: 93, 169
+  offset: 0, 0
+  index: -1
+Spark Shot/new/115 (2)
+  rotate: true
+  xy: 605, 49
+  size: 90, 167
+  orig: 90, 167
+  offset: 0, 0
+  index: -1
+Spark Shot/new/115 (3)
+  rotate: false
+  xy: 1368, 262
+  size: 86, 165
+  orig: 86, 165
+  offset: 0, 0
+  index: -1
+Spark Shot/new/115 (4)
+  rotate: false
+  xy: 1336, 429
+  size: 86, 166
+  orig: 86, 166
+  offset: 0, 0
+  index: -1
+Spark Shot/new/115 (5)
+  rotate: false
+  xy: 995, 4
+  size: 84, 173
+  orig: 84, 173
+  offset: 0, 0
+  index: -1
+Spark Shot/new/115 (6)
+  rotate: false
+  xy: 1251, 802
+  size: 84, 165
+  orig: 84, 165
+  offset: 0, 0
+  index: -1
+Spark Shot/new/115 (7)
+  rotate: true
+  xy: 1337, 827
+  size: 76, 164
+  orig: 76, 164
+  offset: 0, 0
+  index: -1
+Spark Shot/new/Rounded Rectangle 1
+  rotate: false
+  xy: 2, 1246
+  size: 150, 800
+  orig: 150, 800
+  offset: 0, 0
+  index: -1
+Spark Shot/new/yueshi_06
+  rotate: false
+  xy: 757, 1351
+  size: 235, 235
+  orig: 256, 256
+  offset: 11, 10
+  index: -1

@@ -1,0 +1,62 @@
+
+Fx_Circle_me.png
+size: 341,141
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
++
+  rotate: false
+  xy: 71, 36
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+Circule
+  rotate: false
+  xy: 178, 8
+  size: 100, 131
+  orig: 100, 131
+  offset: 0, 0
+  index: -1
+Dot_Blue
+  rotate: false
+  xy: 2, 36
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+Dot_White
+  rotate: false
+  xy: 16, 36
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+Line_1
+  rotate: true
+  xy: 2, 2
+  size: 4, 67
+  orig: 4, 67
+  offset: 0, 0
+  index: -1
+Line_2
+  rotate: false
+  xy: 336, 6
+  size: 3, 133
+  orig: 3, 133
+  offset: 0, 0
+  index: -1
+Wind
+  rotate: true
+  xy: 2, 50
+  size: 89, 174
+  orig: 89, 174
+  offset: 0, 0
+  index: -1
+fx_vitri_ng_choi
+  rotate: true
+  xy: 280, 3
+  size: 136, 54
+  orig: 136, 54
+  offset: 0, 0
+  index: -1

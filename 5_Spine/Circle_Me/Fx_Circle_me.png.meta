@@ -1,0 +1,68 @@
+{
+  "ver": "1.0.21",
+  "importer": "image",
+  "imported": true,
+  "uuid": "f52dc95a-9cb6-4f70-a52a-f979225ce274",
+  "files": [
+    ".png",
+    ".json"
+  ],
+  "subMetas": {
+    "Fx_Circle_me": {
+      "ver": "1.0.4",
+      "uuid": "80eeb219-de6b-4d8c-bf5a-3a8f8bf86f17",
+      "rawTextureUuid": "f52dc95a-9cb6-4f70-a52a-f979225ce274",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 2,
+      "trimY": 2,
+      "width": 337,
+      "height": 137,
+      "rawWidth": 341,
+      "rawHeight": 141,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {},
+      "importer": "*",
+      "imported": false,
+      "files": [],
+      "userData": {},
+      "displayName": "",
+      "id": "",
+      "name": ""
+    },
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "f52dc95a-9cb6-4f70-a52a-f979225ce274@6c48a",
+      "displayName": "Fx_Circle_me",
+      "id": "6c48a",
+      "name": "texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 1,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "f52dc95a-9cb6-4f70-a52a-f979225ce274"
+      },
+      "ver": "1.0.21",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "hasAlpha": true,
+    "type": "texture",
+    "redirect": "f52dc95a-9cb6-4f70-a52a-f979225ce274@6c48a"
+  }
+}

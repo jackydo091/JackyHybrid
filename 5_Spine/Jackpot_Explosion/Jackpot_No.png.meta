@@ -1,0 +1,68 @@
+{
+  "ver": "1.0.21",
+  "importer": "image",
+  "imported": true,
+  "uuid": "843e3e89-a761-4abd-b4bd-8dacb19b0fd1",
+  "files": [
+    ".png",
+    ".json"
+  ],
+  "subMetas": {
+    "Jackpot_No": {
+      "ver": "1.0.4",
+      "uuid": "28cf6573-3f3d-461a-9eaa-b7c7820aa371",
+      "rawTextureUuid": "843e3e89-a761-4abd-b4bd-8dacb19b0fd1",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0.5,
+      "offsetY": 0,
+      "trimX": 3,
+      "trimY": 2,
+      "width": 1019,
+      "height": 1020,
+      "rawWidth": 1024,
+      "rawHeight": 1024,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {},
+      "importer": "*",
+      "imported": false,
+      "files": [],
+      "userData": {},
+      "displayName": "",
+      "id": "",
+      "name": ""
+    },
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "843e3e89-a761-4abd-b4bd-8dacb19b0fd1@6c48a",
+      "displayName": "Jackpot_No",
+      "id": "6c48a",
+      "name": "texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "843e3e89-a761-4abd-b4bd-8dacb19b0fd1"
+      },
+      "ver": "1.0.21",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "hasAlpha": true,
+    "type": "texture",
+    "redirect": "843e3e89-a761-4abd-b4bd-8dacb19b0fd1@6c48a"
+  }
+}

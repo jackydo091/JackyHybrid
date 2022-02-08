@@ -1,0 +1,42 @@
+{
+"skeleton": { "hash": "fKfATVhAodQ9OeATXTJcNvwW0f0", "spine": "3.7.94", "width": 0, "height": 0 },
+"bones": [
+	{ "name": "root" },
+	{ "name": "Gun1", "parent": "root", "scaleX": 0.4, "scaleY": 0.4 }
+],
+"slots": [
+	{ "name": "Fx_Gun1/Gun1", "bone": "Gun1" }
+],
+"skins": {
+	"default": {
+		"Fx_Gun1/Gun1": {
+			"Fx_Gun1/Gun3 (1)": { "width": 220, "height": 211 },
+			"Fx_Gun1/Gun3 (2)": { "width": 220, "height": 211 },
+			"Fx_Gun1/Gun3 (3)": { "width": 220, "height": 211 },
+			"Fx_Gun1/Gun3 (4)": { "width": 220, "height": 211 },
+			"Fx_Gun1/Gun3 (5)": { "width": 220, "height": 211 },
+			"Fx_Gun1/Gun3 (6)": { "width": 220, "height": 211 },
+			"Fx_Gun1/Gun3 (7)": { "width": 220, "height": 211 },
+			"Fx_Gun1/Gun3 (8)": { "width": 220, "height": 211 }
+		}
+	}
+},
+"animations": {
+	"animation": {
+		"slots": {
+			"Fx_Gun1/Gun1": {
+				"attachment": [
+					{ "time": 0, "name": "Fx_Gun1/Gun3 (1)" },
+					{ "time": 0.0465, "name": "Fx_Gun1/Gun3 (3)" },
+					{ "time": 0.0929, "name": "Fx_Gun1/Gun3 (4)" },
+					{ "time": 0.1394, "name": "Fx_Gun1/Gun3 (5)" },
+					{ "time": 0.1858, "name": "Fx_Gun1/Gun3 (6)" },
+					{ "time": 0.2323, "name": "Fx_Gun1/Gun3 (7)" },
+					{ "time": 0.2788, "name": "Fx_Gun1/Gun3 (8)" },
+					{ "time": 0.3333, "name": null }
+				]
+			}
+		}
+	}
+}
+}

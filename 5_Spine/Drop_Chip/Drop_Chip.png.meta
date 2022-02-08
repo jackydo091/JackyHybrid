@@ -1,0 +1,68 @@
+{
+  "ver": "1.0.21",
+  "importer": "image",
+  "imported": true,
+  "uuid": "1c368ac4-a4f8-48d7-8aeb-85dec7b5739c",
+  "files": [
+    ".png",
+    ".json"
+  ],
+  "subMetas": {
+    "Drop_Chip": {
+      "ver": "1.0.4",
+      "uuid": "b6d11347-b99f-43f0-a68f-5906a018327d",
+      "rawTextureUuid": "1c368ac4-a4f8-48d7-8aeb-85dec7b5739c",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": -7.5,
+      "trimX": 2,
+      "trimY": 17,
+      "width": 621,
+      "height": 604,
+      "rawWidth": 625,
+      "rawHeight": 623,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {},
+      "importer": "*",
+      "imported": false,
+      "files": [],
+      "userData": {},
+      "displayName": "",
+      "id": "",
+      "name": ""
+    },
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "1c368ac4-a4f8-48d7-8aeb-85dec7b5739c@6c48a",
+      "displayName": "Drop_Chip",
+      "id": "6c48a",
+      "name": "texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "1c368ac4-a4f8-48d7-8aeb-85dec7b5739c"
+      },
+      "ver": "1.0.21",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "hasAlpha": true,
+    "type": "texture",
+    "redirect": "1c368ac4-a4f8-48d7-8aeb-85dec7b5739c@6c48a"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "ver": "1.0.21",
+  "importer": "image",
+  "imported": true,
+  "uuid": "640ec188-840d-4ae3-86a2-cca3079fd60f",
+  "files": [
+    ".png",
+    ".json"
+  ],
+  "subMetas": {
+    "Fx_Lightning": {
+      "ver": "1.0.4",
+      "uuid": "25e6785a-a06e-4414-9305-c0b6db275ae6",
+      "rawTextureUuid": "640ec188-840d-4ae3-86a2-cca3079fd60f",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 2,
+      "trimY": 2,
+      "width": 1250,
+      "height": 1249,
+      "rawWidth": 1254,
+      "rawHeight": 1253,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {},
+      "importer": "*",
+      "imported": false,
+      "files": [],
+      "userData": {},
+      "displayName": "",
+      "id": "",
+      "name": ""
+    },
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "640ec188-840d-4ae3-86a2-cca3079fd60f@6c48a",
+      "displayName": "Fx_Lightning",
+      "id": "6c48a",
+      "name": "texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "640ec188-840d-4ae3-86a2-cca3079fd60f"
+      },
+      "ver": "1.0.21",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "hasAlpha": true,
+    "type": "texture",
+    "redirect": "640ec188-840d-4ae3-86a2-cca3079fd60f@6c48a"
+  }
+}

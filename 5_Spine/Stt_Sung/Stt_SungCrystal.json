@@ -1,0 +1,254 @@
+{
+"skeleton": { "hash": "gi/BK16/zSeHZylTZUZXDuYi6Cw", "spine": "3.7.94", "width": 322, "height": 273.02 },
+"bones": [
+	{ "name": "root" },
+	{ "name": "All", "parent": "root" },
+	{ "name": "All_Text", "parent": "All" },
+	{ "name": "Text_Light", "parent": "All_Text" },
+	{ "name": "Text", "parent": "All_Text" },
+	{ "name": "Light", "parent": "All" },
+	{ "name": "Laser_B", "parent": "All", "scaleX": 1.4, "scaleY": 1.4 },
+	{ "name": "Laser", "parent": "All" }
+],
+"slots": [
+	{ "name": "Laser", "bone": "Laser", "attachment": "Laser" },
+	{ "name": "noRSZ_00008", "bone": "Laser_B", "attachment": "Elements - Electricity 014 Charge Radial Loop noCT noRSZ_00008" },
+	{ "name": "Text", "bone": "Text", "attachment": "Text_STTSung" },
+	{ "name": "Text_Light", "bone": "Text_Light", "attachment": "Text_Light_STTSung" },
+	{ "name": "Light", "bone": "Light", "attachment": "Light" }
+],
+"skins": {
+	"default": {
+		"Laser": {
+			"Laser": { "width": 194, "height": 195 }
+		},
+		"Light": {
+			"Light": { "width": 322, "height": 186 }
+		},
+		"Text": {
+			"Text_STTSung": { "width": 246, "height": 116 }
+		},
+		"Text_Light": {
+			"Text_Light_STTSung": { "width": 246, "height": 116 }
+		},
+		"noRSZ_00008": {
+			"Elements - Electricity 014 Charge Radial Loop noCT noRSZ_00008": { "scaleX": 1.298, "scaleY": 1.298, "rotation": 0.09, "width": 150, "height": 150 },
+			"Elements - Electricity 014 Charge Radial Loop noCT noRSZ_00017": { "scaleX": 1.4, "scaleY": 1.4, "width": 150, "height": 150 }
+		}
+	}
+},
+"animations": {
+	"Appear": {
+		"slots": {
+			"Laser": {
+				"color": [
+					{
+						"time": 0.1,
+						"color": "ffffff00",
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 0.2667, "color": "ffffffff", "curve": "stepped" },
+					{
+						"time": 0.5,
+						"color": "ffffffff",
+						"curve": [ 0.375, 0.5, 0.75, 1 ]
+					},
+					{ "time": 0.8333, "color": "ffffff00" }
+				]
+			},
+			"Light": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" },
+					{ "time": 0.0667, "color": "ffffffff", "curve": "stepped" },
+					{ "time": 0.1667, "color": "ffffffff" },
+					{ "time": 0.3333, "color": "ffffff00" }
+				]
+			},
+			"Text_Light": {
+				"color": [
+					{
+						"time": 0,
+						"color": "ffffff00",
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 0.1667, "color": "ffffffff", "curve": "stepped" },
+					{
+						"time": 0.2333,
+						"color": "ffffffff",
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 0.3333, "color": "ffffff00" }
+				]
+			},
+			"noRSZ_00008": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.3333, "name": "Elements - Electricity 014 Charge Radial Loop noCT noRSZ_00008" },
+					{ "time": 0.3667, "name": null },
+					{ "time": 0.4, "name": "Elements - Electricity 014 Charge Radial Loop noCT noRSZ_00017" },
+					{ "time": 0.4333, "name": null },
+					{ "time": 0.5333, "name": "Elements - Electricity 014 Charge Radial Loop noCT noRSZ_00017" },
+					{ "time": 0.5667, "name": null },
+					{ "time": 0.6, "name": "Elements - Electricity 014 Charge Radial Loop noCT noRSZ_00008" },
+					{ "time": 0.6333, "name": "Elements - Electricity 014 Charge Radial Loop noCT noRSZ_00017" },
+					{ "time": 0.6667, "name": null }
+				]
+			}
+		},
+		"bones": {
+			"All_Text": {
+				"scale": [
+					{
+						"time": 0,
+						"x": 0,
+						"y": 0,
+						"curve": [ 0.525, 0.04, 0.876, 0.84 ]
+					},
+					{
+						"time": 0.1667,
+						"x": 1.3,
+						"y": 1.3,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 0.3333, "x": 1, "y": 1 }
+				]
+			},
+			"Laser": {
+				"rotate": [
+					{ "time": 0, "angle": 0 },
+					{ "time": 0.2333, "angle": 90 },
+					{ "time": 0.5, "angle": 180 },
+					{ "time": 0.7667, "angle": -90 },
+					{ "time": 1, "angle": 0 }
+				],
+				"scale": [
+					{ "time": 0.1, "x": 0, "y": 0 },
+					{ "time": 0.2333, "x": 1.5, "y": 1.5 },
+					{ "time": 0.2667, "x": 1.3, "y": 1.3, "curve": "stepped" },
+					{ "time": 0.6667, "x": 1.3, "y": 1.3 },
+					{ "time": 0.8333, "x": 2, "y": 2 }
+				]
+			},
+			"Light": {
+				"scale": [
+					{ "time": 0, "x": 0, "y": 0 },
+					{ "time": 0.1, "x": 1.3, "y": 1.6 },
+					{ "time": 0.3333, "x": 0.66, "y": 0 }
+				]
+			},
+			"Text_Light": {
+				"scale": [
+					{ "time": 0.2333, "x": 1, "y": 1 },
+					{ "time": 0.3333, "x": 1.458, "y": 1.458 }
+				]
+			},
+			"Laser_B": {
+				"rotate": [
+					{ "time": 0.3333, "angle": 0 },
+					{ "time": 0.4667, "angle": -136.45 },
+					{ "time": 0.6667, "angle": 96.09 }
+				],
+				"translate": [
+					{ "time": 0.3333, "x": 9.77, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0.8333, "x": 1.429, "y": 1.429 }
+				]
+			}
+		}
+	},
+	"DisAppear": {
+		"slots": {
+			"Laser": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Light": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Text_Light": {
+				"color": [
+					{
+						"time": 0,
+						"color": "ffffff00",
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 0.1667, "color": "ffffffff", "curve": "stepped" },
+					{
+						"time": 0.2333,
+						"color": "ffffffff",
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 0.3333, "color": "ffffff00" }
+				]
+			},
+			"noRSZ_00008": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			}
+		},
+		"bones": {
+			"All_Text": {
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1 },
+					{ "time": 0.1667, "x": 1.3, "y": 1.3 },
+					{ "time": 0.3333, "x": 0, "y": 0 }
+				]
+			},
+			"Text_Light": {
+				"scale": [
+					{ "time": 0.2333, "x": 1, "y": 1 },
+					{ "time": 0.3333, "x": 1.458, "y": 1.458 }
+				]
+			}
+		}
+	},
+	"Idle": {
+		"slots": {
+			"Laser": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Light": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Text_Light": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"noRSZ_00008": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			}
+		},
+		"bones": {
+			"Text": {
+				"scale": [
+					{
+						"time": 0,
+						"x": 1,
+						"y": 1,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.3333,
+						"x": 1.2,
+						"y": 1.2,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 0.6667, "x": 1, "y": 1 }
+				]
+			}
+		}
+	}
+}
+}

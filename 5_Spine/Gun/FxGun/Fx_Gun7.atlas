@@ -1,0 +1,111 @@
+
+Fx_Gun_1988.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Fx_Gun7/Gun8 (1)
+  rotate: false
+  xy: 1058, 779
+  size: 191, 188
+  orig: 236, 230
+  offset: 23, 19
+  index: -1
+Fx_Gun7/Gun8 (11)
+  rotate: true
+  xy: 1036, 593
+  size: 138, 135
+  orig: 236, 230
+  offset: 49, 48
+  index: -1
+Fx_Gun7/Gun8 (12)
+  rotate: false
+  xy: 1456, 107
+  size: 107, 86
+  orig: 107, 86
+  offset: 0, 0
+  index: -1
+Fx_Gun7/Gun8 (13)
+  rotate: true
+  xy: 1576, 894
+  size: 104, 85
+  orig: 104, 85
+  offset: 0, 0
+  index: -1
+Fx_Gun7/Gun8 (14)
+  rotate: false
+  xy: 1603, 1481
+  size: 100, 105
+  orig: 100, 105
+  offset: 0, 0
+  index: -1
+Fx_Gun7/Gun8 (15)
+  rotate: true
+  xy: 1521, 6
+  size: 91, 104
+  orig: 91, 104
+  offset: 0, 0
+  index: -1
+Fx_Gun7/Gun8 (16)
+  rotate: false
+  xy: 1627, 5
+  size: 100, 92
+  orig: 100, 92
+  offset: 0, 0
+  index: -1
+Fx_Gun7/Gun8 (17)
+  rotate: false
+  xy: 1663, 918
+  size: 100, 88
+  orig: 100, 88
+  offset: 0, 0
+  index: -1
+Fx_Gun7/Gun8 (18)
+  rotate: true
+  xy: 1081, 4
+  size: 49, 64
+  orig: 49, 64
+  offset: 0, 0
+  index: -1
+Fx_Gun7/Gun8 (3)
+  rotate: false
+  xy: 1303, 1816
+  size: 236, 230
+  orig: 236, 230
+  offset: 0, 0
+  index: -1
+Fx_Gun7/Gun8 (4)
+  rotate: false
+  xy: 1541, 1816
+  size: 236, 230
+  orig: 236, 230
+  offset: 0, 0
+  index: -1
+Fx_Gun7/Gun8 (5)
+  rotate: false
+  xy: 1779, 1816
+  size: 236, 230
+  orig: 236, 230
+  offset: 0, 0
+  index: -1
+Fx_Gun7/Gun8 (7)
+  rotate: false
+  xy: 1005, 1594
+  size: 236, 230
+  orig: 236, 230
+  offset: 0, 0
+  index: -1
+Fx_Gun7/Gun8 (8)
+  rotate: false
+  xy: 1243, 1584
+  size: 236, 230
+  orig: 236, 230
+  offset: 0, 0
+  index: -1
+Fx_Gun7/Gun8 (9)
+  rotate: false
+  xy: 377, 347
+  size: 220, 220
+  orig: 236, 230
+  offset: 12, 6
+  index: -1

@@ -1,0 +1,68 @@
+{
+  "ver": "1.0.21",
+  "importer": "image",
+  "imported": true,
+  "uuid": "2589d79c-7c8f-4cd3-b345-cc1517ee6af2",
+  "files": [
+    ".png",
+    ".json"
+  ],
+  "subMetas": {
+    "Transition": {
+      "ver": "1.0.4",
+      "uuid": "849c3734-b86c-4427-b13a-182ca2ad7ce3",
+      "rawTextureUuid": "2589d79c-7c8f-4cd3-b345-cc1517ee6af2",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -6.5,
+      "offsetY": -28,
+      "trimX": 2,
+      "trimY": 58,
+      "width": 1191,
+      "height": 887,
+      "rawWidth": 1208,
+      "rawHeight": 947,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {},
+      "importer": "*",
+      "imported": false,
+      "files": [],
+      "userData": {},
+      "displayName": "",
+      "id": "",
+      "name": ""
+    },
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "2589d79c-7c8f-4cd3-b345-cc1517ee6af2@6c48a",
+      "displayName": "Transition",
+      "id": "6c48a",
+      "name": "texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 1,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "2589d79c-7c8f-4cd3-b345-cc1517ee6af2"
+      },
+      "ver": "1.0.21",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "hasAlpha": true,
+    "type": "texture",
+    "redirect": "2589d79c-7c8f-4cd3-b345-cc1517ee6af2@6c48a"
+  }
+}

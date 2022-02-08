@@ -1,0 +1,69 @@
+info face="Bitsumishi_Gold-export" size=32 bold=0 italic=0 charset="" unicode=0 stretchH=100 smooth=1 aa=1 padding=0,0,0,0 spacing=2,2
+common lineHeight=33 base=26 scaleW=169 scaleH=164 pages=1 packed=0 alphaChnl=1 redChnl=0 greenChnl=0 blueChnl=0
+page id=0 file="Bitsumishi_Gold-export.png"
+chars count=30
+char id=43 x=125 y=30 width=23 height=26 xoffset=0 yoffset=6 xadvance=22 page=0 chnl=0 letter="+"
+char id=45 x=32 y=150 width=19 height=12 xoffset=0 yoffset=13 xadvance=18 page=0 chnl=0 letter="-"
+char id=36 x=0 y=120 width=30 height=34 xoffset=0 yoffset=2 xadvance=29 page=0 chnl=0 letter="$"
+char id=48 x=97 y=0 width=28 height=28 xoffset=0 yoffset=5 xadvance=26 page=0 chnl=0 letter="0"
+char id=49 x=67 y=0 width=28 height=28 xoffset=0 yoffset=5 xadvance=26 page=0 chnl=0 letter="1"
+char id=50 x=95 y=60 width=28 height=28 xoffset=0 yoffset=5 xadvance=26 page=0 chnl=0 letter="2"
+char id=51 x=95 y=30 width=28 height=28 xoffset=0 yoffset=5 xadvance=26 page=0 chnl=0 letter="3"
+char id=52 x=124 y=90 width=28 height=28 xoffset=0 yoffset=5 xadvance=26 page=0 chnl=0 letter="4"
+char id=53 x=65 y=60 width=28 height=28 xoffset=0 yoffset=5 xadvance=26 page=0 chnl=0 letter="5"
+char id=54 x=65 y=30 width=28 height=28 xoffset=0 yoffset=5 xadvance=26 page=0 chnl=0 letter="6"
+char id=55 x=64 y=90 width=28 height=28 xoffset=0 yoffset=5 xadvance=26 page=0 chnl=0 letter="7"
+char id=56 x=94 y=120 width=28 height=28 xoffset=0 yoffset=5 xadvance=26 page=0 chnl=0 letter="8"
+char id=57 x=94 y=90 width=28 height=28 xoffset=0 yoffset=5 xadvance=26 page=0 chnl=0 letter="9"
+char id=46 x=138 y=58 width=10 height=12 xoffset=0 yoffset=21 xadvance=9 page=0 chnl=0 letter="."
+char id=44 x=125 y=58 width=11 height=18 xoffset=0 yoffset=21 xadvance=10 page=0 chnl=0 letter=","
+char id=75 x=36 y=0 width=29 height=28 xoffset=0 yoffset=5 xadvance=28 page=0 chnl=0 letter="K"
+char id=77 x=0 y=0 width=34 height=28 xoffset=0 yoffset=5 xadvance=33 page=0 chnl=0 letter="M"
+char id=71 x=63 y=120 width=29 height=28 xoffset=0 yoffset=5 xadvance=28 page=0 chnl=0 letter="G"
+char id=84 x=124 y=120 width=28 height=28 xoffset=0 yoffset=5 xadvance=27 page=0 chnl=0 letter="T"
+char id=80 x=0 y=60 width=32 height=28 xoffset=0 yoffset=5 xadvance=31 page=0 chnl=0 letter="P"
+char id=69 x=34 y=30 width=29 height=28 xoffset=0 yoffset=5 xadvance=28 page=0 chnl=0 letter="E"
+char id=66 x=0 y=30 width=32 height=28 xoffset=0 yoffset=5 xadvance=31 page=0 chnl=0 letter="B"
+char id=88 x=0 y=90 width=31 height=28 xoffset=0 yoffset=5 xadvance=30 page=0 chnl=0 letter="X"
+char id=86 x=34 y=60 width=29 height=28 xoffset=0 yoffset=5 xadvance=28 page=0 chnl=0 letter="V"
+char id=78 x=33 y=90 width=29 height=28 xoffset=0 yoffset=5 xadvance=28 page=0 chnl=0 letter="N"
+char id=68 x=32 y=120 width=29 height=28 xoffset=0 yoffset=5 xadvance=28 page=0 chnl=0 letter="D"
+char id=40 x=150 y=0 width=17 height=38 xoffset=0 yoffset=0 xadvance=16 page=0 chnl=0 letter="("
+char id=41 x=150 y=40 width=17 height=38 xoffset=0 yoffset=0 xadvance=16 page=0 chnl=0 letter=")"
+char id=32 x=0 y=0 width=0 height=0 xoffset=0 yoffset=0 xadvance=5 page=0 chnl=0 letter=" "
+char id=9 x=0 y=0 width=0 height=0 xoffset=0 yoffset=0 xadvance=150 page=0 chnl=0 letter="	"
+
+kernings count=33
+kerning first=75  second=69  amount=-3
+kerning first=66  second=69  amount=-2
+kerning first=66  second=80  amount=-2
+kerning first=66  second=86  amount=-1
+kerning first=68  second=68  amount=-2
+kerning first=68  second=69  amount=-2
+kerning first=68  second=77  amount=-2
+kerning first=68  second=78  amount=-2
+kerning first=68  second=80  amount=-2
+kerning first=68  second=86  amount=-1
+kerning first=69  second=78  amount=-3
+kerning first=69  second=80  amount=-3
+kerning first=69  second=84  amount=-1
+kerning first=71  second=69  amount=-3
+kerning first=77  second=71  amount=-2
+kerning first=78  second=71  amount=-2
+kerning first=80  second=69  amount=-2
+kerning first=80  second=80  amount=-2
+kerning first=80  second=46  amount=-3
+kerning first=80  second=44  amount=-4
+kerning first=86  second=71  amount=-2
+kerning first=88  second=69  amount=-3
+kerning first=66  second=46  amount=-2
+kerning first=66  second=44  amount=-3
+kerning first=68  second=46  amount=-2
+kerning first=68  second=44  amount=-3
+kerning first=78  second=46  amount=-3
+kerning first=78  second=44  amount=-4
+kerning first=84  second=46  amount=-11
+kerning first=84  second=44  amount=-12
+kerning first=86  second=46  amount=-9
+kerning first=86  second=44  amount=-10
+kerning first=71  second=44  amount=-4

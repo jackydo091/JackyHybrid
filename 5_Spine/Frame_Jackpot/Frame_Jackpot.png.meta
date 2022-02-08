@@ -1,0 +1,68 @@
+{
+  "ver": "1.0.21",
+  "importer": "image",
+  "imported": true,
+  "uuid": "a47cb487-137c-4016-8103-f7580d694771",
+  "files": [
+    ".png",
+    ".json"
+  ],
+  "subMetas": {
+    "Frame_Jackpot": {
+      "ver": "1.0.4",
+      "uuid": "fe85532d-d847-45c4-800a-3d20a66005d9",
+      "rawTextureUuid": "a47cb487-137c-4016-8103-f7580d694771",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -1,
+      "offsetY": 0,
+      "trimX": 2,
+      "trimY": 2,
+      "width": 1232,
+      "height": 1234,
+      "rawWidth": 1238,
+      "rawHeight": 1238,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {},
+      "importer": "*",
+      "imported": false,
+      "files": [],
+      "userData": {},
+      "displayName": "",
+      "id": "",
+      "name": ""
+    },
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "a47cb487-137c-4016-8103-f7580d694771@6c48a",
+      "displayName": "Frame_Jackpot",
+      "id": "6c48a",
+      "name": "texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "a47cb487-137c-4016-8103-f7580d694771"
+      },
+      "ver": "1.0.21",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "hasAlpha": true,
+    "type": "texture",
+    "redirect": "a47cb487-137c-4016-8103-f7580d694771@6c48a"
+  }
+}

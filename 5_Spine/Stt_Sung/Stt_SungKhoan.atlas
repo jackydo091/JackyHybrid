@@ -1,0 +1,90 @@
+
+Stt_Sung.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Boom_12
+  rotate: false
+  xy: 920, 171
+  size: 102, 74
+  orig: 115, 115
+  offset: 13, 18
+  index: -1
+Elements - Electricity 014 Charge Radial Loop noCT noRSZ_00008
+  rotate: true
+  xy: 248, 2
+  size: 132, 104
+  orig: 150, 150
+  offset: 8, 22
+  index: -1
+Elements - Electricity 014 Charge Radial Loop noCT noRSZ_00017
+  rotate: false
+  xy: 354, 37
+  size: 116, 120
+  orig: 150, 150
+  offset: 11, 12
+  index: -1
+Fire
+  rotate: false
+  xy: 376, 247
+  size: 250, 220
+  orig: 252, 222
+  offset: 1, 1
+  index: -1
+Laser
+  rotate: false
+  xy: 628, 274
+  size: 192, 193
+  orig: 194, 195
+  offset: 1, 1
+  index: -1
+Ligh_A
+  rotate: false
+  xy: 2, 322
+  size: 372, 145
+  orig: 374, 147
+  offset: 1, 1
+  index: -1
+Light
+  rotate: false
+  xy: 2, 136
+  size: 320, 184
+  orig: 322, 186
+  offset: 1, 1
+  index: -1
+Text
+  rotate: true
+  xy: 920, 247
+  size: 220, 95
+  orig: 222, 97
+  offset: 1, 1
+  index: -1
+Text_Light
+  rotate: false
+  xy: 324, 159
+  size: 210, 86
+  orig: 222, 97
+  offset: 6, 5
+  index: -1
+Text_Light_STTSung
+  rotate: true
+  xy: 822, 241
+  size: 226, 96
+  orig: 246, 116
+  offset: 10, 12
+  index: -1
+Text_STTSung
+  rotate: false
+  xy: 2, 20
+  size: 244, 114
+  orig: 246, 116
+  offset: 1, 1
+  index: -1
+fire_Fly
+  rotate: false
+  xy: 324, 268
+  size: 50, 52
+  orig: 50, 52
+  offset: 0, 0
+  index: -1
