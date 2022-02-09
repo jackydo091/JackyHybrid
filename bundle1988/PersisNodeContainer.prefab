@@ -1794,7 +1794,7 @@
   {
     "__type__": "cc.Node",
     "_name": "PopupHistoryJackpot",
-    "_objFlags": 512,
+    "_objFlags": 0,
     "_parent": {
       "__id__": 77
     },
@@ -3983,7 +3983,7 @@
     "node": {
       "__id__": 90
     },
-    "_enabled": true,
+    "_enabled": false,
     "__prefab": {
       "__id__": 189
     },
@@ -14804,7 +14804,7 @@
     },
     "_lpos": {
       "__type__": "cc.Vec3",
-      "x": -148.8,
+      "x": -158,
       "y": 0,
       "z": 0
     },
@@ -14843,7 +14843,7 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 0,
+      "width": 20,
       "height": 35
     },
     "_anchorPoint": {
@@ -15417,7 +15417,7 @@
     },
     "_lpos": {
       "__type__": "cc.Vec3",
-      "x": -148.8,
+      "x": -158,
       "y": 0,
       "z": 0
     },
