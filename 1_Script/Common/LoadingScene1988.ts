@@ -7,16 +7,9 @@ const { ccclass, property } = _decorator;
 
 @ccclass('LoadingScene1988')
 export class LoadingScene1988 extends gfLoadingScene {
-    @property(Label)
-    loadingText: Label = null!;
-    @property(Node)
-    effectLoading: Node;
 
     onLoad() {
         super.onLoad();
-        if(sys.isNative) {
-            this.effectLoading.active = false; 
-        }
     }
 
     initGameConfig(){
@@ -32,13 +25,13 @@ export class LoadingScene1988 extends gfLoadingScene {
     }
 
     updateLoadingProgressDisplay() {
-        const percent = Math.min(100, Math.floor(this._currentProgress * 100));
-        if (percent < 1) {
-            this.loadingText.string = '01%';
-        } else if (percent < 10) {
-            this.loadingText.string = '0' + percent + '%';
-        } else {
-            this.loadingText.string = percent + '%';
+        this.processBar.progress = Number(this._currentProgress.toFixed(3));
+        console.error('progress: ', this.processBar.progress * 100);
+        if (this.processBar.progress > 1.0) this.processBar.progress = 1.0;
+        if(this.loadingGlow){
+            const currentPosGlow = this.loadingGlow.getPosition();
+            const newPosX = Math.max(currentPosGlow.x, this.processBar.totalLength * this.processBar.progress * 0.9);
+            this.loadingGlow.setPosition(newPosX, currentPosGlow.y, 0);
         }
     }
     
