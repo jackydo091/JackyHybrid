@@ -14,7 +14,7 @@ export class JackpotCellHistory1988 extends GfBaseCellHistory {
         const infoUser = data.pl[0];
         this.bet.getComponent(Label).string = formatMoney(infoUser.betAmt);
         this.winAmount.getComponent(Label).string = formatMoney(data.jpAmt);
-        this.account.getComponent(Label).string = formatUserName(infoUser.dn, 18);
+        this.account.getComponent(Label).string = formatUserName(infoUser.dn);
         this.time.getComponent(Label).string = this._formatTime(data.time);
     }
 
