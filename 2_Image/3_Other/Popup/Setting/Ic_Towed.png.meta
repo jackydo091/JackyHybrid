@@ -45,12 +45,12 @@
       "userData": {
         "wrapModeS": "clamp-to-edge",
         "wrapModeT": "clamp-to-edge",
+        "imageUuidOrDatabaseUri": "9eee14df-7934-406d-9e15-94569569d97e",
         "minfilter": "linear",
         "magfilter": "linear",
         "mipfilter": "none",
         "anisotropy": 0,
-        "isUuid": true,
-        "imageUuidOrDatabaseUri": "9eee14df-7934-406d-9e15-94569569d97e"
+        "isUuid": true
       },
       "ver": "1.0.21",
       "imported": true,

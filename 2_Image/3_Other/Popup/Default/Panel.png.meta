@@ -17,12 +17,12 @@
       "userData": {
         "wrapModeS": "clamp-to-edge",
         "wrapModeT": "clamp-to-edge",
+        "imageUuidOrDatabaseUri": "c90f9134-8a14-4b23-a6e3-a12dabad0c0e",
         "minfilter": "linear",
         "magfilter": "linear",
         "mipfilter": "none",
         "anisotropy": 0,
-        "isUuid": true,
-        "imageUuidOrDatabaseUri": "c90f9134-8a14-4b23-a6e3-a12dabad0c0e"
+        "isUuid": true
       },
       "ver": "1.0.21",
       "imported": true,
@@ -51,8 +51,8 @@
         "rawHeight": 472,
         "borderTop": 0,
         "borderBottom": 0,
-        "borderLeft": 58,
-        "borderRight": 58,
+        "borderLeft": 60,
+        "borderRight": 60,
         "packable": true,
         "isUuid": true,
         "imageUuidOrDatabaseUri": "c90f9134-8a14-4b23-a6e3-a12dabad0c0e@6c48a",
