@@ -39,9 +39,6 @@ export class PopupInfo1988 extends GfPopupInfo {
 
     private initPage() {
         this._pageViewEvent = this.pageViewEvent.bind(this);
-        this.lstPageView.forEach((pageView)=>{
-            pageView.node.on('page-turning', this._pageViewEvent.bind(this));
-        })
     };
 
     show(){
@@ -97,9 +94,6 @@ export class PopupInfo1988 extends GfPopupInfo {
 
     onClose() {
         super.onClose();
-        this.lstPageView.forEach((pageView)=> {
-            pageView.node.off('page-turning', this._pageViewEvent, this);
-        });
     };
 }
 
