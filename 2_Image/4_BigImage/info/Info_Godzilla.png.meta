@@ -2,27 +2,27 @@
   "ver": "1.0.21",
   "importer": "image",
   "imported": true,
-  "uuid": "f4610791-152e-4107-8423-4464b42a1bcb",
+  "uuid": "8992ae58-b002-41b2-9c8f-5f717e6273fa",
   "files": [
     ".png",
     ".json"
   ],
   "subMetas": {
-    "Btn_LSH_pressed": {
+    "Info_Godzilla": {
       "ver": "1.0.4",
-      "uuid": "5091bfae-28ea-40ea-b032-0378305477c5",
-      "rawTextureUuid": "067ed080-e39c-4b45-9bcb-9cabe3295383",
+      "uuid": "258bddaa-5142-4696-8364-e5f354e1a3f1",
+      "rawTextureUuid": "8992ae58-b002-41b2-9c8f-5f717e6273fa",
       "trimType": "auto",
       "trimThreshold": 1,
       "rotated": false,
-      "offsetX": 0,
-      "offsetY": 0.5,
-      "trimX": 4,
-      "trimY": 3,
-      "width": 312,
-      "height": 70,
-      "rawWidth": 320,
-      "rawHeight": 77,
+      "offsetX": 4,
+      "offsetY": 1.5,
+      "trimX": 13,
+      "trimY": 10,
+      "width": 945,
+      "height": 707,
+      "rawWidth": 963,
+      "rawHeight": 730,
       "borderTop": 0,
       "borderBottom": 0,
       "borderLeft": 0,
@@ -38,8 +38,8 @@
     },
     "6c48a": {
       "importer": "texture",
-      "uuid": "f4610791-152e-4107-8423-4464b42a1bcb@6c48a",
-      "displayName": "Btn_LSH_pressed",
+      "uuid": "8992ae58-b002-41b2-9c8f-5f717e6273fa@6c48a",
+      "displayName": "Info_Godzilla",
       "id": "6c48a",
       "name": "texture",
       "userData": {
@@ -48,9 +48,9 @@
         "minfilter": "linear",
         "magfilter": "linear",
         "mipfilter": "none",
-        "anisotropy": 1,
+        "anisotropy": 0,
         "isUuid": true,
-        "imageUuidOrDatabaseUri": "f4610791-152e-4107-8423-4464b42a1bcb"
+        "imageUuidOrDatabaseUri": "8992ae58-b002-41b2-9c8f-5f717e6273fa"
       },
       "ver": "1.0.21",
       "imported": true,
@@ -61,29 +61,29 @@
     },
     "f9941": {
       "importer": "sprite-frame",
-      "uuid": "f4610791-152e-4107-8423-4464b42a1bcb@f9941",
-      "displayName": "Btn_LSH_pressed",
+      "uuid": "8992ae58-b002-41b2-9c8f-5f717e6273fa@f9941",
+      "displayName": "Info_Godzilla",
       "id": "f9941",
       "name": "spriteFrame",
       "userData": {
         "trimType": "auto",
         "trimThreshold": 1,
         "rotated": false,
-        "offsetX": 0.5,
-        "offsetY": 0,
-        "trimX": 1,
-        "trimY": 0,
-        "width": 329,
-        "height": 70,
-        "rawWidth": 330,
-        "rawHeight": 70,
+        "offsetX": 4,
+        "offsetY": 1.5,
+        "trimX": 13,
+        "trimY": 10,
+        "width": 945,
+        "height": 707,
+        "rawWidth": 963,
+        "rawHeight": 730,
         "borderTop": 0,
         "borderBottom": 0,
         "borderLeft": 0,
         "borderRight": 0,
         "packable": true,
         "isUuid": true,
-        "imageUuidOrDatabaseUri": "f4610791-152e-4107-8423-4464b42a1bcb@6c48a",
+        "imageUuidOrDatabaseUri": "8992ae58-b002-41b2-9c8f-5f717e6273fa@6c48a",
         "atlasUuid": ""
       },
       "ver": "1.0.9",
@@ -97,6 +97,6 @@
   "userData": {
     "hasAlpha": true,
     "type": "sprite-frame",
-    "redirect": "f4610791-152e-4107-8423-4464b42a1bcb@f9941"
+    "redirect": "8992ae58-b002-41b2-9c8f-5f717e6273fa@f9941"
   }
 }
