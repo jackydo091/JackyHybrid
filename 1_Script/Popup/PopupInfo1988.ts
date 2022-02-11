@@ -15,10 +15,6 @@ export class PopupInfo1988 extends GfPopupInfo {
     @property(PageView)
     private lstPageView : PageView[] = [];
     
-    private _currentPage = null;
-    private _pageIndex = 0;
-    private _pageViewEvent = null;
-
     @property(Node)
     viewInfo: Node;
 
@@ -28,22 +24,13 @@ export class PopupInfo1988 extends GfPopupInfo {
 
     public initObj() {
         if (this.getInitialized()) {
-            if (this._pageIndex > 0) {
-                this.initPage();
-            }
             return;
         }
         super.initObj();
-        this.initPage();
-    };
-
-    private initPage() {
-        this._pageViewEvent = this.pageViewEvent.bind(this);
     };
 
     show(){
-        super.show()
-        this._currentPage = this.lstPageView[0];
+        super.show();
         this.resetInfo();
         this.setInitialized(true);
     };
@@ -61,31 +48,7 @@ export class PopupInfo1988 extends GfPopupInfo {
                 toggle.interactable = true;
             }
         }
-        this._pageIndex = 0;
     };
-
-    pageViewEvent(pageView) {
-        this._pageIndex = pageView._curPageIdx;
-    };
-
-    onClick(event, data){
-        const currentPage = this.lstPageView[Number(data)];
-        if(currentPage) {
-            this._currentPage = currentPage;
-        }
-        if(this.getInitialized() && event.isChecked){
-            event.interactable = false;
-            gfEventEmitter.instance.emit(gfBaseEvents.SOUND.CLICK);
-        }
-        else if(this.getInitialized() && !event.isChecked){
-            event.interactable = true;
-        }
-    }
-
-    _getMaxItemPerPage() {
-        return this._currentPage.content.children.length;
-    };
-
 
     hide(animStyle = GameConfig.instance.POPUP_ANIMATION.DEFAULT) {
         super.hide(animStyle);

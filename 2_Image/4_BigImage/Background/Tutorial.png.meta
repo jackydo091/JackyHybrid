@@ -2,27 +2,27 @@
   "ver": "1.0.21",
   "importer": "image",
   "imported": true,
-  "uuid": "fca3e4d5-924a-47fa-815a-3f2fa65f25d1",
+  "uuid": "a5773477-af6e-40b0-927b-dbb7a0394b2c",
   "files": [
     ".png",
     ".json"
   ],
   "subMetas": {
-    "Btn_Cancel_pressed": {
+    "Tutorial": {
       "ver": "1.0.4",
-      "uuid": "2bbaa3e6-eb9a-4712-85f0-8563a8e6a3dd",
-      "rawTextureUuid": "a4fd53c1-2053-4ffa-969c-56918cd1f8a0",
+      "uuid": "c89f8baa-96e2-4ffb-880e-95c5a5792bf1",
+      "rawTextureUuid": "a5773477-af6e-40b0-927b-dbb7a0394b2c",
       "trimType": "auto",
       "trimThreshold": 1,
       "rotated": false,
-      "offsetX": -0.5,
-      "offsetY": 0.5,
-      "trimX": 5,
-      "trimY": 4,
-      "width": 231,
-      "height": 56,
-      "rawWidth": 242,
-      "rawHeight": 65,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 578,
+      "height": 596,
+      "rawWidth": 578,
+      "rawHeight": 596,
       "borderTop": 0,
       "borderBottom": 0,
       "borderLeft": 0,
@@ -38,8 +38,8 @@
     },
     "6c48a": {
       "importer": "texture",
-      "uuid": "fca3e4d5-924a-47fa-815a-3f2fa65f25d1@6c48a",
-      "displayName": "Btn_Cancel_pressed",
+      "uuid": "a5773477-af6e-40b0-927b-dbb7a0394b2c@6c48a",
+      "displayName": "Tutorial",
       "id": "6c48a",
       "name": "texture",
       "userData": {
@@ -48,9 +48,9 @@
         "minfilter": "linear",
         "magfilter": "linear",
         "mipfilter": "none",
-        "anisotropy": 1,
+        "anisotropy": 0,
         "isUuid": true,
-        "imageUuidOrDatabaseUri": "fca3e4d5-924a-47fa-815a-3f2fa65f25d1"
+        "imageUuidOrDatabaseUri": "a5773477-af6e-40b0-927b-dbb7a0394b2c"
       },
       "ver": "1.0.21",
       "imported": true,
@@ -61,8 +61,8 @@
     },
     "f9941": {
       "importer": "sprite-frame",
-      "uuid": "fca3e4d5-924a-47fa-815a-3f2fa65f25d1@f9941",
-      "displayName": "Btn_Cancel_pressed",
+      "uuid": "a5773477-af6e-40b0-927b-dbb7a0394b2c@f9941",
+      "displayName": "Tutorial",
       "id": "f9941",
       "name": "spriteFrame",
       "userData": {
@@ -73,17 +73,17 @@
         "offsetY": 0,
         "trimX": 0,
         "trimY": 0,
-        "width": 206,
-        "height": 70,
-        "rawWidth": 206,
-        "rawHeight": 70,
+        "width": 578,
+        "height": 596,
+        "rawWidth": 578,
+        "rawHeight": 596,
         "borderTop": 0,
         "borderBottom": 0,
         "borderLeft": 0,
         "borderRight": 0,
         "packable": true,
         "isUuid": true,
-        "imageUuidOrDatabaseUri": "fca3e4d5-924a-47fa-815a-3f2fa65f25d1@6c48a",
+        "imageUuidOrDatabaseUri": "a5773477-af6e-40b0-927b-dbb7a0394b2c@6c48a",
         "atlasUuid": ""
       },
       "ver": "1.0.9",
@@ -97,6 +97,6 @@
   "userData": {
     "hasAlpha": true,
     "type": "sprite-frame",
-    "redirect": "fca3e4d5-924a-47fa-815a-3f2fa65f25d1@f9941"
+    "redirect": "a5773477-af6e-40b0-927b-dbb7a0394b2c@f9941"
   }
 }
