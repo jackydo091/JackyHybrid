@@ -76,15 +76,15 @@
     },
     "popupTitle": {
         "jackpotHistory": "Lịch Sử Hũ ",
-        "infoHSC"       : "HỆ SỐ CÁ ",
-        "infoTNDB"      : "TÍNH NĂNG ĐẶC BIỆT ",
+        "infoHSC"       : "Hệ Số Cá ",
+        "infoTNDB"      : "Tính Năng Đặc Biệt ",
         "infoKN"        : "Kỹ Năng ",
-        "infoHuRong"    : "HŨ RỒNG ",
+        "infoHuRong"    : "Hũ Rồng ",
         "setting"       : "Cài Đặt ",
-        "notice"        : "THÔNG BÁO ",
-        "autoBot"       : "CẮM MÁY ",
+        "notice"        : "Thông Báo ",
+        "autoBot"       : "Cắm Máy ",
         "tutorial"      : "Hướng Dẫn ",
-        "miniboss"      : "TRẤN HẢI THẦN "
+        "miniboss"      : "Trấn Hải Thần "
     },
     "buttonName": {
         "btnOK"         : "ĐỒNG Ý",
