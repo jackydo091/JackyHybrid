@@ -26,7 +26,7 @@
       }
     ],
     "_prefab": {
-      "__id__": 63
+      "__id__": 57
     },
     "_lpos": {
       "__type__": "cc.Vec3",
@@ -131,7 +131,9 @@
     "netFX": [
       {
         "__id__": 15
-      },
+      }
+    ],
+    "fishAnimationClip": [
       {
         "__id__": 16
       },
@@ -149,9 +151,7 @@
       },
       {
         "__id__": 21
-      }
-    ],
-    "fishAnimationClip": [
+      },
       {
         "__id__": 22
       },
@@ -178,7 +178,9 @@
       },
       {
         "__id__": 30
-      },
+      }
+    ],
+    "fishSkeletonData": [
       {
         "__id__": 31
       },
@@ -196,9 +198,7 @@
       },
       {
         "__id__": 36
-      }
-    ],
-    "fishSkeletonData": [
+      },
       {
         "__id__": 37
       },
@@ -225,13 +225,18 @@
       },
       {
         "__id__": 45
-      },
+      }
+    ],
+    "dragonBall": [],
+    "labelCoin": [
       {
         "__id__": 46
       },
       {
         "__id__": 47
-      },
+      }
+    ],
+    "gunSkeletonData": [
       {
         "__id__": 48
       },
@@ -243,18 +248,13 @@
       },
       {
         "__id__": 51
-      }
-    ],
-    "dragonBall": [],
-    "labelCoin": [
+      },
       {
         "__id__": 52
       },
       {
         "__id__": 53
-      }
-    ],
-    "gunSkeletonData": [
+      },
       {
         "__id__": 54
       },
@@ -263,24 +263,6 @@
       },
       {
         "__id__": 56
-      },
-      {
-        "__id__": 57
-      },
-      {
-        "__id__": 58
-      },
-      {
-        "__id__": 59
-      },
-      {
-        "__id__": 60
-      },
-      {
-        "__id__": 61
-      },
-      {
-        "__id__": 62
       }
     ],
     "_id": ""
@@ -364,58 +346,10 @@
   {
     "__type__": "gfNetFXAsset",
     "animation": {
-      "__uuid__": "d792b6eb-e314-477b-9b93-5ce001434541",
+      "__uuid__": "c491af05-bd2d-42d9-9e90-5b4998089cc7",
       "__expectedType__": "sp.SkeletonData"
     },
     "_name": "0"
-  },
-  {
-    "__type__": "gfNetFXAsset",
-    "animation": {
-      "__uuid__": "a8ed2c10-f1d9-423c-b80c-064ef7437368",
-      "__expectedType__": "sp.SkeletonData"
-    },
-    "_name": "1"
-  },
-  {
-    "__type__": "gfNetFXAsset",
-    "animation": {
-      "__uuid__": "f214b69d-809a-48ca-a4cd-fe84936d42fb",
-      "__expectedType__": "sp.SkeletonData"
-    },
-    "_name": "2"
-  },
-  {
-    "__type__": "gfNetFXAsset",
-    "animation": {
-      "__uuid__": "c1c3ebe3-890c-47e5-96de-d7dbe7e676ca",
-      "__expectedType__": "sp.SkeletonData"
-    },
-    "_name": "3"
-  },
-  {
-    "__type__": "gfNetFXAsset",
-    "animation": {
-      "__uuid__": "3621c610-580b-42e9-b221-e0e95b8ff158",
-      "__expectedType__": "sp.SkeletonData"
-    },
-    "_name": "4"
-  },
-  {
-    "__type__": "gfNetFXAsset",
-    "animation": {
-      "__uuid__": "7360bc37-7742-4a3c-9f70-7b2fc9cdce14",
-      "__expectedType__": "sp.SkeletonData"
-    },
-    "_name": "5"
-  },
-  {
-    "__type__": "gfNetFXAsset",
-    "animation": {
-      "__uuid__": "3f951db6-e023-484f-9b96-72977f669428",
-      "__expectedType__": "sp.SkeletonData"
-    },
-    "_name": "6"
   },
   {
     "__type__": "gfSpriteFishAsset",

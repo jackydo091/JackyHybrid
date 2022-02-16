@@ -125,8 +125,8 @@ export class EffectLayer1988 extends gfEffectLayer {
     }
 
     playNetFX(data) {
-        let gunIndex = this._getGunIndex(data.BulletMultiple);
-        const { netFX, config } = PoolManager.instance.getNetFX(gunIndex);
+        console.warn('playNetFX: ', data);
+        const { netFX, config } = PoolManager.instance.getNetFX(data);
         if (netFX) {
             netFX.node.setParent(this.node);
             netFX.node.position = getPostionInOtherNode(this.node, data.bullet.node);

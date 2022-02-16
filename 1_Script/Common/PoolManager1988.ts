@@ -34,15 +34,6 @@ export default class PoolManager1988 extends gfPoolManager {
         this.listPrefab = null;
     }
 
-    getNetFX(kind) {
-        const config = NodePoolConfig.instance.getNetFXConfig(kind.toString());
-        if(!config) return null;
-        const netfx = this.getObjectMainComponentByType(POOL_TYPE.NetFX);
-        config.kind = kind;
-        //netfx.initAssets(config);
-        return { netFX: netfx, config: config };
-    }
-
     getLabelCoin(isMe = true) : gfCoinLabel {
         const label =  this.getObjectMainComponentByType(POOL_TYPE.LabelCoin);
         label.initAssets(isMe);
