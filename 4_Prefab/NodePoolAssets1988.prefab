@@ -426,7 +426,7 @@
   {
     "__type__": "gfSpriteFishAsset",
     "animation": {
-      "__uuid__": "f963ea57-41b1-420d-8ff0-697ae3f0eba5",
+      "__uuid__": "ef9d53e6-fcca-4198-b9ff-1e0b29422eb8",
       "__expectedType__": "cc.AnimationClip"
     },
     "_name": "1"
