@@ -12,7 +12,7 @@ export default class NodePoolConfig1988 extends gfNodePoolConfig {
         super(listAssets);
         NodePoolConfig1988.instance = this;
         this.FISH_CONFIG = {
-            "0" :  {speed: 100,   FishMultiple: -1,     zIndex: 309, visibleSize:   v2(100, 100),  targetPoint: v2(13, 15),       BoxCollider: new Rect(10, 12.5, 48.5, 14.9)},
+            "0" :  {speed: 100,   FishMultiple: -1,     zIndex: 309, visibleSize:   v2(50, 25),  targetPoint: v2(10, 0),       BoxCollider: new Rect(-2, 1, 40, 25)},
             "1" :  {speed: 100,   FishMultiple: -1,     zIndex: 308, visibleSize:   v2(100, 100),  targetPoint: v2(7, 12),       BoxCollider: new Rect(10, 10, 42.8, 32.9)},
             "2" :  {speed: 80,    FishMultiple: -1,     zIndex: 310, visibleSize:   v2(100, 100),  targetPoint: v2(15, 10),       BoxCollider: [new Rect(10, 10, 43.7, 10.2), new Rect(15, 10, 20.7, 39.3)]},
             "3" :  {speed: 80,    FishMultiple: -1,     zIndex: 307, visibleSize:   v2(120, 100),  targetPoint: v2(20, 10),      BoxCollider: new Rect(15, 10, 76.4, 16.6)},
