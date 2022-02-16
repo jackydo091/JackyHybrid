@@ -60,6 +60,7 @@
     "__type__": "cc.UITransform",
     "_name": "",
     "_objFlags": 0,
+    "__editorExtras__": {},
     "node": {
       "__id__": 1
     },
@@ -87,6 +88,7 @@
     "__type__": "d28bcBi+45GBodqDRle0D9d",
     "_name": "",
     "_objFlags": 0,
+    "__editorExtras__": {},
     "node": {
       "__id__": 1
     },
@@ -498,7 +500,7 @@
   {
     "__type__": "gfSpriteFishAsset",
     "animation": {
-      "__uuid__": "69d31273-984a-45b9-9d14-7f07f6c340bf",
+      "__uuid__": "43d059f7-8b8a-4169-9a62-a9096bfece94",
       "__expectedType__": "cc.AnimationClip"
     },
     "_name": "10"
@@ -506,15 +508,15 @@
   {
     "__type__": "gfSpriteFishAsset",
     "animation": {
-      "__uuid__": "7dfc27f2-b8d7-4d37-8c38-cf473342cf82",
+      "__uuid__": "a803d3a4-aa4e-44c0-82ff-52af7a46c39c",
       "__expectedType__": "cc.AnimationClip"
     },
-    "_name": "11"
+    "_name": "15"
   },
   {
     "__type__": "gfSpriteFishAsset",
     "animation": {
-      "__uuid__": "4854f212-4d52-4a9b-83fe-23e3fd6545a8",
+      "__uuid__": "68ebc21b-2947-48a8-8210-16c3e0667671",
       "__expectedType__": "cc.AnimationClip"
     },
     "_name": "12"
@@ -522,7 +524,7 @@
   {
     "__type__": "gfSpriteFishAsset",
     "animation": {
-      "__uuid__": "b1f348b0-aa16-43f5-b990-f182e0432913",
+      "__uuid__": "e5ef9310-15da-479a-a67f-aadb682d5656",
       "__expectedType__": "cc.AnimationClip"
     },
     "_name": "13"
@@ -530,7 +532,7 @@
   {
     "__type__": "gfSpriteFishAsset",
     "animation": {
-      "__uuid__": "fcaa6678-6171-4f3d-afe5-7405cccff6d7",
+      "__uuid__": "e70326df-ce2c-456c-b8a9-a7e1a11126b6",
       "__expectedType__": "cc.AnimationClip"
     },
     "_name": "14"

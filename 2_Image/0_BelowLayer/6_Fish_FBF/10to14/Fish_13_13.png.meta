@@ -2,7 +2,7 @@
   "ver": "1.0.21",
   "importer": "image",
   "imported": true,
-  "uuid": "05467dc8-c6f5-4f61-98c5-bed3ad0d43a4",
+  "uuid": "2427cadd-c3e0-4563-a833-d5237e0bf8ff",
   "files": [
     ".png",
     ".json"
@@ -10,7 +10,7 @@
   "subMetas": {
     "6c48a": {
       "importer": "texture",
-      "uuid": "05467dc8-c6f5-4f61-98c5-bed3ad0d43a4@6c48a",
+      "uuid": "2427cadd-c3e0-4563-a833-d5237e0bf8ff@6c48a",
       "displayName": "Fish_13_13",
       "id": "6c48a",
       "name": "texture",
@@ -22,7 +22,7 @@
         "mipfilter": "none",
         "anisotropy": 0,
         "isUuid": true,
-        "imageUuidOrDatabaseUri": "05467dc8-c6f5-4f61-98c5-bed3ad0d43a4"
+        "imageUuidOrDatabaseUri": "2427cadd-c3e0-4563-a833-d5237e0bf8ff"
       },
       "ver": "1.0.21",
       "imported": true,
@@ -33,7 +33,7 @@
     },
     "f9941": {
       "importer": "sprite-frame",
-      "uuid": "05467dc8-c6f5-4f61-98c5-bed3ad0d43a4@f9941",
+      "uuid": "2427cadd-c3e0-4563-a833-d5237e0bf8ff@f9941",
       "displayName": "Fish_13_13",
       "id": "f9941",
       "name": "spriteFrame",
@@ -41,21 +41,21 @@
         "trimType": "auto",
         "trimThreshold": 1,
         "rotated": false,
-        "offsetX": 2,
-        "offsetY": -2.5,
-        "trimX": 4,
+        "offsetX": 5,
+        "offsetY": -2,
+        "trimX": 13,
         "trimY": 13,
-        "width": 161,
-        "height": 95,
-        "rawWidth": 165,
-        "rawHeight": 116,
+        "width": 145,
+        "height": 82,
+        "rawWidth": 161,
+        "rawHeight": 104,
         "borderTop": 0,
         "borderBottom": 0,
         "borderLeft": 0,
         "borderRight": 0,
         "packable": true,
         "isUuid": true,
-        "imageUuidOrDatabaseUri": "05467dc8-c6f5-4f61-98c5-bed3ad0d43a4@6c48a",
+        "imageUuidOrDatabaseUri": "2427cadd-c3e0-4563-a833-d5237e0bf8ff@6c48a",
         "atlasUuid": ""
       },
       "ver": "1.0.9",
@@ -69,6 +69,6 @@
   "userData": {
     "hasAlpha": true,
     "type": "sprite-frame",
-    "redirect": "05467dc8-c6f5-4f61-98c5-bed3ad0d43a4@f9941"
+    "redirect": "2427cadd-c3e0-4563-a833-d5237e0bf8ff@f9941"
   }
 }

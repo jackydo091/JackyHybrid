@@ -2,15 +2,43 @@
   "ver": "1.0.21",
   "importer": "image",
   "imported": true,
-  "uuid": "0c2c139a-4fd6-4742-b8fa-8df486027800",
+  "uuid": "70a862d4-44f8-4f51-8820-d6795641a096",
   "files": [
     ".png",
     ".json"
   ],
   "subMetas": {
+    "Fish_12_13": {
+      "ver": "1.0.4",
+      "uuid": "2e102942-cbf7-467c-8910-26d530825ee3",
+      "rawTextureUuid": "bcf269cd-859e-4fda-94c9-7b61e2040aae",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 18,
+      "offsetY": -4,
+      "trimX": 36,
+      "trimY": 21,
+      "width": 132,
+      "height": 89,
+      "rawWidth": 168,
+      "rawHeight": 123,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {},
+      "importer": "*",
+      "imported": false,
+      "files": [],
+      "userData": {},
+      "displayName": "",
+      "id": "",
+      "name": ""
+    },
     "6c48a": {
       "importer": "texture",
-      "uuid": "0c2c139a-4fd6-4742-b8fa-8df486027800@6c48a",
+      "uuid": "70a862d4-44f8-4f51-8820-d6795641a096@6c48a",
       "displayName": "Fish_12_13",
       "id": "6c48a",
       "name": "texture",
@@ -22,7 +50,7 @@
         "mipfilter": "none",
         "anisotropy": 0,
         "isUuid": true,
-        "imageUuidOrDatabaseUri": "0c2c139a-4fd6-4742-b8fa-8df486027800"
+        "imageUuidOrDatabaseUri": "70a862d4-44f8-4f51-8820-d6795641a096"
       },
       "ver": "1.0.21",
       "imported": true,
@@ -33,7 +61,7 @@
     },
     "f9941": {
       "importer": "sprite-frame",
-      "uuid": "0c2c139a-4fd6-4742-b8fa-8df486027800@f9941",
+      "uuid": "70a862d4-44f8-4f51-8820-d6795641a096@f9941",
       "displayName": "Fish_12_13",
       "id": "f9941",
       "name": "spriteFrame",
@@ -41,21 +69,21 @@
         "trimType": "auto",
         "trimThreshold": 1,
         "rotated": false,
-        "offsetX": 0.5,
-        "offsetY": -5,
-        "trimX": 1,
-        "trimY": 14,
-        "width": 159,
-        "height": 58,
-        "rawWidth": 160,
-        "rawHeight": 76,
+        "offsetX": 5,
+        "offsetY": -2,
+        "trimX": 13,
+        "trimY": 13,
+        "width": 145,
+        "height": 82,
+        "rawWidth": 161,
+        "rawHeight": 104,
         "borderTop": 0,
         "borderBottom": 0,
         "borderLeft": 0,
         "borderRight": 0,
         "packable": true,
         "isUuid": true,
-        "imageUuidOrDatabaseUri": "0c2c139a-4fd6-4742-b8fa-8df486027800@6c48a",
+        "imageUuidOrDatabaseUri": "70a862d4-44f8-4f51-8820-d6795641a096@6c48a",
         "atlasUuid": ""
       },
       "ver": "1.0.9",
@@ -69,6 +97,6 @@
   "userData": {
     "hasAlpha": true,
     "type": "sprite-frame",
-    "redirect": "0c2c139a-4fd6-4742-b8fa-8df486027800@f9941"
+    "redirect": "70a862d4-44f8-4f51-8820-d6795641a096@f9941"
   }
 }
