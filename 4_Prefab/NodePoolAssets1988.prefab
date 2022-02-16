@@ -292,7 +292,7 @@
   {
     "__type__": "gfBulletAsset",
     "sprite": {
-      "__uuid__": "58f827fb-919f-4e85-af5b-cf685284d4c3@f9941",
+      "__uuid__": "25c2e8a8-365d-4612-8204-f67ad2f4f56d@f9941",
       "__expectedType__": "cc.SpriteFrame"
     },
     "_name": "0"
@@ -300,7 +300,7 @@
   {
     "__type__": "gfBulletAsset",
     "sprite": {
-      "__uuid__": "7ba3b9ff-84b9-4966-b07e-e552442bca9d@f9941",
+      "__uuid__": "b29de0c4-20f1-4474-a6e8-ed04d5a94bdb@f9941",
       "__expectedType__": "cc.SpriteFrame"
     },
     "_name": "1"
@@ -308,7 +308,7 @@
   {
     "__type__": "gfBulletAsset",
     "sprite": {
-      "__uuid__": "abf5dc0e-fa2f-471e-abae-060222f46cbe@f9941",
+      "__uuid__": "639e9b2f-081e-4cbc-addd-e09cf5aab58d@f9941",
       "__expectedType__": "cc.SpriteFrame"
     },
     "_name": "2"
@@ -316,7 +316,7 @@
   {
     "__type__": "gfBulletAsset",
     "sprite": {
-      "__uuid__": "d58ee7b9-6750-4ab9-9e48-6af7d7a6d7e9@f9941",
+      "__uuid__": "26421dba-860b-425d-b737-dd0b4a871c4e@f9941",
       "__expectedType__": "cc.SpriteFrame"
     },
     "_name": "3"
@@ -324,7 +324,7 @@
   {
     "__type__": "gfBulletAsset",
     "sprite": {
-      "__uuid__": "763f76ea-c377-4f80-a916-1e64187373c8@f9941",
+      "__uuid__": "99a2805b-d677-4f17-86cc-10420471e0c2@f9941",
       "__expectedType__": "cc.SpriteFrame"
     },
     "_name": "4"
@@ -332,7 +332,7 @@
   {
     "__type__": "gfBulletAsset",
     "sprite": {
-      "__uuid__": "afbf0238-fe48-450c-9ffe-09771cfd56f7@f9941",
+      "__uuid__": "524ddb27-4d19-4cae-8776-f0d85869b299@f9941",
       "__expectedType__": "cc.SpriteFrame"
     },
     "_name": "5"
@@ -340,7 +340,7 @@
   {
     "__type__": "gfBulletAsset",
     "sprite": {
-      "__uuid__": "bf43fc3a-3ba0-4c82-83fc-eadc28d40572@f9941",
+      "__uuid__": "f6b62f1d-fd60-4d78-8766-691b6b871d30@f9941",
       "__expectedType__": "cc.SpriteFrame"
     },
     "_name": "6"
