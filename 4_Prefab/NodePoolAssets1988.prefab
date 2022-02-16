@@ -442,7 +442,7 @@
   {
     "__type__": "gfSpriteFishAsset",
     "animation": {
-      "__uuid__": "143ace26-90b3-47ae-9baa-9518477b5621",
+      "__uuid__": "1f295c25-32ec-41eb-81be-1a5aaaad2604",
       "__expectedType__": "cc.AnimationClip"
     },
     "_name": "3"
@@ -450,7 +450,7 @@
   {
     "__type__": "gfSpriteFishAsset",
     "animation": {
-      "__uuid__": "8a7037f0-a1be-44a3-acc7-5219e727c744",
+      "__uuid__": "1af810dc-47dc-4098-9f05-d86eea019d38",
       "__expectedType__": "cc.AnimationClip"
     },
     "_name": "4"
@@ -458,7 +458,7 @@
   {
     "__type__": "gfSpriteFishAsset",
     "animation": {
-      "__uuid__": "94dffc07-3a8c-451f-9711-1dc3dafa84f2",
+      "__uuid__": "3001ceb3-38a4-4010-b360-16618bdffb06",
       "__expectedType__": "cc.AnimationClip"
     },
     "_name": "5"
@@ -466,7 +466,7 @@
   {
     "__type__": "gfSpriteFishAsset",
     "animation": {
-      "__uuid__": "9571d055-e0d3-4993-8d08-d6e0f77f99d7",
+      "__uuid__": "e0a336c2-5bae-4137-8f16-8d67ce2ddda0",
       "__expectedType__": "cc.AnimationClip"
     },
     "_name": "6"
@@ -474,7 +474,7 @@
   {
     "__type__": "gfSpriteFishAsset",
     "animation": {
-      "__uuid__": "6698c401-4b4a-4bca-afcb-942f8e2f08b4",
+      "__uuid__": "5fe94412-616f-4616-bdbb-0f56d76fb075",
       "__expectedType__": "cc.AnimationClip"
     },
     "_name": "7"
@@ -482,7 +482,7 @@
   {
     "__type__": "gfSpriteFishAsset",
     "animation": {
-      "__uuid__": "4bfbb2ca-6240-40f1-be0c-b308f649e945",
+      "__uuid__": "5c0d7e20-cede-449a-8253-7483223f5124",
       "__expectedType__": "cc.AnimationClip"
     },
     "_name": "8"
@@ -490,7 +490,7 @@
   {
     "__type__": "gfSpriteFishAsset",
     "animation": {
-      "__uuid__": "6048e21e-d831-444b-b4e7-761b012e8edd",
+      "__uuid__": "b396b111-3647-4ea7-9771-68cf459e8e7b",
       "__expectedType__": "cc.AnimationClip"
     },
     "_name": "9"
