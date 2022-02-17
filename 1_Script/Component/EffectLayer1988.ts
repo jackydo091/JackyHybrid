@@ -124,18 +124,6 @@ export class EffectLayer1988 extends gfEffectLayer {
         return gunValue.indexOf(multiple);
     }
 
-    playNetFX(data) {
-        console.warn('playNetFX: ', data);
-        const { netFX, config } = PoolManager.instance.getNetFX(data);
-        if (netFX) {
-            netFX.node.setParent(this.node);
-            netFX.node.position = getPostionInOtherNode(this.node, data.bullet.node);
-            this.scheduleOnce(()=>{
-                netFX.initAssets(config);
-            }, 0);
-        }
-    }
-
     playEffectDrillExplosion(data){
         const { nodeDrill } = data;
         const effExplosion = instantiate(this.effDrillExplosion);

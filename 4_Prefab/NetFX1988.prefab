@@ -122,7 +122,7 @@
       "__expectedType__": "sp.SkeletonData"
     },
     "defaultSkin": "default",
-    "defaultAnimation": "",
+    "defaultAnimation": "<None>",
     "_sockets": [],
     "_debugMesh": false,
     "_id": ""
@@ -139,7 +139,6 @@
       "__id__": 1
     },
     "_enabled": true,
-    "__prefab": null,
     "spine": {
       "__id__": 4
     },

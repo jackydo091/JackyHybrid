@@ -1,8 +1,6 @@
 
-import { SetZIndex } from '../../../cc30-fishbase/Scripts/Utilities/gfUtilities';
-import { _decorator, Component, Node, UITransform, sys } from 'cc';
+import { _decorator, sys } from 'cc';
 import { gfNetFX } from '../../../cc30-fishbase/Scripts/Components/gfNetFX';
-import gfBaseConfig from '../../../cc30-fishbase/Scripts/Config/gfBaseConfig';
 const { ccclass, property } = _decorator;
 
 @ccclass('NetFX1988')
@@ -13,6 +11,11 @@ export class NetFX1988 extends gfNetFX {
         this.spine.premultipliedAlpha = false;
     }
 
+
+    initAssets(config) {
+        super.initAssets(config);
+    }
+    
     returnPool() {
         if(!sys.isNative) this.spine.skeletonData = null;
         this.unscheduleAllCallbacks();
