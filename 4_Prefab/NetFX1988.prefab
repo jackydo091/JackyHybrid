@@ -109,7 +109,7 @@
       "a": 255
     },
     "loop": false,
-    "_premultipliedAlpha": false,
+    "_premultipliedAlpha": true,
     "_timeScale": 1,
     "_useTint": false,
     "_preCacheMode": 2,
@@ -122,7 +122,7 @@
       "__expectedType__": "sp.SkeletonData"
     },
     "defaultSkin": "default",
-    "defaultAnimation": "<None>",
+    "defaultAnimation": "player",
     "_sockets": [],
     "_debugMesh": false,
     "_id": ""
@@ -139,6 +139,7 @@
       "__id__": 1
     },
     "_enabled": true,
+    "__prefab": null,
     "spine": {
       "__id__": 4
     },
