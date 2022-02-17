@@ -68,8 +68,8 @@ export default class Config1988 extends gfBaseConfig {
         };
         this.SOUND_SLIDER = true;
         this.POS_WIFI_STATUS = {
-            LEFT: new Vec2(-368, -282),
-            RIGHT: new Vec2(325, -282),
+            LEFT: new Vec2(-402, -253),
+            RIGHT: new Vec2(402, -253),
         };
         this.TURN_ON_WIFI_STATUS = true;
         this.DEFAULT_AVATAR = "avatar_default";
