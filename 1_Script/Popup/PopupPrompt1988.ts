@@ -74,7 +74,7 @@ export class PopupPrompt1988 extends GfPopupPrompt {
             type = GameConfig.instance.POPUP_PROMPT.JUST_CONFIRM_BUTTON;
             break;
         case gfNetworkGameEvent.MSG_CODE.OWN_LASER:
-            msg = gfLocalize.instance.MessagesSystem[eventCode][ArrayParam[0]];
+            msg = gfLocalize.instance.MessagesSystem[eventCode];
             msg = msg.replace("xxx", gfLocalize.instance.txtGameMode[eventData.roomCode]);
             type = GameConfig.instance.POPUP_PROMPT.JUST_CONFIRM_BUTTON;
             break;

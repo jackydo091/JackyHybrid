@@ -19,8 +19,8 @@
         "ExitRoom"              : "Quay lại màn hình chính?"
     },
     "txtGameMode": {
-        "1" : " Truy Tìm Serleena.",
-        "3" : " Truy Nã Boris.",
+        "1" : " Khám Phá Đại Dương",
+        "3" : " Truy Tìm Rồng Thần",
         "5" : " Giải Đấu Liên Hành Tinh."
     },
     "MessagesSystem": {
@@ -38,8 +38,8 @@
         "206": "Bạn đã đăng nhập\nở một thiết bị khác",
         "207": "Bạn bị mời ra khỏi bàn\ndo không có thao tác trong\nmột khoảng thời gian.",
         "208": "Số dư không đủ,\nbạn có muốn nạp thêm?",
-        "209": {
-            "27": "Bạn đang sở hữu súng Laser\ntại phòngxxx\nVui lòng sử dụng\ntrước khi đổi phòng.",
+        "209": "Bạn đang sở hữu súng Laser\ntại phòngxxx\nVui lòng sử dụng\ntrước khi đổi phòng.",
+        "Sample": {
             "46": "Bạn đang sở hữu súng Mũi Khoan\ntại phòngxxx\nVui lòng sử dụng\ntrước khi đổi phòng.",
             "47": "Hoa độc của bạn đang tấn công\ntại phòngxxx\nVui lòng chờ sử dụng xong\ntrước khi đổi phòng."
         },
