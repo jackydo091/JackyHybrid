@@ -16,7 +16,7 @@ export class LobbyLayer1988 extends gfLobbyLayer {
         const selfInfo = DataStore.instance.getSelfInfo();
         this.txtUserName.string = formatUserName(selfInfo.Username);
         this.txtUserName.updateRenderData(true);
-        this.txtWallet.string = formatMoney(selfInfo.Wallet)  + " $";
+        this.txtWallet.string = "$" + formatMoney(selfInfo.Wallet);
         this.txtWallet.updateRenderData(true);
 
         if (this.avatarAtlas && loadAvatarFacebook) {
@@ -28,7 +28,7 @@ export class LobbyLayer1988 extends gfLobbyLayer {
     }
 
     onUpdateLobbyWallet(data) {
-        this.txtWallet.string = formatMoney(data)  + " $";
+        this.txtWallet.string = "$" + formatMoney(data);
         this.txtWallet.updateRenderData(true);
     }
 
