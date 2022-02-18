@@ -1,0 +1,41 @@
+
+Fish1992.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+19_x100/body
+  rotate: false
+  xy: 282, 883
+  size: 238, 46
+  orig: 238, 46
+  offset: 0, 0
+  index: -1
+19_x100/fin
+  rotate: false
+  xy: 562, 1002
+  size: 254, 20
+  orig: 254, 20
+  offset: 0, 0
+  index: -1
+19_x100/fin_back
+  rotate: true
+  xy: 277, 445
+  size: 135, 20
+  orig: 135, 20
+  offset: 0, 0
+  index: -1
+19_x100/mouth
+  rotate: false
+  xy: 566, 787
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+19_x100/shadow
+  rotate: false
+  xy: 818, 993
+  size: 177, 29
+  orig: 181, 34
+  offset: 2, 3
+  index: -1

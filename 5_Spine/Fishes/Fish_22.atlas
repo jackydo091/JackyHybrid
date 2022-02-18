@@ -1,0 +1,90 @@
+
+Fish1992.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+22_x180/Body
+  rotate: false
+  xy: 282, 931
+  size: 278, 91
+  orig: 278, 91
+  offset: 0, 0
+  index: -1
+22_x180/Fin
+  rotate: true
+  xy: 997, 943
+  size: 79, 25
+  orig: 79, 25
+  offset: 0, 0
+  index: -1
+22_x180/Fin0
+  rotate: true
+  xy: 396, 264
+  size: 80, 10
+  orig: 80, 10
+  offset: 0, 0
+  index: -1
+22_x180/Fin1
+  rotate: true
+  xy: 536, 516
+  size: 53, 16
+  orig: 53, 16
+  offset: 0, 0
+  index: -1
+22_x180/Fin3
+  rotate: true
+  xy: 996, 893
+  size: 48, 26
+  orig: 48, 26
+  offset: 0, 0
+  index: -1
+22_x180/Fin4
+  rotate: true
+  xy: 391, 427
+  size: 77, 47
+  orig: 77, 47
+  offset: 0, 0
+  index: -1
+22_x180/Horn
+  rotate: false
+  xy: 726, 874
+  size: 67, 21
+  orig: 67, 21
+  offset: 0, 0
+  index: -1
+22_x180/Light
+  rotate: true
+  xy: 726, 898
+  size: 5, 4
+  orig: 6, 4
+  offset: 1, 0
+  index: -1
+22_x180/Shadow
+  rotate: true
+  xy: 245, 87
+  size: 140, 58
+  orig: 140, 58
+  offset: 0, 0
+  index: -1
+22_x180/Tail1
+  rotate: false
+  xy: 113, 31
+  size: 90, 21
+  orig: 90, 21
+  offset: 0, 0
+  index: -1
+22_x180/Tail2
+  rotate: true
+  xy: 539, 718
+  size: 59, 16
+  orig: 59, 16
+  offset: 0, 0
+  index: -1
+22_x180/Tail3
+  rotate: true
+  xy: 383, 254
+  size: 90, 11
+  orig: 104, 13
+  offset: 7, 1
+  index: -1

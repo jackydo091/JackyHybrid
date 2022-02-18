@@ -1,0 +1,83 @@
+
+Fish1992.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+25_x300/Body
+  rotate: false
+  xy: 2, 739
+  size: 254, 138
+  orig: 254, 138
+  offset: 0, 0
+  index: -1
+25_x300/Body_shadow
+  rotate: false
+  xy: 2, 598
+  size: 215, 139
+  orig: 255, 139
+  offset: 0, 0
+  index: -1
+25_x300/Fin
+  rotate: false
+  xy: 333, 590
+  size: 110, 67
+  orig: 110, 67
+  offset: 0, 0
+  index: -1
+25_x300/Fin_Center
+  rotate: false
+  xy: 562, 926
+  size: 166, 17
+  orig: 166, 18
+  offset: 0, 0
+  index: -1
+25_x300/Finshadow
+  rotate: false
+  xy: 411, 353
+  size: 73, 67
+  orig: 110, 67
+  offset: 0, 0
+  index: -1
+25_x300/Horn
+  rotate: false
+  xy: 679, 866
+  size: 45, 37
+  orig: 45, 37
+  offset: 0, 0
+  index: -1
+25_x300/Horn_Green
+  rotate: false
+  xy: 546, 589
+  size: 18, 16
+  orig: 18, 16
+  offset: 0, 0
+  index: -1
+25_x300/Horn_White
+  rotate: false
+  xy: 152, 343
+  size: 18, 15
+  orig: 18, 15
+  offset: 0, 0
+  index: -1
+25_x300/Mouth
+  rotate: false
+  xy: 188, 54
+  size: 15, 26
+  orig: 15, 26
+  offset: 0, 0
+  index: -1
+25_x300/Ring_Elip
+  rotate: false
+  xy: 795, 870
+  size: 21, 25
+  orig: 21, 25
+  offset: 0, 0
+  index: -1
+25_x300/shadown
+  rotate: false
+  xy: 152, 360
+  size: 123, 91
+  orig: 123, 93
+  offset: 0, 1
+  index: -1

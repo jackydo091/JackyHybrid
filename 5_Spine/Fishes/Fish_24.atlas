@@ -1,0 +1,111 @@
+
+Fish1992.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+24_x100x500/Armor
+  rotate: false
+  xy: 2, 214
+  size: 111, 127
+  orig: 111, 127
+  offset: 0, 0
+  index: -1
+24_x100x500/Armor_Fin
+  rotate: true
+  xy: 68, 31
+  size: 58, 43
+  orig: 58, 43
+  offset: 0, 0
+  index: -1
+24_x100x500/Body
+  rotate: false
+  xy: 2, 879
+  size: 278, 143
+  orig: 278, 143
+  offset: 0, 0
+  index: -1
+24_x100x500/Eye
+  rotate: false
+  xy: 609, 797
+  size: 16, 24
+  orig: 16, 24
+  offset: 0, 0
+  index: -1
+24_x100x500/Fin_Back
+  rotate: false
+  xy: 337, 161
+  size: 62, 74
+  orig: 62, 74
+  offset: 0, 0
+  index: -1
+24_x100x500/Fin_L
+  rotate: false
+  xy: 486, 332
+  size: 72, 17
+  orig: 72, 17
+  offset: 0, 0
+  index: -1
+24_x100x500/Fin_T_1
+  rotate: false
+  xy: 679, 905
+  size: 51, 19
+  orig: 51, 19
+  offset: 0, 0
+  index: -1
+24_x100x500/Fin_T_2
+  rotate: false
+  xy: 332, 96
+  size: 50, 18
+  orig: 50, 18
+  offset: 0, 0
+  index: -1
+24_x100x500/Head
+  rotate: true
+  xy: 68, 2
+  size: 27, 93
+  orig: 27, 93
+  offset: 0, 0
+  index: -1
+24_x100x500/Head_horn
+  rotate: false
+  xy: 115, 185
+  size: 58, 156
+  orig: 58, 156
+  offset: 0, 0
+  index: -1
+24_x100x500/Horn
+  rotate: false
+  xy: 440, 452
+  size: 91, 51
+  orig: 91, 51
+  offset: 0, 0
+  index: -1
+24_x100x500/Mouth
+  rotate: false
+  xy: 335, 2
+  size: 31, 26
+  orig: 31, 26
+  offset: 0, 0
+  index: -1
+24_x100x500/Mouth_Back
+  rotate: false
+  xy: 175, 229
+  size: 89, 129
+  orig: 89, 129
+  offset: 0, 0
+  index: -1
+24_x100x500/Shadonw
+  rotate: false
+  xy: 331, 790
+  size: 118, 91
+  orig: 124, 95
+  offset: 3, 2
+  index: -1
+24_x100x500/Tail
+  rotate: false
+  xy: 411, 333
+  size: 73, 18
+  orig: 73, 18
+  offset: 0, 0
+  index: -1
