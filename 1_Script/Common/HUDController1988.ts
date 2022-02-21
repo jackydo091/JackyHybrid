@@ -24,7 +24,7 @@ export class HUDController1988 extends GfHUDController {
     onLoad() {
         super.onLoad();
         this._scaleFactor = 1;
-        this._posButton = [new Vec3(-90, 54, 1), new Vec3(90, 54, 1), new Vec3(0, 54, 1)];
+        this._posButton = [new Vec3(-90, 53, 1), new Vec3(90, 53, 1), new Vec3(0, 53, 1)];
         this.resetAllState();
         DataStore.instance.setIsCompoButtonAutoShow(false);
     }
