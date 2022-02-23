@@ -65,15 +65,12 @@ export class Player1988 extends gfPlayer {
 
     _playEffectFire(gunName?) {
         const spriteGunNode = this.gun.getChildByName('Gun');
-        console.warn('spriteGunNode: ', spriteGunNode);
-        
         if (spriteGunNode) {
             if (!gunName) gunName = `gun${this.getGunIndex() + 1}`;
             this.setIsGunSkill(Object.values(Config1988.instance.GunSkill).indexOf(gunName) > -1);
 
             spriteGunNode.getComponent(Sprite).spriteFrame = this.gunSprite[gunName];
             spriteGunNode.getComponent(Animation).play();
-            console.warn("Animation: ", spriteGunNode.getComponent(Animation));
             
         }
     }

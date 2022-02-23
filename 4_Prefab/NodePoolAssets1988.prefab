@@ -26,7 +26,7 @@
       }
     ],
     "_prefab": {
-      "__id__": 57
+      "__id__": 48
     },
     "_lpos": {
       "__type__": "cc.Vec3",
@@ -236,35 +236,7 @@
         "__id__": 47
       }
     ],
-    "gunSkeletonData": [
-      {
-        "__id__": 48
-      },
-      {
-        "__id__": 49
-      },
-      {
-        "__id__": 50
-      },
-      {
-        "__id__": 51
-      },
-      {
-        "__id__": 52
-      },
-      {
-        "__id__": 53
-      },
-      {
-        "__id__": 54
-      },
-      {
-        "__id__": 55
-      },
-      {
-        "__id__": 56
-      }
-    ],
+    "gunSkeletonData": [],
     "_id": ""
   },
   {
@@ -606,78 +578,6 @@
       "__expectedType__": "cc.BitmapFont"
     },
     "_name": "1"
-  },
-  {
-    "__type__": "gfGunSkeletonData",
-    "_name": "gun1",
-    "animation": {
-      "__uuid__": "3ef10daf-ada8-4263-aa58-f62624adcd56",
-      "__expectedType__": "sp.SkeletonData"
-    }
-  },
-  {
-    "__type__": "gfGunSkeletonData",
-    "_name": "gun2",
-    "animation": {
-      "__uuid__": "6b05577d-a637-4ee1-b03a-c05b433229e9",
-      "__expectedType__": "sp.SkeletonData"
-    }
-  },
-  {
-    "__type__": "gfGunSkeletonData",
-    "_name": "gun3",
-    "animation": {
-      "__uuid__": "a7f20eeb-aa83-4585-af32-2dd8ae9f6a17",
-      "__expectedType__": "sp.SkeletonData"
-    }
-  },
-  {
-    "__type__": "gfGunSkeletonData",
-    "_name": "gun4",
-    "animation": {
-      "__uuid__": "b525007e-34dd-46d7-975f-a6db3b92af4d",
-      "__expectedType__": "sp.SkeletonData"
-    }
-  },
-  {
-    "__type__": "gfGunSkeletonData",
-    "_name": "gun5",
-    "animation": {
-      "__uuid__": "c54240e7-7c52-4349-acb7-b48365f3b707",
-      "__expectedType__": "sp.SkeletonData"
-    }
-  },
-  {
-    "__type__": "gfGunSkeletonData",
-    "_name": "gun6",
-    "animation": {
-      "__uuid__": "1dc4feaa-067b-42ff-b151-627d913f580f",
-      "__expectedType__": "sp.SkeletonData"
-    }
-  },
-  {
-    "__type__": "gfGunSkeletonData",
-    "_name": "gun7",
-    "animation": {
-      "__uuid__": "4a873c70-3aa4-42dd-a9b0-c265741c1ad0",
-      "__expectedType__": "sp.SkeletonData"
-    }
-  },
-  {
-    "__type__": "gfGunSkeletonData",
-    "_name": "GunLaser",
-    "animation": {
-      "__uuid__": "08c7455f-d66b-46c8-92b6-e9bf12f15716",
-      "__expectedType__": "sp.SkeletonData"
-    }
-  },
-  {
-    "__type__": "gfGunSkeletonData",
-    "_name": "GunDrill",
-    "animation": {
-      "__uuid__": "7eddcb66-f162-440d-b662-ad09e4695e39",
-      "__expectedType__": "sp.SkeletonData"
-    }
   },
   {
     "__type__": "cc.PrefabInfo",

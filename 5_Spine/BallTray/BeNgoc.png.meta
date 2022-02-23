@@ -1,0 +1,68 @@
+{
+  "ver": "1.0.21",
+  "importer": "image",
+  "imported": true,
+  "uuid": "25951059-f48d-4cd6-893b-3f0b795631a1",
+  "files": [
+    ".png",
+    ".json"
+  ],
+  "subMetas": {
+    "BeNgoc": {
+      "ver": "1.0.4",
+      "uuid": "ef054f3a-628b-41d8-bb38-e48750a8c863",
+      "rawTextureUuid": "f38375ba-4aeb-45a7-9b27-563c2441d80c",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 2,
+      "trimY": 2,
+      "width": 238,
+      "height": 74,
+      "rawWidth": 242,
+      "rawHeight": 78,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {},
+      "importer": "*",
+      "imported": false,
+      "files": [],
+      "userData": {},
+      "displayName": "",
+      "id": "",
+      "name": ""
+    },
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "25951059-f48d-4cd6-893b-3f0b795631a1@6c48a",
+      "displayName": "BeNgoc",
+      "id": "6c48a",
+      "name": "texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "25951059-f48d-4cd6-893b-3f0b795631a1"
+      },
+      "ver": "1.0.21",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "hasAlpha": true,
+    "type": "texture",
+    "redirect": "25951059-f48d-4cd6-893b-3f0b795631a1@6c48a"
+  }
+}
