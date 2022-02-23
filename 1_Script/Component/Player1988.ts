@@ -1,5 +1,5 @@
 
-import { _decorator, Component, Node, v3, UITransform, sp } from 'cc';
+import { _decorator, Component, Node, v3, UITransform, sp, Sprite, Animation } from 'cc';
 import { gfPlayer } from '../../../cc30-fishbase/Scripts/Components/gfPlayer';
 import DataStore1988 from '../Common/DataStore1988';
 import { SetZIndex } from '../../../cc30-fishbase/Scripts/Utilities/gfUtilities';
@@ -65,22 +65,16 @@ export class Player1988 extends gfPlayer {
 
     _playEffectFire(gunName?) {
         const spriteGunNode = this.gun.getChildByName('Gun');
+        console.warn('spriteGunNode: ', spriteGunNode);
+        
         if (spriteGunNode) {
-            const mainGunAnim = spriteGunNode.getComponent(sp.Skeleton);
             if (!gunName) gunName = `gun${this.getGunIndex() + 1}`;
             this.setIsGunSkill(Object.values(Config1988.instance.GunSkill).indexOf(gunName) > -1);
-            const gunData = NodePoolConfig1988.instance.getGunSkeletonData(gunName);
 
-            if(!mainGunAnim.skeletonData || mainGunAnim.skeletonData.name != gunData.name){
-                mainGunAnim.skeletonData = gunData;
-            }
-            if(gunName === Config1988.instance.GunSkill.DRILL){
-                mainGunAnim.setAnimation(0, 'idle', true);
-            }
-            else{
-                mainGunAnim.setAnimation(0, 'shoot', false);
-                mainGunAnim.addAnimation(0, 'idle', true);
-            }
+            spriteGunNode.getComponent(Sprite).spriteFrame = this.gunSprite[gunName];
+            spriteGunNode.getComponent(Animation).play();
+            console.warn("Animation: ", spriteGunNode.getComponent(Animation));
+            
         }
     }
 
