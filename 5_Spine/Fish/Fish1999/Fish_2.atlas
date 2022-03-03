@@ -1,0 +1,20 @@
+
+1999_Fish.png
+size: 1825,1286
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+2_x4/cavang
+  rotate: false
+  xy: 864, 2
+  size: 62, 117
+  orig: 62, 118
+  offset: 0, 1
+  index: -1
+2_x4/cavang Shadow
+  rotate: false
+  xy: 2, 53
+  size: 207, 392
+  orig: 208, 392
+  offset: 0, 0
+  index: -1

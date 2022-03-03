@@ -1,0 +1,69 @@
+
+1999_Fish.png
+size: 1825,1286
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+6_x8/Shadow_Than
+  rotate: true
+  xy: 1383, 510
+  size: 156, 246
+  orig: 157, 247
+  offset: 0, 1
+  index: -1
+6_x8/Shadow_rau
+  rotate: true
+  xy: 570, 254
+  size: 20, 93
+  orig: 20, 94
+  offset: 0, 1
+  index: -1
+6_x8/tom1
+  rotate: true
+  xy: 298, 108
+  size: 141, 212
+  orig: 141, 213
+  offset: 0, 1
+  index: -1
+6_x8/tom2
+  rotate: false
+  xy: 1607, 242
+  size: 96, 133
+  orig: 96, 134
+  offset: 0, 1
+  index: -1
+6_x8/tom3
+  rotate: false
+  xy: 1032, 297
+  size: 87, 103
+  orig: 88, 103
+  offset: 0, 0
+  index: -1
+6_x8/tomchan1
+  rotate: false
+  xy: 1597, 492
+  size: 38, 16
+  orig: 38, 16
+  offset: 0, 0
+  index: -1
+6_x8/tomchan2
+  rotate: true
+  xy: 1914, 140
+  size: 49, 20
+  orig: 49, 20
+  offset: 0, 0
+  index: -1
+6_x8/tomchan3
+  rotate: false
+  xy: 352, 449
+  size: 49, 14
+  orig: 49, 14
+  offset: 0, 0
+  index: -1
+6_x8/tomchan4
+  rotate: true
+  xy: 1818, 504
+  size: 37, 11
+  orig: 37, 11
+  offset: 0, 0
+  index: -1

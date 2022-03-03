@@ -1,0 +1,34 @@
+
+1999_Fish.png
+size: 1825,1286
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+8_x10/bachtuotbong
+  rotate: true
+  xy: 1979, 359
+  size: 80, 52
+  orig: 81, 53
+  offset: 0, 1
+  index: -1
+8_x10/oc1
+  rotate: true
+  xy: 1893, 736
+  size: 195, 133
+  orig: 195, 134
+  offset: 0, 1
+  index: -1
+8_x10/oc2
+  rotate: true
+  xy: 1639, 672
+  size: 62, 263
+  orig: 62, 264
+  offset: 0, 1
+  index: -1
+8_x10/oc3
+  rotate: true
+  xy: 1352, 338
+  size: 81, 228
+  orig: 82, 228
+  offset: 0, 0
+  index: -1

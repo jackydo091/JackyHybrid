@@ -1,0 +1,27 @@
+
+1999_Fish.png
+size: 2033,1159
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1_x3/cahong
+  rotate: false
+  xy: 211, 127
+  size: 85, 318
+  orig: 85, 319
+  offset: 0, 1
+  index: -1
+1_x3/cahong Shadow
+  rotate: true
+  xy: 806, 647
+  size: 85, 318
+  orig: 85, 319
+  offset: 0, 1
+  index: -1
+1_x3/cahong1
+  rotate: false
+  xy: 1803, 16
+  size: 21, 84
+  orig: 21, 84
+  offset: 0, 0
+  index: -1

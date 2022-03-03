@@ -1,0 +1,28 @@
+
+1999_Fish.png
+size: 1825,1286
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+14_x30x100/sua1
+  rotate: false
+  xy: 792, 486
+  size: 238, 159
+  orig: 238, 159
+  offset: 0, 0
+  index: -1
+14_x30x100/sua2
+  rotate: true
+  xy: 777, 461
+  size: 23, 217
+  orig: 24, 217
+  offset: 0, 0
+  index: -1
+14_x30x100/sua3
+  rotate: false
+  xy: 498, 2
+  size: 71, 90
+  orig: 71, 90
+  offset: 0, 0
+  index: -1
+

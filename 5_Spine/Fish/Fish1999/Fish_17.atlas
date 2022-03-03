@@ -1,0 +1,48 @@
+
+1999_Fish.png
+size: 1825,1286
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+17_x30x100/Shadow_CaLua
+  rotate: false
+  xy: 512, 94
+  size: 163, 156
+  orig: 168, 165
+  offset: 0, 3
+  index: -1
+17_x30x100/calua
+  rotate: true
+  xy: 1142, 923
+  size: 234, 280
+  orig: 234, 281
+  offset: 0, 1
+  index: -1
+17_x30x100/calua2
+  rotate: false
+  xy: 570, 276
+  size: 171, 158
+  orig: 171, 158
+  offset: 0, 0
+  index: -1
+17_x30x100/calua3
+  rotate: true
+  xy: 928, 2
+  size: 61, 71
+  orig: 61, 71
+  offset: 0, 0
+  index: -1
+17_x30x100/calua4
+  rotate: true
+  xy: 1001, 2
+  size: 61, 71
+  orig: 61, 71
+  offset: 0, 0
+  index: -1
+17_x30x100/light
+  rotate: false
+  xy: 1705, 264
+  size: 91, 91
+  orig: 91, 91
+  offset: 0, 0
+  index: -1

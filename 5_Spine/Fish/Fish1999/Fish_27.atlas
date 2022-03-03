@@ -1,0 +1,62 @@
+
+1999_Fish.png
+size: 1825,1286
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+27_Laser/Shadow_Cua
+  rotate: false
+  xy: 964, 147
+  size: 132, 148
+  orig: 132, 148
+  offset: 0, 0
+  index: -1
+27_Laser/cuabody
+  rotate: true
+  xy: 1392, 65
+  size: 116, 133
+  orig: 117, 134
+  offset: 0, 1
+  index: -1
+27_Laser/cuacang1
+  rotate: true
+  xy: 237, 449
+  size: 82, 113
+  orig: 83, 114
+  offset: 0, 1
+  index: -1
+27_Laser/cuacangto
+  rotate: true
+  xy: 1597, 377
+  size: 113, 135
+  orig: 116, 135
+  offset: 1, 0
+  index: -1
+27_Laser/cuachan
+  rotate: true
+  xy: 1739, 8
+  size: 82, 62
+  orig: 82, 62
+  offset: 0, 0
+  index: -1
+27_Laser/cuachan2
+  rotate: true
+  xy: 1862, 59
+  size: 57, 42
+  orig: 57, 42
+  offset: 0, 0
+  index: -1
+27_Laser/cuachan3
+  rotate: true
+  xy: 1826, 39
+  size: 61, 34
+  orig: 61, 34
+  offset: 0, 0
+  index: -1
+27_Laser/sunglaser
+  rotate: true
+  xy: 273, 5
+  size: 101, 152
+  orig: 101, 152
+  offset: 0, 0
+  index: -1

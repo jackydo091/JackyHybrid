@@ -1,0 +1,236 @@
+1999_Fish2.png
+size: 681,523
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+34/Body
+  rotate: false
+  xy: 560, 419
+  size: 70, 78
+  orig: 70, 78
+  offset: 0, 0
+  index: -1
+34/Body_Armor
+  rotate: false
+  xy: 485, 247
+  size: 64, 56
+  orig: 66, 57
+  offset: 1, 0
+  index: -1
+34/Body_Armor_Stone
+  rotate: true
+  xy: 429, 4
+  size: 65, 54
+  orig: 66, 57
+  offset: 1, 2
+  index: -1
+34/Body_Stone1
+  rotate: true
+  xy: 383, 303
+  size: 68, 51
+  orig: 70, 53
+  offset: 1, 1
+  index: -1
+34/Body_Stone2
+  rotate: false
+  xy: 405, 71
+  size: 69, 63
+  orig: 70, 63
+  offset: 1, 0
+  index: -1
+34/Eye_Close
+  rotate: true
+  xy: 107, 273
+  size: 20, 9
+  orig: 20, 9
+  offset: 0, 0
+  index: -1
+34/Fin
+  rotate: false
+  xy: 479, 134
+  size: 46, 31
+  orig: 48, 33
+  offset: 1, 1
+  index: -1
+34/Fin_Stone
+  rotate: true
+  xy: 485, 42
+  size: 46, 31
+  orig: 48, 33
+  offset: 0, 1
+  index: -1
+34/Hat
+  rotate: false
+  xy: 346, 101
+  size: 57, 50
+  orig: 63, 56
+  offset: 5, 3
+  index: -1
+34/Hat_Stone
+  rotate: false
+  xy: 480, 195
+  size: 57, 50
+  orig: 63, 56
+  offset: 5, 3
+  index: -1
+34/Head
+  rotate: true
+  xy: 118, 202
+  size: 91, 67
+  orig: 93, 69
+  offset: 1, 1
+  index: -1
+34/Head_Stone1
+  rotate: true
+  xy: 191, 38
+  size: 78, 63
+  orig: 82, 64
+  offset: 1, 1
+  index: -1
+34/Head_Stone2
+  rotate: true
+  xy: 187, 206
+  size: 79, 44
+  orig: 79, 46
+  offset: 0, 2
+  index: -1
+34/L_Arm
+  rotate: false
+  xy: 386, 2
+  size: 41, 67
+  orig: 43, 69
+  offset: 1, 1
+  index: -1
+34/L_Arm_Stone1
+  rotate: true
+  xy: 267, 9
+  size: 36, 50
+  orig: 39, 52
+  offset: 1, 1
+  index: -1
+34/L_Arm_Stone2
+  rotate: true
+  xy: 151, 2
+  size: 24, 38
+  orig: 27, 40
+  offset: 2, 1
+  index: -1
+34/L_Hand
+  rotate: true
+  xy: 587, 136
+  size: 25, 16
+  orig: 27, 18
+  offset: 1, 1
+  index: -1
+34/L_Hand_Stone
+  rotate: false
+  xy: 581, 28
+  size: 25, 16
+  orig: 27, 18
+  offset: 1, 1
+  index: -1
+34/L_Shoulder_Armor
+  rotate: false
+  xy: 609, 212
+  size: 33, 31
+  orig: 35, 33
+  offset: 1, 1
+  index: -1
+34/L_Shoulder_Armor_Stone
+  rotate: false
+  xy: 518, 17
+  size: 32, 31
+  orig: 35, 33
+  offset: 1, 1
+  index: -1
+34/R_Arm
+  rotate: true
+  xy: 233, 187
+  size: 22, 58
+  orig: 23, 59
+  offset: 0, 1
+  index: -1
+34/R_Arm_Stone
+  rotate: false
+  xy: 662, 350
+  size: 17, 32
+  orig: 17, 32
+  offset: 0, 0
+  index: -1
+34/R_Shoulder_Armor
+  rotate: true
+  xy: 540, 464
+  size: 33, 18
+  orig: 35, 20
+  offset: 1, 1
+  index: -1
+34/R_Shoulder_Armor_Stone
+  rotate: true
+  xy: 552, 50
+  size: 33, 18
+  orig: 35, 20
+  offset: 1, 1
+  index: -1
+34/Sword
+  rotate: true
+  xy: 96, 59
+  size: 101, 21
+  orig: 103, 25
+  offset: 1, 2
+  index: -1
+34/Sword0
+  rotate: false
+  xy: 529, 499
+  size: 108, 22
+  orig: 109, 24
+  offset: 0, 2
+  index: -1
+34/Sword0_Stone
+  rotate: true
+  xy: 94, 162
+  size: 108, 22
+  orig: 109, 24
+  offset: 0, 2
+  index: -1
+34/Sword_Stone
+  rotate: false
+  xy: 108, 378
+  size: 101, 21
+  orig: 103, 25
+  offset: 1, 2
+  index: -1
+34/Tail
+  rotate: false
+  xy: 391, 462
+  size: 113, 43
+  orig: 113, 44
+  offset: 0, 0
+  index: -1
+34/Tail_Stone1
+  rotate: true
+  xy: 232, 118
+  size: 67, 43
+  orig: 67, 44
+  offset: 0, 1
+  index: -1
+34/Tail_Stone2
+  rotate: true
+  xy: 436, 303
+  size: 73, 43
+  orig: 74, 44
+  offset: 1, 1
+  index: -1
+34/khoi_chan_nho
+  rotate: true
+  xy: 2, 152
+  size: 118, 90
+  orig: 118, 90
+  offset: 0, 0
+  index: -1
+34/stabfx
+  rotate: false
+  xy: 215, 484
+  size: 174, 37
+  orig: 174, 37
+  offset: 0, 0
+  index: -1

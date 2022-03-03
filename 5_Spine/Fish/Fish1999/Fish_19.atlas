@@ -1,0 +1,41 @@
+
+1999_Fish.png
+size: 1825,1286
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+19_x100/bong
+  rotate: true
+  xy: 1408, 814
+  size: 99, 275
+  orig: 100, 276
+  offset: 0, 1
+  index: -1
+19_x100/than
+  rotate: true
+  xy: 2, 7
+  size: 44, 269
+  orig: 44, 270
+  offset: 0, 1
+  index: -1
+19_x100/vay
+  rotate: true
+  xy: 1191, 2
+  size: 44, 88
+  orig: 44, 88
+  offset: 0, 0
+  index: -1
+19_x100/vay1
+  rotate: false
+  xy: 1799, 183
+  size: 45, 90
+  orig: 46, 91
+  offset: 0, 1
+  index: -1
+19_x100/vay2
+  rotate: true
+  xy: 211, 53
+  size: 6, 38
+  orig: 6, 38
+  offset: 0, 0
+  index: -1

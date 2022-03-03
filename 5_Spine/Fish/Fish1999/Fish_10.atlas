@@ -1,0 +1,41 @@
+
+1999_Fish.png
+size: 2033,1159
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+10_x15/rangnhon1
+  rotate: false
+  xy: 915, 301
+  size: 115, 158
+  orig: 115, 158
+  offset: 0, 0
+  index: -1
+10_x15/rangnhon2
+  rotate: false
+  xy: 1893, 933
+  size: 133, 224
+  orig: 134, 225
+  offset: 0, 1
+  index: -1
+10_x15/rangnhon3
+  rotate: false
+  xy: 1950, 106
+  size: 32, 33
+  orig: 32, 33
+  offset: 0, 0
+  index: -1
+10_x15/rangnhon4
+  rotate: false
+  xy: 1950, 71
+  size: 32, 33
+  orig: 32, 33
+  offset: 0, 0
+  index: -1
+10_x15/x15_Shadow
+  rotate: true
+  xy: 1098, 155
+  size: 111, 150
+  orig: 112, 151
+  offset: 0, 1
+  index: -1
