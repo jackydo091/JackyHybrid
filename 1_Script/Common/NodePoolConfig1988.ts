@@ -40,6 +40,13 @@ export default class NodePoolConfig1988 extends gfNodePoolConfig {
             "25" : {speed: 20,    FishMultiple: -1,     zIndex: 105, AnimationName: ['animation'], visibleSize: v2(255, 190),   targetPoint: v2(30, 0),      BoxCollider: [new Rect(10, 1.4, 170, 114.3), new Rect(0, 1.7, 75.8, 175)]},
             "27" : {speed: 20,    FishMultiple: -1,     zIndex: 100, AnimationName: ['animation'], visibleSize: v2(200, 150),   targetPoint: v2(20, 0),        BoxCollider: new Rect(0, 0, 94, 118), skipRotate: true, cacheMode: sp.Skeleton.AnimationCacheMode.REALTIME},
             "30" : {speed: 100,   FishMultiple: -1,     zIndex: 103, AnimationName: ['animation'], visibleSize: v2(300, 250),   targetPoint: v2(10, 0),       BoxCollider: [new Rect(10, 0, 220, 70), new Rect(30, 0, 110, 110)], cacheMode: sp.Skeleton.AnimationCacheMode.REALTIME},
+            //Fish 1999
+            "31" : {speed: 20,    FishMultiple: -1,     zIndex: 490, AnimationName: ['animation'],    BoxCollider: new Rect(2, 10, 73, 159), skipRotate: true},
+            "34" : {speed: 20,    FishMultiple: -1,     zIndex: 490, AnimationName: ['walk'],         customComponent: 'MiniBossGuardFish1988',   targetPoint: v2(15, 0),        BoxCollider: new Rect(0, 0, 180, 100)},
+            "35" : {speed: 20,    FishMultiple: -1,     zIndex: 490, AnimationName: ['walk'],         customComponent: 'MiniBossGuardFish1988',   targetPoint: v2(0, 10),        BoxCollider: new Rect(0, 15, 40, 100)},
+            "36" : {speed: 20,    FishMultiple: -1,     zIndex: 490, AnimationName: ['walk'],         customComponent: 'MiniBossGuardFish1988',   BoxCollider: new Rect(0, 5, 50, 45)},
+            "37" : {speed: 20,    FishMultiple: -1,     zIndex: 490, AnimationName: ['walk'],         customComponent: 'MiniBossGuardFish1988',   targetPoint: v2(0, -5),        BoxCollider: new Rect(0, -5, 70, 50)},
+            //End Fish 1999
             "47" : {speed: 20,    FishMultiple: -1,     zIndex: 101, AnimationName: ['animation'], visibleSize: v2(205, 250),   targetPoint: v2(0, 30),       BoxCollider: new Rect(0, 30, 80, 80),   skipRotate: true, customComponent: 'FlowerPoison1988'},
             "43" : {speed: 20,    FishMultiple: -1,     zIndex: 310, AnimationName: ['animation'], visibleSize: v2(400, 230),    BoxCollider: [new Rect(-40.3, 0, 265.4, 63.1), new Rect(-14.1, -1.2, 151.3, 168.9)], haveWounded: false},
             "46" : {speed: 20,    FishMultiple: -1,     zIndex: 104, AnimationName: ['animation'], visibleSize: v2(350, 250),   targetPoint: v2(17, 0),       BoxCollider: [new Rect(0, 0, 230, 50),new Rect(-16.3, -41, 110.6, 32), new Rect(0, 41.4, 60, 33)]},

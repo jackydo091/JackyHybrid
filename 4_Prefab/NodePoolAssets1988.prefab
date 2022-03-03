@@ -26,7 +26,7 @@
       }
     ],
     "_prefab": {
-      "__id__": 48
+      "__id__": 53
     },
     "_lpos": {
       "__type__": "cc.Vec3",
@@ -225,15 +225,30 @@
       },
       {
         "__id__": 45
-      }
-    ],
-    "dragonBall": [],
-    "labelCoin": [
+      },
       {
         "__id__": 46
       },
       {
         "__id__": 47
+      },
+      {
+        "__id__": 48
+      },
+      {
+        "__id__": 49
+      },
+      {
+        "__id__": 50
+      }
+    ],
+    "dragonBall": [],
+    "labelCoin": [
+      {
+        "__id__": 51
+      },
+      {
+        "__id__": 52
       }
     ],
     "gunSkeletonData": [],
@@ -562,6 +577,46 @@
       "__expectedType__": "sp.SkeletonData"
     },
     "_name": "46"
+  },
+  {
+    "__type__": "gfSpineFishAsset",
+    "animation": {
+      "__uuid__": "3f58f1be-6752-4751-b3d1-9efc6a1e46b8",
+      "__expectedType__": "sp.SkeletonData"
+    },
+    "_name": "31"
+  },
+  {
+    "__type__": "gfSpineFishAsset",
+    "animation": {
+      "__uuid__": "18150fb5-65b9-4224-8d56-a05ebd2a335c",
+      "__expectedType__": "sp.SkeletonData"
+    },
+    "_name": "34"
+  },
+  {
+    "__type__": "gfSpineFishAsset",
+    "animation": {
+      "__uuid__": "e9d1899e-a1a7-4d68-ac20-ba036c8b13da",
+      "__expectedType__": "sp.SkeletonData"
+    },
+    "_name": "35"
+  },
+  {
+    "__type__": "gfSpineFishAsset",
+    "animation": {
+      "__uuid__": "f4b44808-b535-48da-b014-18801e276591",
+      "__expectedType__": "sp.SkeletonData"
+    },
+    "_name": "36"
+  },
+  {
+    "__type__": "gfSpineFishAsset",
+    "animation": {
+      "__uuid__": "f803fd48-2264-4e0d-a7a0-32d35e03694f",
+      "__expectedType__": "sp.SkeletonData"
+    },
+    "_name": "37"
   },
   {
     "__type__": "gfLabelCoinAsset",
