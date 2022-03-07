@@ -8,7 +8,7 @@ import ReferenceManager from '../../../../cc30-fishbase/Scripts/Common/gfReferen
 import GameConfig from '../../../../cc30-fishbase/Scripts/Config/gfBaseConfig';
 import EventCode from '../../../../cc30-fishbase/Scripts/Config/gfBaseEvents';
 import { stopAllActions } from '../../../../cc30-fishbase/Scripts/Utilities/gfActionHelper';
-import StateMachine from "../../../../plugins/state-machine.min.js";
+import StateMachine from "../../../../../plugins/state-machine.min.js";
 
 const lodash = globalThis._;
 const SLOT_NAME = {
