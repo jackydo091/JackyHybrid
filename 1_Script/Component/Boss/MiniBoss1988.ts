@@ -1,4 +1,4 @@
-import {_decorator, UIOpacity, tween, Tween, sp, warn, BoxCollider, v2, UITransform, v3, BoxCollider2D} from 'cc';
+import {_decorator, UIOpacity, tween, Tween, sp, warn, BoxCollider, v2, UITransform, v3, BoxCollider2D, Color, Component, Material, Sprite, Collider2D} from 'cc';
 import { randRange } from '../../../../../cc-common/cc-share/common/utils';
 import DataStore from '../../../../cc30-fishbase/Scripts/Common/gfDataStore';
 import Emitter from '../../../../cc30-fishbase/Scripts/Common/gfEventEmitter';
@@ -7,8 +7,10 @@ import gfNode from "../../../../cc30-fishbase/Scripts/Common/gfNode";
 import ReferenceManager from '../../../../cc30-fishbase/Scripts/Common/gfReferenceManager';
 import GameConfig from '../../../../cc30-fishbase/Scripts/Config/gfBaseConfig';
 import EventCode from '../../../../cc30-fishbase/Scripts/Config/gfBaseEvents';
-import { stopAllActions } from '../../../../cc30-fishbase/Scripts/Utilities/gfActionHelper';
+import { fadeOut, stopAllActions } from '../../../../cc30-fishbase/Scripts/Utilities/gfActionHelper';
 import StateMachine from "../../../../../plugins/state-machine.min.js";
+import { gfBaseFish } from '../../../../cc30-fishbase/Scripts/Components/Fishes/gfBaseFish';
+import { SetZIndex } from '../../../../cc30-fishbase/Scripts/Utilities/gfUtilities';
 
 const lodash = globalThis._;
 const SLOT_NAME = {
@@ -98,30 +100,26 @@ const TIME_MOVE = 64; // second
 const TIME_DELAY_SMASH = 2; // second
 const TIME_SMASH = [4.8, 17, 20.3, 30, 40.3]; // second
 
-const {ccclass} = _decorator;
+const {ccclass, property} = _decorator;
 
 @ccclass('MiniBoss1988')
-export class MiniBoss1988 extends gfNode {
-    fishAnim: sp.Skeleton;
-    spAura: sp.Skeleton;
-    nodePosSmashTail: Node;
-    _initialized: false;
-    _timesSmash: [];
-    _fsm: false;
-    listBox: import("cc").Component[];
-    private _buildTick: any;
-    boxTridentOff: import("cc").Component;
-    boxTridentOn: import("cc").Component;
+export default class MiniBoss1988 extends gfBaseFish {
+    @property(sp.Skeleton)
+    private spAura: sp.Skeleton;
+    @property(sp.Skeleton)
+    private fishAnim: sp.Skeleton;
+    @property(Node)
+    private nodePosSmashTail: Node;
+
+    private _initialized: false;
+    private _timesSmash: number[] = [];
+    private _fsm: StateMachine;
+    private listBox: Component[];
+    private boxTridentOff: Component;
+    private boxTridentOn: Component;
     private _status: BossItem;
-    private _isOutScreen: any;
     private _isGoInScreen: boolean;
-    private _offsetX: number;
-    private _maxWidth: number;
-    private _mainMaterial: import("cc").Material;
-    private _FishKind: any;
-    private _FishID: any;
-    private _isDie: boolean;
-    private _skipRotate: boolean;
+    private _mainMaterial: Material;
     private _itemLeft: number;
 
     onLoad() {
@@ -144,10 +142,13 @@ export class MiniBoss1988 extends gfNode {
         this.fishAnim.setMix(ANIMATION_NAME.SmashTail, ANIMATION_NAME.Walk, 0.1);
 
         this.listBox = this.getComponents(BoxCollider);
-        this.boxTridentOff = this.listBox.find((item) => item.tag === 3);
-        this.boxTridentOn = this.listBox.find((item) => item.tag === 5);
+        console.error('listBox: ', this.listBox);
+        this.boxTridentOff = this.listBox[2];
+        this.boxTridentOn = this.listBox[4];
         this.boxTridentOn.enabled = false;
         this.boxTridentOff.enabled = true;
+        var data = {"fid":32370,"fkd":33,"lItm":[2,3,4,5,6]};
+        this.initFishData(data);
     };
 
     initFishData(data) {
@@ -162,11 +163,11 @@ export class MiniBoss1988 extends gfNode {
         this._FishID = data.FishID;
         this._FishKind = data.FishKind;
         this._mainMaterial = this.getMainMaterial();
-        this._maxWidth = this.node.getComponent(BoxCollider2D).size.width * this.node.scaleX;
-        this._offsetX = this.node.getComponent(BoxCollider2D).offset.x * this.node.scaleX;
+        this._maxWidth = this.node.getComponent(BoxCollider2D).size.width * this.node.scale.x;
+        this._offsetX = this.node.getComponent(BoxCollider2D).offset.x * this.node.scale.x;
         this._isOutScreen = true;
         this._isGoInScreen = !this._isOutScreen;
-        this.node.zIndex = 0;
+        SetZIndex(this.node, 0);
         Emitter.instance.emit(EventCode.SOUND.PLAY_SOUND_BACKGROUND, GameConfig.instance.SOUND_BACKGROUND_CONFIG.MINI_BOSS);
     }
 
@@ -253,17 +254,17 @@ export class MiniBoss1988 extends gfNode {
         this.spAura.node.active = false;
         Emitter.instance.emit(EventCode.EFFECT_LAYER.MINIBOSS_CRITICAL, {
             worldPos: this.getBonePositionInWorldSpace(BONES.Gem),
-            scaleX: this.node.scaleX,
+            scaleX: this.node.scale.x,
         });
         this.scheduleOnce(this.updateItemSlot.bind(this), 0.05);
 
         this.fishAnim.setCompleteListener(() => {
-            this.node.runAction(cc.sequence(
-                cc.fadeOut(1),
-                cc.callFunc(() => {
-                    this.onDie();
-                }),
-            ));
+            tween(this.node)
+                .then(fadeOut(1))
+                .call(()=>{
+                    this.onDie()
+                })
+                .start();
         });
 
         Emitter.instance.emit(EventCode.GAME_LAYER.MOVE_OUT_ALL_FISHES);
@@ -404,7 +405,7 @@ export class MiniBoss1988 extends gfNode {
             itemName: boneName,
             worldPos,
             player,
-            scaleX: this.node.scaleX,
+            scaleX: this.node.scale.x,
             GoldReward: data.GoldReward,
             isBigWin: data.isBigWin,
             ignoreItem: ignore,
@@ -421,15 +422,13 @@ export class MiniBoss1988 extends gfNode {
             this._fsm.goNormal();
             // this.goToTransition(TRANSITION.GO_NORMAL);
         });
-        this.node.runAction(
-            cc.sequence(
-                cc.delayTime(1.1),
-                cc.callFunc(() => {
-                    Emitter.instance.emit(EventCode.EFFECT_LAYER.MINIBOSS_SMASH, { nodeSmashTail: this.nodePosSmashTail, scaleX: this.node.scaleX });
+        tween(this.node)
+            .delay(1.1)
+            .call(()=> {
+                    Emitter.instance.emit(EventCode.EFFECT_LAYER.MINIBOSS_SMASH, { nodeSmashTail: this.nodePosSmashTail, scaleX: this.node.scale.x });
                     Emitter.instance.emit(EventCode.COMMON.SHAKE_SCREEN, { timeOneStep: 0.03, amplitude: 3 });
-                }),
-            ),
-        );
+            })
+            .start();
     }
 
     updateItemSlot() {
@@ -490,7 +489,7 @@ export class MiniBoss1988 extends gfNode {
 
     updateOutScreen() {
         const lastState = this._isOutScreen;
-        this._super();
+        super.updateOutScreen();
         if (lastState && !this._isOutScreen) {
             Emitter.instance.emit(EventCode.FISH_LAYER.BOSS_ON_GAME);
         }
@@ -498,18 +497,28 @@ export class MiniBoss1988 extends gfNode {
 
     onHit() {
         if (this._mainMaterial) {
-            this.fishAnim.node.color = cc.Color.WHITE;
+            this.fishAnim.node.getComponent(Sprite).color = Color.WHITE;
             this._mainMaterial.setProperty('brightness', 0.2);
         }
-        this.fishAnim.node.runAction(cc.sequence(
-            cc.delayTime(0.1),
-            cc.callFunc(() => {
+        tween(this.fishAnim.node)
+            .delay(0.1)
+            .call(()=>{
                 if (this._mainMaterial) {
-                    this.fishAnim.node.color = cc.Color.WHITE;
+                    this.fishAnim.node.getComponent(Sprite).color = Color.WHITE;
                     this._mainMaterial.setProperty('brightness', 0.0);
                 }
-            }),
-        ));
+            })
+            .start();
+
+        // this.fishAnim.node.runAction(cc.sequence(
+        //     cc.delayTime(0.1),
+        //     cc.callFunc(() => {
+        //         if (this._mainMaterial) {
+        //             this.fishAnim.node.color = cc.Color.WHITE;
+        //             this._mainMaterial.setProperty('brightness', 0.0);
+        //         }
+        //     }),
+        // ));
     }
 
     onCollisionEnter(other) {
@@ -588,9 +597,9 @@ export class MiniBoss1988 extends gfNode {
 
     updateAura() {
         this.spAura.setCompleteListener(() => { });
-        this.spAura.setAnimation(0, this._itemLeft, false);
+        this.spAura.setAnimation(0, this._itemLeft.toString(), false);
         this.spAura.setCompleteListener(() => {
-            this.spAura.setAnimation(0, this._itemLeft, false);
+            this.spAura.setAnimation(0, this._itemLeft.toString(), false);
         });
     };
 
@@ -607,5 +616,4 @@ export class MiniBoss1988 extends gfNode {
     onIced() { };
     returnPool() { };
 }
-
 

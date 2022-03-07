@@ -1869,10 +1869,7 @@
     "__prefab": {
       "__id__": 72
     },
-    "listPrefabFish": {
-      "__uuid__": "ea4fbb97-2880-44f4-af99-a1030d2a1731",
-      "__expectedType__": "cc.Prefab"
-    },
+    "listPrefabFish": null,
     "_id": ""
   },
   {

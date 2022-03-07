@@ -45,10 +45,13 @@
       },
       {
         "__id__": 26
+      },
+      {
+        "__id__": 28
       }
     ],
     "_prefab": {
-      "__id__": 28
+      "__id__": 30
     },
     "_lpos": {
       "__type__": "cc.Vec3",
@@ -322,7 +325,7 @@
       "__expectedType__": "sp.SkeletonData"
     },
     "defaultSkin": "default",
-    "defaultAnimation": "<None>",
+    "defaultAnimation": "Walk",
     "_sockets": [],
     "_debugMesh": false,
     "_id": ""
@@ -426,7 +429,7 @@
     "node": {
       "__id__": 1
     },
-    "_enabled": true,
+    "_enabled": false,
     "__prefab": {
       "__id__": 19
     },
@@ -434,8 +437,8 @@
     "_isTrigger": false,
     "_center": {
       "__type__": "cc.Vec3",
-      "x": -22.8,
-      "y": 8.3,
+      "x": 0,
+      "y": 3,
       "z": 0
     },
     "_size": {
@@ -457,7 +460,7 @@
     "node": {
       "__id__": 1
     },
-    "_enabled": true,
+    "_enabled": false,
     "__prefab": {
       "__id__": 21
     },
@@ -488,7 +491,7 @@
     "node": {
       "__id__": 1
     },
-    "_enabled": true,
+    "_enabled": false,
     "__prefab": {
       "__id__": 23
     },
@@ -519,7 +522,7 @@
     "node": {
       "__id__": 1
     },
-    "_enabled": true,
+    "_enabled": false,
     "__prefab": {
       "__id__": 25
     },
@@ -550,7 +553,7 @@
     "node": {
       "__id__": 1
     },
-    "_enabled": true,
+    "_enabled": false,
     "__prefab": {
       "__id__": 27
     },
@@ -573,6 +576,29 @@
   {
     "__type__": "cc.CompPrefabInfo",
     "fileId": "30Wy/nohNBkI9hKrhIPh9Q"
+  },
+  {
+    "__type__": "237dcAybCxL3ZUO03zQg2op",
+    "_name": "",
+    "_objFlags": 0,
+    "node": {
+      "__id__": 1
+    },
+    "_enabled": true,
+    "__prefab": {
+      "__id__": 29
+    },
+    "spAura": {
+      "__id__": 5
+    },
+    "fishAnim": {
+      "__id__": 11
+    },
+    "_id": ""
+  },
+  {
+    "__type__": "cc.CompPrefabInfo",
+    "fileId": "0cTbQFjM5Oyoc6Tq1x0XCD"
   },
   {
     "__type__": "cc.PrefabInfo",
