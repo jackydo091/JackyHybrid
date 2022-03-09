@@ -26,7 +26,7 @@
       }
     ],
     "_prefab": {
-      "__id__": 53
+      "__id__": 60
     },
     "_lpos": {
       "__type__": "cc.Vec3",
@@ -242,16 +242,37 @@
         "__id__": 50
       }
     ],
-    "dragonBall": [],
-    "labelCoin": [
+    "dragonBall": [
       {
         "__id__": 51
       },
       {
         "__id__": 52
+      },
+      {
+        "__id__": 53
+      },
+      {
+        "__id__": 54
+      },
+      {
+        "__id__": 55
+      },
+      {
+        "__id__": 56
+      },
+      {
+        "__id__": 57
       }
     ],
-    "gunSkeletonData": [],
+    "labelCoin": [
+      {
+        "__id__": 58
+      },
+      {
+        "__id__": 59
+      }
+    ],
     "_id": ""
   },
   {
@@ -549,7 +570,7 @@
   {
     "__type__": "gfSpineFishAsset",
     "animation": {
-      "__uuid__": "54300adb-b4e2-4eee-8f32-2c40aae74c39",
+      "__uuid__": "c0df56fd-a4c6-4be0-b346-46a27b7c53dd",
       "__expectedType__": "sp.SkeletonData"
     },
     "_name": "27"
@@ -617,6 +638,62 @@
       "__expectedType__": "sp.SkeletonData"
     },
     "_name": "37"
+  },
+  {
+    "__type__": "gfDragonBallAsset",
+    "sprite": {
+      "__uuid__": "04135550-a86c-4bf3-ad40-40a07b6bc82b@f9941",
+      "__expectedType__": "cc.SpriteFrame"
+    },
+    "_name": "1"
+  },
+  {
+    "__type__": "gfDragonBallAsset",
+    "sprite": {
+      "__uuid__": "e95fca50-358f-45cc-9dc9-2e53960559f6@f9941",
+      "__expectedType__": "cc.SpriteFrame"
+    },
+    "_name": "2"
+  },
+  {
+    "__type__": "gfDragonBallAsset",
+    "sprite": {
+      "__uuid__": "db16b05c-eb95-4522-ae7f-a8bd51346287@f9941",
+      "__expectedType__": "cc.SpriteFrame"
+    },
+    "_name": "3"
+  },
+  {
+    "__type__": "gfDragonBallAsset",
+    "sprite": {
+      "__uuid__": "a0043208-27ef-48c7-b24e-7121af1e239a@f9941",
+      "__expectedType__": "cc.SpriteFrame"
+    },
+    "_name": "4"
+  },
+  {
+    "__type__": "gfDragonBallAsset",
+    "sprite": {
+      "__uuid__": "62b687d9-8fc7-47fa-9f59-4b261efca682@f9941",
+      "__expectedType__": "cc.SpriteFrame"
+    },
+    "_name": "5"
+  },
+  {
+    "__type__": "gfDragonBallAsset",
+    "sprite": {
+      "__uuid__": "6473414a-80c4-418d-a089-d3ec7b2b833a@f9941",
+      "__expectedType__": "cc.SpriteFrame"
+    },
+    "_name": "6"
+  },
+  {
+    "__type__": "gfDragonBallAsset",
+    "sprite": {
+      "__uuid__": "545a62a2-f3ba-4cac-a0f3-a6d2c7936c80@f9941",
+      "__expectedType__": "cc.SpriteFrame"
+    },
+    "_name": "7"
   },
   {
     "__type__": "gfLabelCoinAsset",

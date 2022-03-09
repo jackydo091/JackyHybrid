@@ -6,7 +6,7 @@ export default class Config1988 extends gfBaseConfig {
     public static instance: Config1988 = null;
     SOUND_SLIDER: boolean;
     BOSS_PREFAB_NAME = {
-        DRAGON : 'BossBoris1988',
+        DRAGON : 'Dragon',
     };
     public GunSkill: { LASER: string; DRILL: string};
 

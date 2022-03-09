@@ -36,16 +36,16 @@ export default class NodePoolConfig1988 extends gfNodePoolConfig {
             "21" : {speed: 40,    FishMultiple: -1,     zIndex: 205, AnimationName: ['animation'], visibleSize: v2(150, 150),   targetPoint: v2(25, 0),        BoxCollider: [new Rect(0, 0, 100, 41.6), new Rect(23.3, 0.5, 35.7, 120)]},
             "22" : {speed: 20,    FishMultiple: -1,     zIndex: 107, AnimationName: ['animation'], visibleSize: v2(280, 120),   targetPoint: v2(55, 0),       BoxCollider: [new Rect(0, 0, 220, 50), new Rect(22.7, 0, 34.5, 141)]},
             "23" : {speed: 20,    FishMultiple: -1,     zIndex: 106, AnimationName: ['animation'], visibleSize: v2(265, 150),   targetPoint: v2(-60, 0),        BoxCollider: [new Rect(10, -3.6, 180.5, 77), new Rect(14.7, 0, 33.9, 148), new Rect(-60, 0, 43.8, 124.2)]},
-            "24" : {speed: 20,   FishMultiple: -1,     zIndex: 102, AnimationName: ['animation'], visibleSize: v2(265, 220),   targetPoint: v2(55, 0),       BoxCollider: [new Rect(-8.2, 6, 240, 34.5), new Rect(70.1, 0.5, 123.5, 140)]},
+            "24" : {speed: 20,   FishMultiple: -1,      zIndex: 102, AnimationName: ['animation'], visibleSize: v2(265, 220),   targetPoint: v2(55, 0),       BoxCollider: [new Rect(-8.2, 6, 240, 34.5), new Rect(70.1, 0.5, 123.5, 140)]},
             "25" : {speed: 20,    FishMultiple: -1,     zIndex: 105, AnimationName: ['animation'], visibleSize: v2(255, 190),   targetPoint: v2(30, 0),      BoxCollider: [new Rect(10, 1.4, 170, 114.3), new Rect(0, 1.7, 75.8, 175)]},
             "27" : {speed: 20,    FishMultiple: -1,     zIndex: 100, AnimationName: ['animation'], visibleSize: v2(200, 150),   targetPoint: v2(20, 0),        BoxCollider: new Rect(0, 0, 94, 118), skipRotate: true, cacheMode: sp.Skeleton.AnimationCacheMode.REALTIME},
             "30" : {speed: 100,   FishMultiple: -1,     zIndex: 103, AnimationName: ['animation'], visibleSize: v2(300, 250),   targetPoint: v2(10, 0),       BoxCollider: [new Rect(10, 0, 220, 70), new Rect(30, 0, 110, 110)], cacheMode: sp.Skeleton.AnimationCacheMode.REALTIME},
             //Fish 1999
             "31" : {speed: 20,    FishMultiple: -1,     zIndex: 490, AnimationName: ['animation'],    BoxCollider: new Rect(2, 10, 73, 159), skipRotate: true},
-            "34" : {speed: 20,    FishMultiple: -1,     zIndex: 490, AnimationName: ['walk'],         customComponent: 'MiniBossGuardFish1988',   targetPoint: v2(15, 0),        BoxCollider: new Rect(0, 0, 180, 100)},
-            "35" : {speed: 20,    FishMultiple: -1,     zIndex: 490, AnimationName: ['walk'],         customComponent: 'MiniBossGuardFish1988',   targetPoint: v2(0, 10),        BoxCollider: new Rect(0, 15, 40, 100)},
-            "36" : {speed: 20,    FishMultiple: -1,     zIndex: 490, AnimationName: ['walk'],         customComponent: 'MiniBossGuardFish1988',   BoxCollider: new Rect(0, 5, 50, 45)},
-            "37" : {speed: 20,    FishMultiple: -1,     zIndex: 490, AnimationName: ['walk'],         customComponent: 'MiniBossGuardFish1988',   targetPoint: v2(0, -5),        BoxCollider: new Rect(0, -5, 70, 50)},
+            "34" : {speed: 20,    FishMultiple: -1,     zIndex: 490, AnimationName: ['walk'],         targetPoint: v2(15, 0),        BoxCollider: new Rect(0, 0, 180, 100)},
+            "35" : {speed: 20,    FishMultiple: -1,     zIndex: 490, AnimationName: ['walk'],         targetPoint: v2(0, 10),        BoxCollider: new Rect(0, 15, 40, 100)},
+            "36" : {speed: 20,    FishMultiple: -1,     zIndex: 490, AnimationName: ['walk'],         BoxCollider: new Rect(0, 5, 50, 45)},
+            "37" : {speed: 20,    FishMultiple: -1,     zIndex: 490, AnimationName: ['walk'],         targetPoint: v2(0, -5),        BoxCollider: new Rect(0, -5, 70, 50)},
             //End Fish 1999
             "47" : {speed: 20,    FishMultiple: -1,     zIndex: 101, AnimationName: ['animation'], visibleSize: v2(205, 250),   targetPoint: v2(0, 30),       BoxCollider: new Rect(0, 30, 80, 80),   skipRotate: true, customComponent: 'FlowerPoison1988'},
             "43" : {speed: 20,    FishMultiple: -1,     zIndex: 310, AnimationName: ['animation'], visibleSize: v2(400, 230),    BoxCollider: [new Rect(-40.3, 0, 265.4, 63.1), new Rect(-14.1, -1.2, 151.3, 168.9)], haveWounded: false},
@@ -67,10 +67,5 @@ export default class NodePoolConfig1988 extends gfNodePoolConfig {
     initNodePoolAssets(listAssets){
         this.assetHolder = instantiate(listAssets).getComponent(NodePoolAssets1988);
         this.assetHolder.initMapAssets();
-    }
-
-    getGunSkeletonData(name){
-        const gunData = (this.assetHolder as NodePoolAssets1988).getGunSkeletonData(name);
-        return gunData;
     }
 }

@@ -110,8 +110,7 @@ export default class MiniBoss1988 extends gfBaseFish {
     private fishAnim: sp.Skeleton;
     @property(Node)
     private nodePosSmashTail: Node;
-
-    private _initialized: false;
+    private _initialized: boolean = false;
     private _timesSmash: number[] = [];
     private _fsm: StateMachine;
     private listBox: Component[];
@@ -152,6 +151,7 @@ export default class MiniBoss1988 extends gfBaseFish {
     };
 
     initFishData(data) {
+        this._initialized = true;
         this._buildTick = data.buildTick ? data.buildTick : DataStore.instance.getTime();
         const timePassed = this.checkTimePassed();
         this._timesSmash = TIME_SMASH.filter((time) => time > timePassed);
